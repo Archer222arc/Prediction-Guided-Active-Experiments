@@ -1,0 +1,15 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.20.0
+scipy>=1.9.0
+tqdm>=4.64.0
+
+# LLM APIs
+openai>=1.0.0
+
+# Data processing
+pyreadstat>=1.2.0
+
+# Optional: Jupyter for local notebooks (not tracked)
+# jupyter>=1.0.0
+# notebook>=6.4.0

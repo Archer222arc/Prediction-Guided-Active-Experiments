@@ -206,3 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 config/
+
+# Jupyter Notebooks (working files, not tracked)
+*.ipynb
+notebooks/
+*_notebook.py
