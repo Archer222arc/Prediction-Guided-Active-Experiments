@@ -1,0 +1,28 @@
+{
+  "method": "cot",
+  "total_personas": 2058,
+  "total_questions": 10,
+  "questions": [
+    "carbon_tax",
+    "clean_energy",
+    "clean_electricity",
+    "medicare_for_all",
+    "public_option",
+    "immigration_reform",
+    "paid_family_leave",
+    "wealth_tax",
+    "deportations",
+    "medicare_vouchers"
+  ],
+  "carbon_tax_success_rate": 1.0,
+  "clean_energy_success_rate": 1.0,
+  "clean_electricity_success_rate": 1.0,
+  "medicare_for_all_success_rate": 1.0,
+  "public_option_success_rate": 1.0,
+  "immigration_reform_success_rate": 1.0,
+  "paid_family_leave_success_rate": 1.0,
+  "wealth_tax_success_rate": 1.0,
+  "deportations_success_rate": 1.0,
+  "medicare_vouchers_success_rate": 1.0,
+  "overall_success_rate": 1.0
+}

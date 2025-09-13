@@ -1,0 +1,2059 @@
+RESPID,EDUCATION,EDUCATION_TEXT,CARBONTAX,CLEANENERGY,CLEANELEC,MEDICAREALL,PUBLICOPTION,IMMIGRATION,FAMILYLEAVE,WEALTHTAX,DEPORTATIONS,MEDICVOUCHER
+pid_1,3,"Some college, no degree",2,4,3,1,4,4,4,2,4,3
+pid_2,3,"Some college, no degree",4,4,5,5,5,5,5,5,1,3
+pid_3,3,"Some college, no degree",4,2,3,4,3,4,2,3,4,2
+pid_4,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,3,2
+pid_5,3,Associate's degree,3,5,3,1,5,1,5,5,5,5
+pid_6,3,"Some college, no degree",4,3,5,4,5,4,5,5,3,4
+pid_7,5,College graduate/some postgrad,5,5,5,5,3,3,5,4,4,5
+pid_8,5,Postgraduate,5,5,5,5,5,5,5,5,1,5
+pid_9,5,Postgraduate,4,4,3,4,4,3,4,3,5,4
+pid_10,3,"Some college, no degree",5,4,5,4,4,3,4,3,3,5
+pid_11,3,Associate's degree,5,5,5,5,4,5,5,5,1,1
+pid_12,5,Postgraduate,3,4,3,4,4,5,5,4,4,3
+pid_13,3,"Some college, no degree",3,3,2,2,4,2,4,3,5,4
+pid_14,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,2,5
+pid_15,3,Associate's degree,1,1,1,1,1,1,3,1,5,4
+pid_16,3,"Some college, no degree",5,5,5,5,5,5,5,5,2,4
+pid_17,5,College graduate/some postgrad,4,3,4,5,5,5,4,4,2,3
+pid_18,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_19,5,Postgraduate,2,2,3,5,5,2,4,5,5,5
+pid_20,5,Postgraduate,2,2,4,4,4,4,4,1,5,4
+pid_21,5,Postgraduate,5,4,4,5,4,5,5,5,3,5
+pid_22,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,4,5
+pid_23,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,5
+pid_24,2,High school graduate,5,5,5,5,5,5,5,5,3,4
+pid_25,2,High school graduate,5,5,5,5,4,5,5,5,1,1
+pid_26,5,Postgraduate,4,4,4,4,4,4,4,4,3,3
+pid_27,3,"Some college, no degree",5,4,5,5,5,5,5,5,3,5
+pid_28,5,Postgraduate,4,3,4,4,5,5,5,5,4,3
+pid_29,2,High school graduate,4,4,4,3,5,5,5,5,3,5
+pid_30,5,College graduate/some postgrad,3,2,3,1,1,1,5,4,5,3
+pid_31,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,3,5
+pid_32,2,High school graduate,5,4,5,5,5,5,5,5,1,3
+pid_33,5,College graduate/some postgrad,4,3,4,5,5,5,5,5,1,4
+pid_34,2,High school graduate,4,4,4,4,4,4,4,4,4,3
+pid_35,5,Postgraduate,2,4,4,5,3,4,5,4,2,4
+pid_36,5,College graduate/some postgrad,3,5,5,5,4,5,5,3,5,4
+pid_37,3,"Some college, no degree",4,5,5,5,4,5,5,4,1,1
+pid_38,2,High school graduate,1,1,1,1,1,1,1,5,1,3
+pid_39,3,"Some college, no degree",5,4,5,5,3,5,5,5,1,3
+pid_40,3,Associate's degree,2,2,1,1,2,3,1,1,4,2
+pid_41,5,College graduate/some postgrad,4,5,5,4,4,5,5,3,3,4
+pid_42,5,Postgraduate,2,2,3,3,3,4,4,3,4,3
+pid_43,3,"Some college, no degree",1,1,5,5,5,5,5,5,1,5
+pid_44,3,"Some college, no degree",3,4,4,4,5,4,5,5,4,4
+pid_45,3,"Some college, no degree",3,4,4,4,4,4,4,4,4,4
+pid_46,5,College graduate/some postgrad,5,4,4,5,4,4,5,5,2,2
+pid_47,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,2,2
+pid_48,5,College graduate/some postgrad,4,3,4,5,5,3,3,3,3,3
+pid_49,2,High school graduate,3,4,3,4,3,3,4,4,3,4
+pid_50,3,Associate's degree,1,5,2,4,5,1,4,4,5,5
+pid_51,2,High school graduate,5,5,5,4,5,5,5,5,1,5
+pid_52,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,5
+pid_53,5,College graduate/some postgrad,5,4,5,5,3,5,5,5,1,3
+pid_54,3,"Some college, no degree",5,2,4,3,5,5,3,4,2,2
+pid_55,5,College graduate/some postgrad,4,4,5,5,5,4,5,5,1,3
+pid_56,2,High school graduate,4,5,5,5,5,4,5,5,3,5
+pid_57,5,Postgraduate,4,4,5,5,3,4,5,5,3,2
+pid_58,3,Associate's degree,2,2,1,1,3,1,4,3,5,4
+pid_59,5,College graduate/some postgrad,5,5,5,4,4,5,5,5,2,4
+pid_60,2,High school graduate,4,4,4,5,4,3,5,4,4,4
+pid_61,5,College graduate/some postgrad,2,3,2,1,5,2,3,4,5,5
+pid_62,3,"Some college, no degree",2,4,5,5,4,1,3,5,5,2
+pid_63,3,"Some college, no degree",5,4,5,5,5,5,5,4,2,5
+pid_64,2,High school graduate,2,3,2,4,3,3,3,4,4,4
+pid_65,3,"Some college, no degree",2,3,4,4,5,1,5,4,1,3
+pid_66,5,College graduate/some postgrad,5,4,4,4,2,3,4,3,3,4
+pid_67,3,"Some college, no degree",4,4,5,5,5,5,5,5,2,2
+pid_68,5,College graduate/some postgrad,3,4,3,5,3,3,5,5,2,5
+pid_69,5,College graduate/some postgrad,4,4,4,5,4,4,5,4,2,4
+pid_70,3,"Some college, no degree",4,3,4,2,4,4,4,5,4,4
+pid_71,5,College graduate/some postgrad,4,5,4,5,2,4,5,4,3,4
+pid_72,3,"Some college, no degree",4,3,4,4,5,4,4,5,2,3
+pid_73,3,Associate's degree,3,4,4,5,5,1,4,5,5,5
+pid_74,3,Associate's degree,5,4,5,5,5,5,5,5,3,5
+pid_75,2,High school graduate,5,5,5,5,5,5,5,5,1,2
+pid_76,3,"Some college, no degree",4,5,5,5,5,5,5,5,2,2
+pid_77,2,High school graduate,4,4,4,5,4,4,5,5,2,3
+pid_78,3,Associate's degree,1,3,1,3,3,1,5,5,5,4
+pid_79,3,Associate's degree,5,5,5,5,4,5,5,5,1,3
+pid_80,5,College graduate/some postgrad,4,5,5,5,4,2,5,4,3,1
+pid_81,5,College graduate/some postgrad,4,5,4,4,4,4,3,5,2,5
+pid_82,5,College graduate/some postgrad,5,1,5,5,5,5,5,5,5,1
+pid_83,3,Associate's degree,5,1,5,5,4,4,4,5,5,2
+pid_84,3,"Some college, no degree",2,3,4,5,4,5,5,5,3,4
+pid_85,5,College graduate/some postgrad,4,5,4,5,4,4,2,3,5,4
+pid_86,2,High school graduate,4,5,4,5,5,5,5,5,2,5
+pid_87,3,"Some college, no degree",1,4,2,5,5,4,4,4,4,1
+pid_88,5,College graduate/some postgrad,4,3,3,4,4,3,4,3,3,3
+pid_89,3,Associate's degree,5,5,5,5,5,5,5,5,1,1
+pid_90,5,College graduate/some postgrad,3,5,4,5,5,4,5,3,4,5
+pid_91,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,3,5
+pid_92,3,"Some college, no degree",4,4,4,4,5,5,4,5,2,3
+pid_93,3,Associate's degree,4,5,4,5,3,4,5,5,4,1
+pid_94,5,College graduate/some postgrad,1,1,1,3,3,1,1,2,5,2
+pid_95,5,Postgraduate,5,4,5,5,5,5,5,5,1,4
+pid_96,3,"Some college, no degree",5,4,4,5,4,5,3,5,3,1
+pid_97,5,Postgraduate,5,5,5,4,4,4,5,5,2,4
+pid_98,5,College graduate/some postgrad,1,1,1,1,4,1,5,1,5,5
+pid_99,3,Associate's degree,3,2,2,2,4,4,4,4,5,4
+pid_100,5,Postgraduate,5,5,5,5,5,5,5,5,1,4
+pid_101,2,High school graduate,2,3,1,2,4,3,4,3,4,3
+pid_102,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,3,5
+pid_103,5,College graduate/some postgrad,3,2,2,3,5,3,5,5,3,5
+pid_104,3,Associate's degree,4,4,5,3,2,4,4,3,5,4
+pid_105,2,High school graduate,5,5,5,5,5,5,5,5,1,4
+pid_106,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,2,4
+pid_107,5,College graduate/some postgrad,4,2,3,4,4,1,3,4,5,2
+pid_108,5,College graduate/some postgrad,5,4,4,5,4,5,5,4,2,3
+pid_109,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,3
+pid_110,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,3,3
+pid_111,2,High school graduate,4,3,4,3,4,5,4,4,3,4
+pid_112,5,College graduate/some postgrad,4,5,4,5,5,5,5,5,4,5
+pid_113,5,Postgraduate,4,4,3,3,5,4,4,4,3,4
+pid_114,5,College graduate/some postgrad,4,4,4,3,4,4,4,2,2,2
+pid_115,5,College graduate/some postgrad,3,5,3,5,5,5,5,5,1,3
+pid_116,5,College graduate/some postgrad,2,4,4,4,5,2,4,4,5,4
+pid_117,2,High school graduate,2,5,3,5,5,4,5,5,4,5
+pid_118,5,Postgraduate,3,4,3,1,4,4,4,3,5,4
+pid_119,3,"Some college, no degree",1,1,1,1,3,2,2,1,5,4
+pid_120,3,Associate's degree,5,4,4,5,5,5,5,3,5,4
+pid_121,3,Associate's degree,1,1,1,1,3,1,1,1,5,3
+pid_122,3,Associate's degree,5,5,5,5,5,5,5,5,1,5
+pid_123,3,"Some college, no degree",1,3,4,1,4,5,5,1,1,4
+pid_124,5,College graduate/some postgrad,3,3,4,5,3,4,4,1,4,4
+pid_125,5,College graduate/some postgrad,1,1,1,1,5,1,4,3,5,3
+pid_126,5,Postgraduate,3,4,5,4,3,2,3,4,3,3
+pid_127,3,Associate's degree,4,3,3,3,4,4,4,4,4,4
+pid_128,5,Postgraduate,1,2,1,1,1,1,5,1,5,5
+pid_129,3,Associate's degree,4,4,5,5,5,5,5,5,3,4
+pid_130,5,College graduate/some postgrad,5,3,4,5,5,5,5,5,2,5
+pid_131,5,College graduate/some postgrad,1,3,1,1,3,1,4,1,5,5
+pid_132,2,High school graduate,2,1,4,5,4,5,3,4,1,1
+pid_133,5,College graduate/some postgrad,1,5,1,1,4,5,5,5,4,5
+pid_134,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,1
+pid_135,5,Postgraduate,2,3,4,3,3,4,2,2,3,2
+pid_136,3,"Some college, no degree",5,4,5,5,5,1,1,5,5,5
+pid_137,3,"Some college, no degree",1,4,2,5,2,2,5,5,5,5
+pid_138,2,High school graduate,4,5,4,5,5,4,4,5,3,5
+pid_139,2,High school graduate,5,4,5,4,5,5,4,5,2,3
+pid_140,5,Postgraduate,4,5,5,4,5,5,5,5,1,4
+pid_141,3,"Some college, no degree",4,3,4,5,4,5,5,5,1,3
+pid_142,3,"Some college, no degree",4,5,5,5,5,3,5,5,5,5
+pid_143,5,College graduate/some postgrad,2,2,2,2,4,2,3,2,5,5
+pid_144,5,College graduate/some postgrad,3,4,2,1,1,1,3,4,5,3
+pid_145,3,Associate's degree,4,3,3,2,4,4,3,3,4,3
+pid_146,5,College graduate/some postgrad,3,4,4,4,3,2,2,5,4,4
+pid_147,5,College graduate/some postgrad,2,3,4,1,4,1,4,1,5,4
+pid_148,5,College graduate/some postgrad,5,4,3,4,4,4,4,5,5,4
+pid_149,3,Associate's degree,5,4,4,5,4,4,5,5,3,5
+pid_150,3,"Some college, no degree",1,1,1,1,3,2,1,1,5,3
+pid_151,2,High school graduate,5,5,5,5,5,4,5,5,4,4
+pid_152,2,High school graduate,5,5,5,5,5,5,5,5,2,4
+pid_153,5,College graduate/some postgrad,2,4,3,4,4,1,3,5,4,5
+pid_154,3,"Some college, no degree",4,4,3,4,4,3,3,4,4,3
+pid_155,2,High school graduate,3,3,3,3,3,3,3,3,3,3
+pid_156,3,"Some college, no degree",1,1,1,1,3,1,3,1,5,3
+pid_157,3,Associate's degree,4,2,4,5,5,1,5,2,5,5
+pid_158,3,Associate's degree,4,4,5,4,4,4,5,5,4,5
+pid_159,5,Postgraduate,5,5,5,5,5,5,5,5,1,3
+pid_160,3,"Some college, no degree",4,5,4,4,4,5,5,5,1,4
+pid_161,5,College graduate/some postgrad,4,4,5,5,5,3,5,5,4,5
+pid_162,3,Associate's degree,4,4,5,4,5,3,5,5,3,4
+pid_163,5,College graduate/some postgrad,3,4,5,4,4,4,5,5,4,3
+pid_164,1,Less than high school,1,4,4,5,4,1,5,2,4,4
+pid_165,5,College graduate/some postgrad,3,4,4,5,5,5,5,5,1,5
+pid_166,3,"Some college, no degree",1,1,1,1,1,1,1,1,5,5
+pid_167,5,College graduate/some postgrad,4,3,4,2,4,3,4,4,2,5
+pid_168,5,College graduate/some postgrad,5,4,3,5,5,4,5,5,2,4
+pid_169,5,Postgraduate,2,5,5,4,4,4,5,5,4,4
+pid_170,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,3
+pid_171,5,College graduate/some postgrad,4,4,4,4,5,2,5,5,5,1
+pid_172,5,College graduate/some postgrad,3,4,2,2,4,2,4,1,5,4
+pid_173,5,College graduate/some postgrad,1,3,2,3,1,4,5,5,2,1
+pid_174,2,High school graduate,5,5,5,5,5,5,5,5,1,5
+pid_175,5,College graduate/some postgrad,4,3,5,5,5,4,5,5,5,5
+pid_176,5,College graduate/some postgrad,2,2,3,1,2,2,1,1,5,1
+pid_177,3,"Some college, no degree",4,4,5,4,4,2,4,2,5,4
+pid_178,3,"Some college, no degree",5,5,5,5,5,5,4,5,2,5
+pid_179,5,College graduate/some postgrad,2,3,4,5,3,4,5,4,2,2
+pid_180,5,College graduate/some postgrad,4,5,4,5,2,2,5,5,5,4
+pid_181,3,Associate's degree,4,4,4,4,5,4,5,5,5,3
+pid_182,5,College graduate/some postgrad,1,1,1,4,4,1,4,1,5,4
+pid_183,5,College graduate/some postgrad,3,3,3,3,3,3,3,3,3,3
+pid_184,3,"Some college, no degree",5,3,4,5,5,5,4,5,1,5
+pid_185,5,College graduate/some postgrad,3,5,5,5,5,4,5,5,3,5
+pid_186,5,College graduate/some postgrad,2,4,3,4,5,4,5,5,4,5
+pid_187,2,High school graduate,4,4,4,4,2,1,4,4,5,4
+pid_188,3,Associate's degree,1,3,2,4,3,4,4,4,4,3
+pid_189,5,College graduate/some postgrad,1,1,1,1,4,1,2,4,5,5
+pid_190,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_191,3,Associate's degree,4,4,5,5,5,5,3,1,2,4
+pid_192,5,College graduate/some postgrad,3,3,3,3,3,3,3,3,3,3
+pid_193,2,High school graduate,4,4,5,5,4,4,5,5,2,4
+pid_194,3,Associate's degree,2,2,2,2,3,1,4,2,5,3
+pid_195,3,Associate's degree,1,1,1,1,3,4,3,1,5,3
+pid_196,5,College graduate/some postgrad,1,3,1,5,1,4,2,2,4,3
+pid_197,5,Postgraduate,5,5,5,3,5,5,5,5,4,5
+pid_198,5,College graduate/some postgrad,3,4,3,4,4,5,4,3,2,3
+pid_199,3,"Some college, no degree",5,5,5,5,5,4,4,3,5,1
+pid_200,5,College graduate/some postgrad,4,5,4,5,5,5,5,4,1,1
+pid_201,5,Postgraduate,2,2,2,2,3,4,2,2,5,3
+pid_202,5,College graduate/some postgrad,4,3,4,2,3,4,4,5,4,2
+pid_203,5,Postgraduate,4,3,4,5,4,4,5,5,3,5
+pid_204,3,"Some college, no degree",5,5,5,5,5,5,5,5,3,1
+pid_205,5,College graduate/some postgrad,3,3,4,4,4,4,5,4,1,4
+pid_206,5,College graduate/some postgrad,4,5,4,5,5,5,4,5,5,5
+pid_207,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,4,5
+pid_208,2,High school graduate,3,4,3,4,3,5,5,5,1,2
+pid_209,5,Postgraduate,5,5,5,3,4,5,5,5,3,4
+pid_210,5,Postgraduate,5,5,5,5,5,4,4,5,4,5
+pid_211,5,Postgraduate,4,5,4,5,4,2,5,4,4,3
+pid_212,5,College graduate/some postgrad,1,4,4,1,1,1,4,2,5,3
+pid_213,2,High school graduate,4,5,4,4,4,4,5,5,4,4
+pid_214,5,College graduate/some postgrad,4,5,4,4,4,4,4,4,1,5
+pid_215,3,Associate's degree,4,4,4,4,4,4,3,4,4,4
+pid_216,2,High school graduate,4,4,5,2,1,2,4,3,5,5
+pid_217,5,College graduate/some postgrad,3,4,4,4,4,3,4,4,4,4
+pid_218,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,3
+pid_219,5,College graduate/some postgrad,4,4,5,4,4,5,3,5,2,4
+pid_220,5,College graduate/some postgrad,4,4,4,3,4,3,4,4,3,3
+pid_221,3,"Some college, no degree",5,5,5,5,5,5,5,5,3,5
+pid_222,3,Associate's degree,2,4,3,4,4,4,3,3,3,2
+pid_223,3,"Some college, no degree",3,5,4,5,5,5,5,5,3,5
+pid_224,3,Associate's degree,4,4,2,3,5,5,5,2,4,5
+pid_225,5,College graduate/some postgrad,1,1,1,4,5,4,4,2,3,4
+pid_226,3,Associate's degree,4,5,5,5,4,4,5,5,3,3
+pid_227,2,High school graduate,3,4,2,4,3,3,4,2,3,4
+pid_228,2,High school graduate,2,1,1,4,4,1,2,2,5,2
+pid_229,3,"Some college, no degree",4,4,5,5,3,3,5,4,5,5
+pid_230,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,1,1
+pid_231,2,High school graduate,3,4,4,3,1,4,4,3,3,3
+pid_232,3,"Some college, no degree",4,5,4,5,5,5,5,5,2,4
+pid_233,5,Postgraduate,4,4,4,5,2,4,5,5,4,1
+pid_234,3,"Some college, no degree",1,1,1,1,5,2,1,1,5,5
+pid_235,3,Associate's degree,5,5,4,5,5,5,3,5,1,3
+pid_236,5,College graduate/some postgrad,4,4,4,5,5,5,5,5,4,5
+pid_237,3,Associate's degree,4,5,5,5,4,5,5,5,2,2
+pid_238,5,Postgraduate,3,3,4,4,4,4,3,4,4,4
+pid_239,5,Postgraduate,1,3,1,2,3,1,3,3,5,3
+pid_240,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,1
+pid_241,5,College graduate/some postgrad,1,5,1,5,5,5,5,5,1,5
+pid_242,5,Postgraduate,2,5,2,1,5,5,4,5,4,2
+pid_243,2,High school graduate,4,4,4,4,4,5,5,5,2,3
+pid_244,5,Postgraduate,4,4,5,5,4,5,5,4,2,4
+pid_245,3,Associate's degree,4,5,5,5,4,2,5,5,5,4
+pid_246,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,3,4
+pid_247,3,Associate's degree,1,3,3,1,5,2,1,1,5,5
+pid_248,5,Postgraduate,3,5,3,5,5,5,5,5,1,5
+pid_249,5,College graduate/some postgrad,2,4,3,4,4,4,5,5,1,3
+pid_250,3,"Some college, no degree",3,4,3,3,4,4,3,2,2,4
+pid_251,5,Postgraduate,5,5,5,5,5,5,5,5,2,1
+pid_252,5,Postgraduate,5,4,5,4,4,5,5,5,2,4
+pid_253,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,2,3
+pid_254,5,College graduate/some postgrad,5,2,5,1,3,4,5,5,4,3
+pid_255,5,College graduate/some postgrad,1,1,1,1,1,1,5,5,5,4
+pid_256,5,Postgraduate,4,3,5,5,3,4,5,4,2,3
+pid_257,5,Postgraduate,4,3,4,4,4,4,4,4,3,2
+pid_258,3,Associate's degree,3,3,4,4,4,4,4,5,3,4
+pid_259,5,Postgraduate,2,3,2,4,4,4,4,4,3,4
+pid_260,5,Postgraduate,3,4,3,5,3,4,3,2,3,3
+pid_261,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,4,4
+pid_262,5,Postgraduate,3,4,3,4,5,2,3,1,4,4
+pid_263,2,High school graduate,4,4,4,4,4,4,5,5,5,4
+pid_264,3,Associate's degree,4,5,4,5,4,4,3,4,3,4
+pid_265,3,Associate's degree,2,1,1,1,2,1,1,1,5,4
+pid_266,3,Associate's degree,4,3,4,5,4,5,4,5,2,3
+pid_267,5,College graduate/some postgrad,4,4,5,4,5,5,5,5,1,4
+pid_268,3,"Some college, no degree",4,3,3,3,4,3,3,3,4,4
+pid_269,3,"Some college, no degree",5,5,4,5,3,5,4,5,1,5
+pid_270,5,Postgraduate,3,4,4,5,3,4,5,5,4,3
+pid_271,3,"Some college, no degree",5,4,5,5,5,5,5,4,1,3
+pid_272,5,College graduate/some postgrad,2,1,2,4,4,2,4,5,4,4
+pid_273,3,Associate's degree,4,4,4,4,2,5,5,5,3,5
+pid_274,3,Associate's degree,3,4,3,5,5,5,4,4,3,2
+pid_275,3,"Some college, no degree",4,5,3,4,4,4,4,4,3,4
+pid_276,2,High school graduate,3,4,3,4,4,5,5,5,4,4
+pid_277,5,College graduate/some postgrad,4,4,5,5,3,5,5,5,1,3
+pid_278,3,"Some college, no degree",4,5,3,4,5,1,4,3,5,3
+pid_279,5,College graduate/some postgrad,5,4,5,4,5,5,5,4,2,5
+pid_280,3,Associate's degree,4,5,5,4,3,5,5,5,1,4
+pid_281,5,College graduate/some postgrad,3,3,2,1,4,2,5,4,5,5
+pid_282,5,Postgraduate,4,3,3,4,5,4,4,5,3,4
+pid_283,5,Postgraduate,4,4,4,5,5,4,4,5,3,1
+pid_284,3,"Some college, no degree",4,4,5,5,2,5,5,5,1,3
+pid_285,5,Postgraduate,2,2,2,4,4,2,4,4,4,4
+pid_286,5,Postgraduate,4,2,4,5,5,4,4,4,2,2
+pid_287,5,Postgraduate,5,4,3,4,3,4,3,4,4,4
+pid_288,2,High school graduate,2,3,2,3,3,1,4,4,5,3
+pid_289,2,High school graduate,5,4,5,5,5,5,4,4,5,5
+pid_290,3,"Some college, no degree",4,4,5,5,5,5,4,5,4,4
+pid_291,3,"Some college, no degree",3,3,3,4,5,4,5,5,3,5
+pid_292,3,"Some college, no degree",2,3,2,3,2,4,2,5,3,4
+pid_293,5,College graduate/some postgrad,2,3,4,5,5,4,5,5,3,1
+pid_294,5,Postgraduate,2,1,1,4,5,5,4,5,2,5
+pid_295,2,High school graduate,4,3,3,2,4,3,4,3,4,4
+pid_296,5,Postgraduate,1,3,2,1,1,3,5,2,5,1
+pid_297,3,Associate's degree,2,2,3,2,4,2,4,1,5,4
+pid_298,5,Postgraduate,2,3,4,4,5,4,5,5,4,2
+pid_299,5,Postgraduate,5,5,4,5,4,2,5,4,5,4
+pid_300,5,College graduate/some postgrad,4,3,5,4,5,5,5,5,1,3
+pid_301,5,Postgraduate,4,3,4,4,3,2,5,2,5,3
+pid_302,5,College graduate/some postgrad,2,2,1,2,3,3,4,2,4,3
+pid_303,3,"Some college, no degree",4,4,4,5,5,4,5,4,5,5
+pid_304,3,"Some college, no degree",4,4,5,5,5,4,4,5,3,4
+pid_305,3,"Some college, no degree",5,5,5,5,5,5,5,5,2,2
+pid_306,2,High school graduate,4,2,2,2,4,4,5,5,3,4
+pid_307,5,Postgraduate,5,4,3,2,3,3,2,3,4,4
+pid_308,5,Postgraduate,4,3,5,3,3,5,5,5,2,5
+pid_309,3,Associate's degree,4,3,5,4,4,5,5,3,5,3
+pid_310,3,Associate's degree,4,4,5,4,5,5,4,4,3,4
+pid_311,5,College graduate/some postgrad,3,3,2,1,4,1,2,3,5,4
+pid_312,2,High school graduate,4,3,5,5,3,5,5,5,4,2
+pid_313,5,College graduate/some postgrad,2,3,3,2,3,3,5,3,4,3
+pid_314,3,"Some college, no degree",4,5,5,5,5,5,5,5,5,5
+pid_315,5,College graduate/some postgrad,4,3,4,5,4,5,3,5,3,3
+pid_316,5,Postgraduate,4,4,4,3,5,4,3,4,3,3
+pid_317,5,Postgraduate,4,4,4,4,4,3,5,4,5,4
+pid_318,2,High school graduate,5,5,5,5,5,5,5,5,3,5
+pid_319,5,College graduate/some postgrad,5,3,5,4,5,4,5,5,4,5
+pid_320,3,"Some college, no degree",2,2,2,1,4,1,1,1,5,4
+pid_321,3,Associate's degree,4,5,4,5,4,4,4,2,5,4
+pid_322,5,College graduate/some postgrad,4,4,5,5,4,5,4,5,4,4
+pid_323,5,College graduate/some postgrad,3,4,2,5,5,3,4,2,3,5
+pid_324,5,Postgraduate,5,5,5,4,4,5,2,5,2,3
+pid_325,2,High school graduate,1,2,1,1,2,4,5,2,4,5
+pid_326,3,Associate's degree,4,5,5,5,4,5,5,5,1,1
+pid_327,3,Associate's degree,5,5,5,3,5,5,5,5,4,3
+pid_328,5,College graduate/some postgrad,5,4,5,4,4,5,4,4,2,3
+pid_329,5,College graduate/some postgrad,2,3,4,4,4,4,4,5,2,3
+pid_330,3,"Some college, no degree",4,4,3,4,4,4,4,5,2,4
+pid_331,3,Associate's degree,5,5,5,5,4,5,5,5,1,1
+pid_332,5,Postgraduate,3,3,3,2,4,2,4,4,1,4
+pid_333,5,Postgraduate,4,4,4,5,5,4,5,5,4,4
+pid_334,5,College graduate/some postgrad,2,2,2,1,4,4,4,2,4,2
+pid_335,3,Associate's degree,2,2,2,5,5,5,5,5,2,2
+pid_336,5,College graduate/some postgrad,5,4,4,5,4,5,5,5,1,4
+pid_337,5,Postgraduate,3,5,3,5,4,4,5,5,3,4
+pid_338,5,College graduate/some postgrad,4,4,4,4,4,2,4,4,4,4
+pid_339,5,Postgraduate,3,4,4,4,4,5,4,4,1,4
+pid_340,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,3
+pid_341,5,College graduate/some postgrad,3,4,4,5,5,5,5,4,2,3
+pid_342,5,College graduate/some postgrad,3,4,4,5,4,5,1,5,4,2
+pid_343,5,Postgraduate,4,4,4,4,5,4,5,5,3,4
+pid_344,2,High school graduate,4,3,4,3,4,3,3,4,3,3
+pid_345,5,College graduate/some postgrad,4,3,5,5,5,4,5,5,3,2
+pid_346,2,High school graduate,5,5,5,5,3,5,5,5,1,1
+pid_347,3,Associate's degree,4,4,5,5,5,2,5,5,5,5
+pid_348,5,College graduate/some postgrad,5,4,5,5,4,3,4,5,3,4
+pid_349,2,High school graduate,5,4,4,5,5,4,4,5,4,5
+pid_350,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,2,5
+pid_351,3,"Some college, no degree",4,3,4,4,3,2,4,5,5,4
+pid_352,3,Associate's degree,5,4,5,5,5,5,5,5,3,4
+pid_353,5,College graduate/some postgrad,4,2,2,4,4,4,4,5,5,5
+pid_354,5,College graduate/some postgrad,2,3,1,2,4,4,3,2,4,4
+pid_355,5,College graduate/some postgrad,3,2,2,4,4,2,3,4,5,3
+pid_356,3,Associate's degree,4,4,4,3,4,5,4,4,5,3
+pid_357,2,High school graduate,4,4,4,5,4,5,4,4,2,3
+pid_358,5,Postgraduate,3,3,4,3,3,4,5,5,2,3
+pid_359,3,"Some college, no degree",3,4,3,5,5,3,3,3,3,3
+pid_360,5,Postgraduate,3,3,5,5,2,5,4,5,2,4
+pid_361,3,"Some college, no degree",4,2,2,3,4,5,2,5,4,3
+pid_362,5,College graduate/some postgrad,3,4,3,1,2,2,5,4,4,3
+pid_363,2,High school graduate,4,4,5,5,5,5,5,5,1,5
+pid_364,5,College graduate/some postgrad,3,3,3,2,2,2,5,4,4,3
+pid_365,5,Postgraduate,5,4,5,2,5,4,4,5,5,2
+pid_366,2,High school graduate,5,5,5,5,5,5,5,5,1,1
+pid_367,3,"Some college, no degree",4,5,4,5,5,4,5,5,5,5
+pid_368,5,College graduate/some postgrad,5,4,4,5,5,5,5,5,1,5
+pid_369,3,"Some college, no degree",4,3,4,5,4,5,5,5,2,3
+pid_370,3,"Some college, no degree",1,2,2,2,4,1,2,3,5,5
+pid_371,5,College graduate/some postgrad,2,3,2,4,5,4,4,4,4,5
+pid_372,3,"Some college, no degree",3,3,3,5,5,3,3,5,3,3
+pid_373,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,5
+pid_374,3,"Some college, no degree",4,4,5,5,5,5,5,5,2,3
+pid_375,3,Associate's degree,3,3,4,3,3,3,3,3,4,3
+pid_376,5,College graduate/some postgrad,1,4,1,1,4,5,2,4,5,5
+pid_377,5,College graduate/some postgrad,3,3,4,2,4,3,4,5,4,4
+pid_378,5,College graduate/some postgrad,2,3,5,4,3,4,5,5,5,1
+pid_379,5,College graduate/some postgrad,1,5,1,5,5,1,5,5,5,5
+pid_380,5,College graduate/some postgrad,4,4,4,3,3,2,4,3,5,5
+pid_381,5,Postgraduate,4,3,3,4,4,4,4,4,3,3
+pid_382,5,College graduate/some postgrad,2,3,2,1,4,3,2,4,5,4
+pid_383,3,Associate's degree,5,5,5,5,5,5,5,5,1,5
+pid_384,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,2
+pid_385,3,"Some college, no degree",3,2,4,5,3,4,3,5,3,5
+pid_386,3,"Some college, no degree",4,5,4,5,5,2,5,4,3,5
+pid_387,5,College graduate/some postgrad,3,4,3,5,4,2,4,4,1,3
+pid_388,5,College graduate/some postgrad,1,1,1,1,1,3,5,1,5,3
+pid_389,5,College graduate/some postgrad,4,3,4,5,4,4,3,4,3,4
+pid_390,5,College graduate/some postgrad,4,4,5,5,5,5,4,5,3,4
+pid_391,5,Postgraduate,3,2,2,4,4,4,4,4,4,4
+pid_392,3,"Some college, no degree",4,5,4,5,5,5,5,5,2,4
+pid_393,3,Associate's degree,4,2,2,2,4,4,3,2,5,3
+pid_394,5,College graduate/some postgrad,4,2,3,1,4,5,5,5,2,4
+pid_395,5,College graduate/some postgrad,4,4,4,4,4,3,4,4,4,4
+pid_396,2,High school graduate,4,4,5,5,5,5,5,5,2,3
+pid_397,5,Postgraduate,4,3,4,3,2,4,3,2,4,3
+pid_398,3,Associate's degree,4,2,3,4,4,5,4,3,5,3
+pid_399,5,Postgraduate,3,5,5,4,4,4,5,4,4,5
+pid_400,5,College graduate/some postgrad,1,3,4,4,3,3,5,4,4,5
+pid_401,1,Less than high school,4,4,3,4,5,4,4,3,3,4
+pid_402,5,College graduate/some postgrad,3,3,4,4,5,5,3,2,3,2
+pid_403,3,"Some college, no degree",3,2,4,4,4,4,4,5,4,4
+pid_404,3,"Some college, no degree",4,4,4,4,4,4,4,4,2,3
+pid_405,5,College graduate/some postgrad,2,2,2,1,4,2,3,2,5,4
+pid_406,2,High school graduate,5,4,5,5,5,5,5,5,2,2
+pid_407,5,College graduate/some postgrad,4,4,4,5,5,5,3,5,3,5
+pid_408,5,College graduate/some postgrad,5,5,5,4,5,1,4,4,5,5
+pid_409,5,College graduate/some postgrad,2,1,2,2,2,2,4,2,4,3
+pid_410,5,College graduate/some postgrad,3,4,4,4,5,4,2,5,3,3
+pid_411,5,College graduate/some postgrad,4,4,3,4,5,1,4,3,5,4
+pid_412,5,College graduate/some postgrad,1,1,1,1,3,1,3,1,5,1
+pid_413,2,High school graduate,3,4,3,2,3,3,4,3,2,3
+pid_414,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,5
+pid_415,5,Postgraduate,5,5,5,5,3,5,5,5,1,1
+pid_416,5,College graduate/some postgrad,1,1,1,1,1,1,1,1,5,1
+pid_417,5,College graduate/some postgrad,2,4,5,5,5,5,4,4,2,4
+pid_418,5,Postgraduate,5,4,4,5,4,4,4,5,3,3
+pid_419,5,College graduate/some postgrad,4,4,4,4,4,4,4,5,2,4
+pid_420,5,Postgraduate,5,4,5,5,4,5,5,5,3,1
+pid_421,3,"Some college, no degree",4,5,5,5,5,5,4,5,2,3
+pid_422,3,"Some college, no degree",5,1,2,2,3,3,3,3,4,3
+pid_423,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_424,3,Associate's degree,5,4,5,5,5,3,5,5,4,2
+pid_425,5,College graduate/some postgrad,3,5,4,5,5,5,5,4,1,5
+pid_426,5,College graduate/some postgrad,4,3,4,4,2,4,4,3,5,4
+pid_427,5,College graduate/some postgrad,4,4,4,5,4,5,5,5,3,1
+pid_428,5,College graduate/some postgrad,4,5,5,5,4,5,4,5,1,1
+pid_429,3,"Some college, no degree",4,3,3,4,3,4,3,5,4,4
+pid_430,2,High school graduate,1,3,1,3,3,3,3,1,5,2
+pid_431,5,College graduate/some postgrad,4,3,4,1,3,4,4,5,5,4
+pid_432,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_433,2,High school graduate,5,5,5,5,5,5,5,5,3,4
+pid_434,5,Postgraduate,4,5,4,5,3,5,5,5,2,3
+pid_435,2,High school graduate,4,5,4,4,4,5,4,4,3,3
+pid_436,3,Associate's degree,5,5,5,5,3,5,5,5,1,2
+pid_437,5,Postgraduate,5,5,5,5,3,5,5,5,3,1
+pid_438,2,High school graduate,2,3,4,4,4,2,4,5,4,3
+pid_439,2,High school graduate,5,5,5,5,5,5,5,5,2,5
+pid_440,5,Postgraduate,4,4,2,5,5,4,5,2,4,5
+pid_441,5,College graduate/some postgrad,5,4,5,5,3,4,4,3,3,4
+pid_442,3,Associate's degree,4,4,3,5,5,5,4,5,2,3
+pid_443,3,"Some college, no degree",3,4,3,4,4,4,4,5,2,4
+pid_444,5,Postgraduate,4,4,4,4,4,3,5,5,3,4
+pid_445,3,"Some college, no degree",4,4,5,5,3,5,5,5,1,3
+pid_446,3,"Some college, no degree",2,3,2,2,4,3,4,4,5,4
+pid_447,5,College graduate/some postgrad,1,5,5,5,2,5,3,5,1,1
+pid_448,3,"Some college, no degree",3,2,3,4,5,1,4,5,5,3
+pid_449,3,Associate's degree,5,5,5,5,5,5,5,5,3,5
+pid_450,2,High school graduate,4,2,5,4,4,5,2,2,2,4
+pid_451,5,College graduate/some postgrad,4,5,4,4,5,4,5,5,2,3
+pid_452,5,Postgraduate,4,3,3,4,4,4,5,5,4,4
+pid_453,3,"Some college, no degree",2,4,4,5,5,5,5,4,4,5
+pid_454,5,Postgraduate,4,5,4,5,4,5,5,5,1,3
+pid_455,3,Associate's degree,1,3,3,5,5,3,5,3,3,4
+pid_456,5,Postgraduate,1,3,1,1,3,1,2,1,5,4
+pid_457,3,Associate's degree,1,1,1,4,1,1,1,2,5,3
+pid_458,5,Postgraduate,2,2,2,2,4,4,2,2,4,4
+pid_459,2,High school graduate,4,4,4,5,3,4,4,5,2,3
+pid_460,3,"Some college, no degree",5,4,4,5,4,3,3,5,2,2
+pid_461,5,Postgraduate,2,4,3,3,4,4,3,4,2,1
+pid_462,3,"Some college, no degree",1,3,2,1,2,2,2,1,4,4
+pid_463,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,1
+pid_464,3,"Some college, no degree",1,4,1,4,4,3,2,4,4,4
+pid_465,5,College graduate/some postgrad,5,5,4,4,5,5,4,5,1,1
+pid_466,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,2,1
+pid_467,5,College graduate/some postgrad,4,1,4,5,4,5,5,5,2,4
+pid_468,5,Postgraduate,4,4,4,4,3,4,4,5,1,3
+pid_469,5,College graduate/some postgrad,5,2,5,4,4,4,3,5,5,3
+pid_470,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,2
+pid_471,5,College graduate/some postgrad,3,2,4,2,2,2,2,2,3,3
+pid_472,3,"Some college, no degree",4,4,4,5,4,4,3,5,1,4
+pid_473,5,Postgraduate,4,4,3,4,5,2,5,3,5,5
+pid_474,5,Postgraduate,2,5,4,5,5,5,5,3,5,5
+pid_475,5,College graduate/some postgrad,4,4,4,4,4,4,5,5,2,3
+pid_476,5,College graduate/some postgrad,2,4,3,2,5,4,5,4,3,4
+pid_477,3,"Some college, no degree",4,3,4,4,5,5,5,5,5,4
+pid_478,5,College graduate/some postgrad,1,2,1,1,1,2,4,1,4,4
+pid_479,5,Postgraduate,2,4,3,4,4,2,4,5,5,4
+pid_480,3,"Some college, no degree",2,4,2,5,4,5,4,4,2,2
+pid_481,2,High school graduate,5,5,5,5,5,5,3,5,4,2
+pid_482,5,College graduate/some postgrad,4,4,4,4,4,4,4,5,3,2
+pid_483,2,High school graduate,2,3,2,4,4,4,5,5,2,5
+pid_484,3,Associate's degree,4,2,2,5,5,1,5,3,3,5
+pid_485,5,College graduate/some postgrad,4,4,5,5,4,5,5,5,1,3
+pid_486,5,College graduate/some postgrad,1,5,1,1,5,1,5,5,5,5
+pid_487,3,"Some college, no degree",4,4,5,3,4,4,4,5,5,3
+pid_488,3,"Some college, no degree",5,4,5,5,4,5,4,5,3,2
+pid_489,5,College graduate/some postgrad,1,1,5,1,1,1,5,5,5,5
+pid_490,3,"Some college, no degree",4,4,4,5,3,5,5,5,3,4
+pid_491,3,Associate's degree,4,4,4,4,4,4,3,4,3,3
+pid_492,2,High school graduate,5,5,5,4,5,5,5,5,4,5
+pid_493,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_494,3,"Some college, no degree",4,4,2,5,5,5,4,5,2,2
+pid_495,5,Postgraduate,2,2,4,3,4,2,2,4,5,4
+pid_496,5,Postgraduate,2,2,2,2,2,1,1,1,5,2
+pid_497,5,College graduate/some postgrad,4,4,3,5,5,5,4,5,1,1
+pid_498,2,High school graduate,4,5,5,5,5,5,5,5,3,5
+pid_499,3,"Some college, no degree",4,3,3,4,3,3,4,3,4,4
+pid_500,5,College graduate/some postgrad,4,5,3,4,4,5,5,5,1,5
+pid_501,2,High school graduate,1,1,1,1,1,1,1,1,5,3
+pid_502,3,"Some college, no degree",5,4,5,5,3,5,5,5,2,1
+pid_503,2,High school graduate,1,3,3,2,4,1,1,5,5,3
+pid_504,3,Associate's degree,5,4,5,5,5,4,5,5,2,1
+pid_505,5,College graduate/some postgrad,3,4,4,4,3,3,4,4,4,3
+pid_506,5,College graduate/some postgrad,4,5,3,3,5,3,5,5,4,5
+pid_507,5,College graduate/some postgrad,4,4,3,4,5,2,5,4,5,4
+pid_508,2,High school graduate,3,4,3,3,3,3,4,4,3,3
+pid_509,5,Postgraduate,3,4,2,3,4,4,3,4,3,3
+pid_510,5,Postgraduate,1,2,1,1,4,1,4,4,5,5
+pid_511,5,College graduate/some postgrad,2,3,1,2,3,2,1,1,5,3
+pid_512,5,College graduate/some postgrad,5,3,4,3,4,3,5,5,2,4
+pid_513,5,College graduate/some postgrad,2,2,2,4,4,3,4,2,4,4
+pid_514,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,1,5
+pid_515,5,College graduate/some postgrad,3,5,5,5,4,3,3,4,3,4
+pid_516,2,High school graduate,4,3,4,5,5,5,5,5,2,5
+pid_517,3,Associate's degree,4,3,3,2,3,4,4,4,4,3
+pid_518,5,College graduate/some postgrad,5,5,5,4,3,4,1,5,1,3
+pid_519,3,"Some college, no degree",5,4,5,5,5,2,4,1,5,5
+pid_520,5,Postgraduate,3,4,3,5,4,5,5,4,1,5
+pid_521,5,College graduate/some postgrad,2,5,4,2,5,4,4,4,2,5
+pid_522,5,Postgraduate,4,4,4,4,4,4,5,5,4,4
+pid_523,3,Associate's degree,1,1,1,1,1,1,4,1,5,4
+pid_524,3,Associate's degree,2,5,3,5,5,5,4,3,3,5
+pid_525,5,Postgraduate,3,4,4,5,5,4,4,5,3,5
+pid_526,5,Postgraduate,3,5,4,5,4,4,5,5,3,4
+pid_527,3,"Some college, no degree",2,3,3,4,3,5,5,5,4,4
+pid_528,3,"Some college, no degree",5,4,4,5,4,4,4,4,5,4
+pid_529,5,College graduate/some postgrad,2,3,2,2,3,1,5,2,5,4
+pid_530,2,High school graduate,4,1,2,1,5,1,5,4,5,5
+pid_531,5,Postgraduate,4,3,4,2,2,5,5,5,1,1
+pid_532,5,College graduate/some postgrad,4,3,2,4,4,4,4,4,5,4
+pid_533,5,College graduate/some postgrad,1,5,5,5,3,4,5,5,5,5
+pid_534,5,Postgraduate,5,4,5,5,4,5,4,5,1,4
+pid_535,5,College graduate/some postgrad,4,4,4,4,5,1,4,4,5,4
+pid_536,3,"Some college, no degree",5,4,5,5,5,5,5,5,3,3
+pid_537,3,"Some college, no degree",4,5,5,4,4,4,4,4,4,1
+pid_538,3,Associate's degree,5,5,5,5,5,5,5,5,3,3
+pid_539,3,"Some college, no degree",2,4,4,5,3,5,5,5,2,3
+pid_540,5,College graduate/some postgrad,2,4,2,4,4,4,4,2,4,2
+pid_541,5,College graduate/some postgrad,1,1,1,5,3,1,2,2,5,2
+pid_542,5,College graduate/some postgrad,2,2,4,1,5,1,4,4,5,5
+pid_543,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,5
+pid_544,5,Postgraduate,3,4,4,4,4,5,5,5,1,3
+pid_545,2,High school graduate,4,4,5,4,5,4,4,5,2,5
+pid_546,2,High school graduate,3,2,1,4,5,1,4,2,5,3
+pid_547,3,Associate's degree,5,5,5,4,5,5,5,5,2,4
+pid_548,5,College graduate/some postgrad,5,4,4,5,5,5,3,1,5,4
+pid_549,5,Postgraduate,5,5,4,5,4,5,5,5,2,5
+pid_550,5,College graduate/some postgrad,5,5,5,5,5,4,5,5,2,4
+pid_551,5,College graduate/some postgrad,5,5,5,4,5,5,4,5,3,2
+pid_552,5,College graduate/some postgrad,5,5,4,5,5,5,4,5,2,4
+pid_553,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,3
+pid_554,3,"Some college, no degree",4,5,5,5,3,5,5,5,2,2
+pid_555,3,"Some college, no degree",5,5,5,5,3,5,5,5,2,2
+pid_556,2,High school graduate,3,3,2,4,4,2,4,4,4,4
+pid_557,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,2,5
+pid_558,5,College graduate/some postgrad,1,5,4,4,4,2,5,3,5,5
+pid_559,5,Postgraduate,3,3,3,4,3,4,3,4,3,4
+pid_560,5,College graduate/some postgrad,3,3,3,3,3,3,3,3,3,3
+pid_561,2,High school graduate,4,3,4,4,3,4,3,3,2,3
+pid_562,3,Associate's degree,4,4,4,5,3,5,5,5,1,1
+pid_563,5,College graduate/some postgrad,4,4,5,4,4,4,5,3,4,2
+pid_564,5,College graduate/some postgrad,5,5,5,4,4,5,5,5,2,3
+pid_565,5,College graduate/some postgrad,4,3,4,5,4,5,2,5,1,1
+pid_566,2,High school graduate,3,4,3,4,4,3,3,2,3,3
+pid_567,3,"Some college, no degree",3,4,3,2,3,4,4,4,3,3
+pid_568,5,College graduate/some postgrad,4,4,4,2,2,4,3,2,4,5
+pid_569,5,College graduate/some postgrad,3,4,4,4,4,3,4,5,3,3
+pid_570,5,Postgraduate,5,3,4,4,4,1,2,2,5,4
+pid_571,5,College graduate/some postgrad,4,4,4,3,5,2,5,5,5,4
+pid_572,5,College graduate/some postgrad,4,3,3,4,2,4,3,4,3,2
+pid_573,5,College graduate/some postgrad,3,2,3,4,4,2,4,3,3,4
+pid_574,3,"Some college, no degree",4,5,4,5,4,4,4,5,3,4
+pid_575,5,Postgraduate,5,5,5,5,5,5,5,5,1,4
+pid_576,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,2,4
+pid_577,2,High school graduate,4,5,4,5,5,5,5,4,4,5
+pid_578,5,College graduate/some postgrad,4,2,2,4,5,4,2,4,4,4
+pid_579,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,2,5
+pid_580,5,Postgraduate,3,4,4,5,4,4,5,3,3,4
+pid_581,5,Postgraduate,4,3,4,3,4,4,4,4,5,4
+pid_582,3,Associate's degree,3,3,3,3,3,4,4,3,4,4
+pid_583,3,"Some college, no degree",4,5,4,5,4,5,5,4,2,1
+pid_584,5,College graduate/some postgrad,5,4,5,5,4,4,5,5,3,5
+pid_585,5,Postgraduate,5,3,4,4,5,4,2,2,3,1
+pid_586,3,"Some college, no degree",5,5,5,5,3,5,5,5,1,4
+pid_587,2,High school graduate,4,2,4,5,4,4,5,5,4,2
+pid_588,5,College graduate/some postgrad,2,3,3,2,5,2,4,2,5,5
+pid_589,5,College graduate/some postgrad,2,4,3,3,5,5,3,5,1,3
+pid_590,5,Postgraduate,3,2,3,3,4,3,3,4,3,3
+pid_591,5,College graduate/some postgrad,4,5,4,5,5,5,5,4,1,4
+pid_592,3,"Some college, no degree",4,2,4,1,3,5,2,1,4,4
+pid_593,5,College graduate/some postgrad,5,5,5,5,4,4,5,4,4,5
+pid_594,3,"Some college, no degree",3,4,3,5,5,2,4,5,3,4
+pid_595,3,Associate's degree,3,4,4,5,4,3,5,4,3,4
+pid_596,3,"Some college, no degree",4,4,5,4,5,3,5,5,4,4
+pid_597,2,High school graduate,3,3,4,4,4,4,5,4,1,3
+pid_598,5,College graduate/some postgrad,2,4,4,5,5,5,5,5,2,5
+pid_599,3,"Some college, no degree",3,2,1,4,5,1,5,5,5,3
+pid_600,3,Associate's degree,5,5,5,5,5,5,5,5,1,3
+pid_601,5,Postgraduate,2,3,4,4,4,4,4,3,4,4
+pid_602,3,"Some college, no degree",5,4,4,3,5,5,5,5,2,4
+pid_603,3,"Some college, no degree",5,4,3,5,4,4,3,4,3,5
+pid_604,5,Postgraduate,4,5,5,5,4,5,5,5,1,5
+pid_605,2,High school graduate,2,3,3,3,3,3,4,3,3,4
+pid_606,3,Associate's degree,5,5,5,5,3,5,5,5,1,2
+pid_607,1,Less than high school,2,2,3,3,4,2,3,3,5,4
+pid_608,5,College graduate/some postgrad,4,5,5,5,5,4,5,5,5,3
+pid_609,5,College graduate/some postgrad,5,4,5,5,4,5,5,4,1,4
+pid_610,3,Associate's degree,2,2,2,2,4,3,2,3,4,3
+pid_611,3,"Some college, no degree",4,3,5,4,4,4,4,3,4,5
+pid_612,5,Postgraduate,4,5,5,5,5,5,5,5,1,1
+pid_613,5,College graduate/some postgrad,3,4,4,5,5,3,4,5,4,5
+pid_614,3,Associate's degree,1,3,1,5,5,1,1,1,5,3
+pid_615,5,College graduate/some postgrad,2,3,3,2,3,2,3,2,5,5
+pid_616,5,College graduate/some postgrad,1,2,2,2,3,5,4,2,3,4
+pid_617,3,Associate's degree,2,2,2,4,3,2,4,4,5,4
+pid_618,5,College graduate/some postgrad,4,5,4,3,4,4,5,5,4,5
+pid_619,3,"Some college, no degree",4,3,4,5,5,4,5,5,2,1
+pid_620,3,"Some college, no degree",4,3,3,5,5,3,3,5,4,3
+pid_621,2,High school graduate,2,4,3,5,4,5,5,4,2,5
+pid_622,3,Associate's degree,4,4,4,2,4,2,5,2,5,3
+pid_623,3,"Some college, no degree",4,5,4,5,4,5,5,5,2,1
+pid_624,3,Associate's degree,3,2,3,4,4,4,4,4,4,4
+pid_625,2,High school graduate,4,3,4,4,4,1,4,4,5,4
+pid_626,5,College graduate/some postgrad,5,3,4,5,4,5,5,5,2,4
+pid_627,3,Associate's degree,5,5,5,5,5,5,5,5,2,1
+pid_628,3,"Some college, no degree",5,5,5,5,3,5,5,5,5,1
+pid_629,3,"Some college, no degree",4,5,5,5,4,5,5,5,2,2
+pid_630,3,Associate's degree,4,4,4,5,4,4,5,4,4,4
+pid_631,3,Associate's degree,1,1,1,1,2,1,2,1,5,2
+pid_632,5,College graduate/some postgrad,4,4,5,2,5,3,5,4,4,3
+pid_633,5,College graduate/some postgrad,3,3,3,4,3,5,5,5,2,3
+pid_634,2,High school graduate,4,4,3,4,4,1,4,4,5,4
+pid_635,5,College graduate/some postgrad,4,4,4,5,3,1,5,2,5,2
+pid_636,3,"Some college, no degree",4,4,4,5,5,1,5,5,5,5
+pid_637,5,College graduate/some postgrad,1,4,1,2,4,5,5,5,4,5
+pid_638,3,"Some college, no degree",5,5,5,5,5,4,5,5,3,1
+pid_639,5,College graduate/some postgrad,4,3,3,4,4,2,5,5,4,4
+pid_640,2,High school graduate,4,5,4,5,4,4,5,5,4,5
+pid_641,3,Associate's degree,5,3,4,5,4,3,5,5,4,3
+pid_642,3,"Some college, no degree",1,1,1,1,5,2,2,1,4,4
+pid_643,5,College graduate/some postgrad,4,4,4,4,5,4,4,5,5,5
+pid_644,3,"Some college, no degree",5,4,5,5,4,2,5,5,4,3
+pid_645,3,Associate's degree,5,4,5,5,5,5,4,5,2,5
+pid_646,3,"Some college, no degree",4,5,4,4,4,4,4,4,3,2
+pid_647,5,College graduate/some postgrad,4,5,5,4,4,4,4,5,1,5
+pid_648,5,College graduate/some postgrad,5,4,5,5,4,3,5,3,3,1
+pid_649,3,"Some college, no degree",5,5,5,5,4,5,5,5,1,3
+pid_650,2,High school graduate,1,4,2,3,5,3,2,1,5,4
+pid_651,5,College graduate/some postgrad,1,1,1,1,4,1,1,2,5,2
+pid_652,5,College graduate/some postgrad,4,3,4,4,5,5,3,5,3,5
+pid_653,2,High school graduate,4,3,4,5,4,4,4,2,3,2
+pid_654,5,Postgraduate,3,2,2,3,2,2,3,2,5,4
+pid_655,5,College graduate/some postgrad,2,4,5,5,5,5,5,5,1,2
+pid_656,2,High school graduate,4,4,5,4,4,2,5,4,4,2
+pid_657,5,Postgraduate,2,4,3,4,3,4,4,3,3,3
+pid_658,5,Postgraduate,4,2,4,4,4,3,3,2,4,4
+pid_659,5,Postgraduate,4,5,4,5,4,4,5,5,1,4
+pid_660,5,Postgraduate,4,4,5,5,5,5,5,5,2,2
+pid_661,5,College graduate/some postgrad,2,4,4,5,5,1,5,5,5,4
+pid_662,3,Associate's degree,5,4,5,4,4,4,4,4,4,4
+pid_663,3,Associate's degree,3,1,2,3,5,1,4,2,5,5
+pid_664,3,"Some college, no degree",4,3,3,5,5,4,5,4,5,4
+pid_665,5,College graduate/some postgrad,1,4,3,4,4,1,4,4,5,4
+pid_666,2,High school graduate,4,2,4,5,4,4,5,5,3,3
+pid_667,5,College graduate/some postgrad,4,4,5,5,5,5,4,5,2,5
+pid_668,5,College graduate/some postgrad,5,5,5,4,5,5,4,5,2,4
+pid_669,3,"Some college, no degree",4,3,3,2,5,2,2,4,4,4
+pid_670,3,"Some college, no degree",3,3,3,5,5,3,5,5,5,4
+pid_671,2,High school graduate,4,4,4,4,4,4,4,4,4,2
+pid_672,3,"Some college, no degree",4,5,4,4,5,4,5,4,4,5
+pid_673,5,College graduate/some postgrad,3,3,3,1,3,4,4,4,5,4
+pid_674,2,High school graduate,5,5,5,5,5,5,5,5,3,5
+pid_675,3,"Some college, no degree",4,5,5,5,5,5,5,5,3,3
+pid_676,3,"Some college, no degree",2,1,1,1,1,1,2,4,5,4
+pid_677,3,"Some college, no degree",3,3,4,4,5,2,3,3,4,5
+pid_678,5,College graduate/some postgrad,4,3,3,3,4,5,5,4,3,3
+pid_679,3,"Some college, no degree",5,3,4,5,5,5,4,5,2,5
+pid_680,5,Postgraduate,4,4,4,4,4,5,5,4,3,3
+pid_681,2,High school graduate,3,4,4,3,3,4,3,4,3,3
+pid_682,5,Postgraduate,4,5,2,4,5,5,5,5,3,5
+pid_683,5,College graduate/some postgrad,1,1,1,1,5,1,3,4,2,4
+pid_684,5,Postgraduate,4,3,2,3,3,4,2,2,3,2
+pid_685,3,Associate's degree,1,5,1,5,3,1,4,4,5,5
+pid_686,3,"Some college, no degree",5,5,5,5,3,1,5,5,5,5
+pid_687,2,High school graduate,4,4,5,5,4,5,3,4,5,4
+pid_688,3,"Some college, no degree",5,4,4,5,5,5,3,2,1,1
+pid_689,5,Postgraduate,4,4,5,3,5,5,5,4,3,3
+pid_690,5,Postgraduate,3,4,4,5,4,2,4,4,5,3
+pid_691,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,4,5
+pid_692,5,Postgraduate,5,4,5,5,3,5,2,5,3,4
+pid_693,5,College graduate/some postgrad,1,3,1,1,4,1,2,1,5,5
+pid_694,5,College graduate/some postgrad,4,4,5,5,4,5,4,5,2,4
+pid_695,3,"Some college, no degree",4,4,4,4,4,4,4,4,4,4
+pid_696,5,College graduate/some postgrad,4,4,4,4,3,5,5,5,2,3
+pid_697,5,College graduate/some postgrad,4,3,5,4,3,4,5,5,4,3
+pid_698,2,High school graduate,4,5,5,3,5,3,5,5,5,5
+pid_699,5,College graduate/some postgrad,2,3,3,4,4,4,4,1,5,3
+pid_700,3,"Some college, no degree",1,2,1,2,3,1,2,2,5,3
+pid_701,5,Postgraduate,3,5,5,5,4,5,5,5,1,5
+pid_702,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,3,3
+pid_703,2,High school graduate,1,2,1,2,3,2,3,1,5,4
+pid_704,5,College graduate/some postgrad,4,4,4,5,2,4,5,4,2,2
+pid_705,5,Postgraduate,1,4,4,4,4,4,4,3,2,5
+pid_706,5,Postgraduate,4,5,5,5,5,5,5,5,1,4
+pid_707,1,Less than high school,5,5,5,5,2,5,5,5,3,2
+pid_708,2,High school graduate,4,3,2,5,4,4,4,5,5,4
+pid_709,5,College graduate/some postgrad,4,3,5,5,4,5,5,5,3,2
+pid_710,5,College graduate/some postgrad,1,1,1,3,3,1,3,2,5,5
+pid_711,2,High school graduate,5,5,5,5,4,5,5,5,1,1
+pid_712,3,"Some college, no degree",4,4,4,5,5,4,5,5,2,4
+pid_713,5,College graduate/some postgrad,2,1,1,3,3,2,4,4,5,4
+pid_714,5,Postgraduate,4,5,5,5,4,5,5,5,5,4
+pid_715,3,Associate's degree,4,4,2,3,4,4,3,4,1,3
+pid_716,5,College graduate/some postgrad,4,2,5,4,4,1,5,1,5,3
+pid_717,5,Postgraduate,4,5,4,3,5,5,5,5,1,4
+pid_718,3,"Some college, no degree",3,3,3,3,3,3,3,3,3,3
+pid_719,5,Postgraduate,3,4,3,4,4,4,5,3,5,5
+pid_720,5,College graduate/some postgrad,4,3,4,5,5,4,4,5,4,5
+pid_721,5,College graduate/some postgrad,4,3,4,4,3,4,4,3,4,4
+pid_722,5,Postgraduate,5,5,5,5,5,5,5,5,1,1
+pid_723,3,"Some college, no degree",3,3,3,4,4,3,5,4,5,4
+pid_724,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,4,4
+pid_725,5,College graduate/some postgrad,3,3,1,5,1,3,4,5,4,1
+pid_726,1,Less than high school,5,2,4,4,5,5,5,1,1,5
+pid_727,3,"Some college, no degree",5,4,5,5,5,2,5,5,4,5
+pid_728,2,High school graduate,4,3,4,2,3,4,2,3,3,4
+pid_729,3,"Some college, no degree",4,4,4,4,4,4,4,4,3,4
+pid_730,5,College graduate/some postgrad,3,3,2,4,4,3,3,2,4,3
+pid_731,5,Postgraduate,5,5,5,5,5,5,5,5,3,3
+pid_732,5,College graduate/some postgrad,4,3,4,4,4,4,4,4,2,3
+pid_733,5,Postgraduate,4,3,5,5,4,5,5,5,2,3
+pid_734,3,Associate's degree,4,5,3,5,3,5,5,5,2,3
+pid_735,3,"Some college, no degree",5,4,4,5,4,5,4,4,3,4
+pid_736,3,"Some college, no degree",2,5,4,5,5,5,4,5,1,1
+pid_737,3,"Some college, no degree",5,5,5,5,5,5,5,5,2,2
+pid_738,5,College graduate/some postgrad,4,4,3,3,3,3,4,4,3,4
+pid_739,5,Postgraduate,5,5,5,5,4,5,5,5,1,2
+pid_740,3,Associate's degree,5,3,5,5,3,4,4,5,2,1
+pid_741,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,2,4
+pid_742,5,College graduate/some postgrad,4,5,4,5,5,5,5,5,2,2
+pid_743,5,Postgraduate,4,3,4,4,4,3,4,5,4,4
+pid_744,5,College graduate/some postgrad,4,4,4,3,4,3,4,4,4,4
+pid_745,5,College graduate/some postgrad,3,4,3,4,4,3,3,5,4,5
+pid_746,5,Postgraduate,1,1,5,3,3,5,5,5,5,5
+pid_747,5,College graduate/some postgrad,4,4,4,5,5,5,5,3,4,4
+pid_748,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,3
+pid_749,5,Postgraduate,5,5,5,5,4,5,5,5,1,4
+pid_750,5,Postgraduate,4,4,4,4,4,3,4,4,4,4
+pid_751,5,Postgraduate,1,1,1,2,3,1,4,2,5,5
+pid_752,3,"Some college, no degree",3,3,3,3,3,4,5,3,2,4
+pid_753,5,College graduate/some postgrad,3,3,4,5,5,4,5,5,3,4
+pid_754,3,"Some college, no degree",4,5,5,4,5,5,5,5,2,3
+pid_755,3,"Some college, no degree",4,4,3,5,4,4,4,4,2,4
+pid_756,2,High school graduate,5,5,5,5,4,5,5,4,2,5
+pid_757,2,High school graduate,4,2,4,5,5,5,5,5,1,4
+pid_758,3,"Some college, no degree",5,3,5,5,5,4,4,5,3,2
+pid_759,5,Postgraduate,2,2,2,3,3,2,3,3,4,4
+pid_760,5,College graduate/some postgrad,4,4,4,2,1,3,2,2,4,1
+pid_761,5,Postgraduate,5,5,5,5,4,5,5,5,1,1
+pid_762,3,"Some college, no degree",2,5,3,5,3,1,4,5,5,1
+pid_763,5,College graduate/some postgrad,2,3,3,4,4,2,5,4,4,4
+pid_764,3,"Some college, no degree",1,3,1,1,1,4,5,4,4,3
+pid_765,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,3,5
+pid_766,5,Postgraduate,1,1,1,1,3,1,5,5,5,5
+pid_767,5,Postgraduate,5,5,5,5,3,5,5,5,1,3
+pid_768,5,Postgraduate,1,3,4,4,4,2,5,4,4,3
+pid_769,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,3
+pid_770,3,Associate's degree,4,5,4,2,4,4,4,2,4,5
+pid_771,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,1,3
+pid_772,3,"Some college, no degree",4,4,5,2,4,4,5,2,4,4
+pid_773,2,High school graduate,5,5,5,5,3,5,5,5,1,1
+pid_774,2,High school graduate,2,1,2,2,2,1,4,5,5,4
+pid_775,5,College graduate/some postgrad,2,5,5,5,5,5,5,5,4,5
+pid_776,5,College graduate/some postgrad,2,2,3,5,4,4,4,3,2,3
+pid_777,5,College graduate/some postgrad,4,5,5,5,5,5,4,5,2,3
+pid_778,3,"Some college, no degree",4,5,5,5,5,5,4,5,5,5
+pid_779,3,"Some college, no degree",4,3,4,1,5,5,5,5,5,4
+pid_780,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,1
+pid_781,5,College graduate/some postgrad,4,3,4,4,4,3,4,5,4,4
+pid_782,5,Postgraduate,1,4,1,1,4,1,1,1,5,3
+pid_783,2,High school graduate,4,4,4,4,4,4,5,5,2,5
+pid_784,5,College graduate/some postgrad,2,5,3,4,3,1,4,5,4,5
+pid_785,5,College graduate/some postgrad,3,4,4,5,3,5,4,5,2,1
+pid_786,5,College graduate/some postgrad,1,2,1,3,3,1,3,3,5,3
+pid_787,5,College graduate/some postgrad,1,1,3,4,4,4,4,1,4,4
+pid_788,3,"Some college, no degree",5,5,5,5,4,5,5,5,3,3
+pid_789,2,High school graduate,3,3,3,3,3,4,4,4,3,4
+pid_790,2,High school graduate,4,5,5,5,4,5,5,5,3,1
+pid_791,3,Associate's degree,5,4,5,1,4,5,4,2,1,1
+pid_792,2,High school graduate,4,4,5,4,5,4,4,4,3,4
+pid_793,3,Associate's degree,4,2,4,4,4,5,3,3,1,3
+pid_794,5,College graduate/some postgrad,4,2,2,4,3,1,2,4,5,3
+pid_795,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_796,2,High school graduate,4,4,4,4,5,5,5,5,1,3
+pid_797,2,High school graduate,4,5,5,5,4,5,5,3,1,4
+pid_798,2,High school graduate,4,4,4,4,3,4,3,4,3,3
+pid_799,3,Associate's degree,4,3,2,4,3,4,2,4,2,3
+pid_800,2,High school graduate,4,4,4,5,4,5,5,5,2,4
+pid_801,3,"Some college, no degree",5,3,4,3,4,3,4,2,4,4
+pid_802,3,"Some college, no degree",5,4,5,5,5,5,5,5,2,4
+pid_803,2,High school graduate,4,4,5,5,5,4,5,5,3,1
+pid_804,5,College graduate/some postgrad,2,4,2,3,3,3,3,3,3,3
+pid_805,5,College graduate/some postgrad,1,1,1,1,3,1,3,4,5,3
+pid_806,5,Postgraduate,1,1,1,1,2,1,1,1,5,3
+pid_807,3,"Some college, no degree",3,4,4,5,4,4,5,5,3,3
+pid_808,3,Associate's degree,5,5,5,2,5,5,5,5,2,3
+pid_809,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,3
+pid_810,5,College graduate/some postgrad,4,4,3,4,5,5,5,5,4,4
+pid_811,3,"Some college, no degree",3,4,2,5,5,5,4,3,1,4
+pid_812,2,High school graduate,1,1,1,1,1,1,3,3,5,5
+pid_813,5,College graduate/some postgrad,4,5,4,5,5,4,5,5,3,5
+pid_814,5,College graduate/some postgrad,2,3,4,3,5,3,4,2,5,3
+pid_815,5,College graduate/some postgrad,2,2,1,3,3,1,1,5,1,5
+pid_816,3,"Some college, no degree",4,3,4,4,5,4,4,5,2,3
+pid_817,3,Associate's degree,5,5,5,4,4,5,5,5,3,4
+pid_818,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,2,5
+pid_819,3,"Some college, no degree",1,1,1,1,1,1,1,1,5,3
+pid_820,3,"Some college, no degree",1,1,1,5,5,3,5,1,5,5
+pid_821,5,College graduate/some postgrad,4,4,4,3,4,4,5,4,4,4
+pid_822,5,Postgraduate,5,5,5,5,5,5,5,5,1,1
+pid_823,5,College graduate/some postgrad,4,3,3,3,4,4,4,4,5,4
+pid_824,5,Postgraduate,3,4,4,5,5,4,5,5,4,5
+pid_825,3,Associate's degree,4,5,5,5,5,4,5,5,1,1
+pid_826,3,"Some college, no degree",5,5,5,4,4,5,5,5,1,1
+pid_827,5,College graduate/some postgrad,5,4,4,5,5,5,5,5,4,2
+pid_828,3,Associate's degree,4,4,3,4,4,4,5,4,3,4
+pid_829,3,"Some college, no degree",3,4,4,4,4,3,4,4,3,4
+pid_830,5,College graduate/some postgrad,1,2,3,2,4,4,4,2,4,4
+pid_831,2,High school graduate,5,5,5,5,5,5,5,5,5,3
+pid_832,3,"Some college, no degree",4,5,4,4,5,4,4,4,5,4
+pid_833,5,College graduate/some postgrad,2,4,4,4,5,3,5,5,1,3
+pid_834,5,College graduate/some postgrad,5,5,5,5,5,5,3,5,2,5
+pid_835,5,Postgraduate,5,5,5,5,5,5,5,5,1,1
+pid_836,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,4,5
+pid_837,5,College graduate/some postgrad,5,5,5,3,3,5,5,5,3,3
+pid_838,5,Postgraduate,5,5,5,5,4,5,5,5,2,2
+pid_839,5,College graduate/some postgrad,2,1,2,3,5,5,2,5,2,4
+pid_840,5,Postgraduate,5,5,5,5,4,5,5,5,1,4
+pid_841,3,Associate's degree,5,5,5,5,5,5,5,5,1,1
+pid_842,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,3
+pid_843,2,High school graduate,5,4,5,3,4,3,5,4,5,5
+pid_844,5,College graduate/some postgrad,3,4,3,3,4,4,5,4,3,3
+pid_845,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,5
+pid_846,3,"Some college, no degree",1,2,2,2,2,1,5,2,5,5
+pid_847,5,Postgraduate,2,4,2,1,4,4,4,3,4,5
+pid_848,5,Postgraduate,5,3,4,4,5,5,3,5,1,3
+pid_849,3,"Some college, no degree",4,5,4,4,5,5,5,5,3,3
+pid_850,5,College graduate/some postgrad,1,3,2,4,4,3,5,1,3,3
+pid_851,3,Associate's degree,3,4,3,4,4,1,5,5,5,4
+pid_852,3,"Some college, no degree",4,4,3,4,3,4,3,4,3,4
+pid_853,3,"Some college, no degree",2,4,2,4,5,4,4,5,4,5
+pid_854,3,"Some college, no degree",4,5,4,5,4,3,5,5,3,5
+pid_855,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,2,3
+pid_856,3,"Some college, no degree",1,2,1,1,1,1,4,1,5,2
+pid_857,3,"Some college, no degree",1,4,5,5,5,5,5,4,1,2
+pid_858,2,High school graduate,4,4,5,4,2,1,5,5,5,4
+pid_859,3,"Some college, no degree",1,2,1,2,3,1,1,3,5,4
+pid_860,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,1,1
+pid_861,3,"Some college, no degree",5,4,5,5,3,5,5,4,1,2
+pid_862,5,College graduate/some postgrad,4,1,4,5,5,1,4,4,5,1
+pid_863,3,Associate's degree,3,5,3,5,5,5,5,5,2,3
+pid_864,5,Postgraduate,4,4,5,3,4,4,5,2,5,4
+pid_865,3,"Some college, no degree",4,5,5,5,2,5,5,1,2,2
+pid_866,5,College graduate/some postgrad,1,1,1,1,1,1,3,3,5,4
+pid_867,5,College graduate/some postgrad,3,5,4,5,3,5,4,3,3,4
+pid_868,5,College graduate/some postgrad,4,4,4,5,5,2,5,5,5,5
+pid_869,5,College graduate/some postgrad,5,3,3,4,4,5,5,5,2,3
+pid_870,5,College graduate/some postgrad,1,1,1,1,2,1,2,1,5,4
+pid_871,5,Postgraduate,4,5,4,4,4,4,4,4,3,4
+pid_872,3,"Some college, no degree",4,4,4,4,5,4,4,5,3,3
+pid_873,2,High school graduate,5,5,5,5,5,5,5,5,4,5
+pid_874,3,"Some college, no degree",4,5,5,5,4,2,5,4,5,4
+pid_875,2,High school graduate,4,4,5,5,5,1,5,5,5,4
+pid_876,3,Associate's degree,4,4,5,5,5,4,5,4,3,5
+pid_877,5,College graduate/some postgrad,3,5,4,5,3,5,5,5,1,3
+pid_878,5,College graduate/some postgrad,2,1,3,3,3,3,2,4,5,3
+pid_879,3,Associate's degree,5,3,5,5,5,5,5,1,5,5
+pid_880,5,College graduate/some postgrad,4,5,2,5,5,2,2,5,5,5
+pid_881,3,"Some college, no degree",1,1,1,1,5,1,3,5,5,5
+pid_882,3,"Some college, no degree",4,3,4,4,4,5,4,5,2,3
+pid_883,5,College graduate/some postgrad,3,5,5,5,4,5,5,5,4,1
+pid_884,5,College graduate/some postgrad,4,4,5,4,5,5,5,5,4,5
+pid_885,5,Postgraduate,4,3,3,5,3,4,4,5,2,1
+pid_886,5,Postgraduate,5,5,5,5,5,5,5,3,2,3
+pid_887,3,"Some college, no degree",4,5,5,5,3,4,5,5,3,3
+pid_888,3,"Some college, no degree",1,1,1,1,3,1,4,3,5,3
+pid_889,5,College graduate/some postgrad,1,1,1,1,1,1,1,1,1,1
+pid_890,3,Associate's degree,2,3,2,2,3,3,3,2,4,4
+pid_891,5,College graduate/some postgrad,1,3,1,1,2,1,1,3,5,4
+pid_892,5,College graduate/some postgrad,1,3,1,3,3,1,4,4,5,3
+pid_893,5,College graduate/some postgrad,4,2,2,2,4,4,2,2,2,4
+pid_894,3,Associate's degree,4,4,3,4,4,5,4,3,3,4
+pid_895,5,Postgraduate,3,4,3,4,4,3,4,3,4,4
+pid_896,3,Associate's degree,3,5,4,5,4,3,5,4,5,4
+pid_897,5,Postgraduate,4,5,5,5,4,5,5,5,2,3
+pid_898,5,Postgraduate,5,5,4,5,5,3,4,5,5,5
+pid_899,5,Postgraduate,4,4,4,4,4,4,4,4,4,4
+pid_900,5,Postgraduate,4,3,4,5,4,4,5,3,3,3
+pid_901,5,College graduate/some postgrad,5,5,4,5,4,4,5,5,1,4
+pid_902,3,Associate's degree,4,4,5,5,5,5,5,5,1,1
+pid_903,3,"Some college, no degree",2,2,2,1,3,2,5,3,5,3
+pid_904,3,"Some college, no degree",3,4,4,5,4,4,5,4,3,4
+pid_905,2,High school graduate,4,5,4,4,3,5,5,5,3,3
+pid_906,3,Associate's degree,1,3,1,1,4,2,2,1,5,5
+pid_907,2,High school graduate,4,4,5,5,2,4,5,5,5,4
+pid_908,2,High school graduate,4,5,5,5,5,5,5,5,2,2
+pid_909,2,High school graduate,4,5,5,5,4,5,5,5,2,4
+pid_910,5,Postgraduate,5,5,5,5,5,5,5,5,2,3
+pid_911,5,College graduate/some postgrad,5,5,5,3,5,5,5,4,2,4
+pid_912,2,High school graduate,1,4,2,1,2,2,2,5,4,1
+pid_913,5,College graduate/some postgrad,3,4,3,5,4,4,5,3,3,4
+pid_914,3,Associate's degree,4,3,3,5,5,5,5,5,2,1
+pid_915,5,College graduate/some postgrad,2,4,4,5,5,4,4,5,5,5
+pid_916,3,Associate's degree,4,3,5,3,4,4,5,5,2,3
+pid_917,3,"Some college, no degree",4,3,5,2,5,5,4,5,4,4
+pid_918,3,"Some college, no degree",4,4,4,5,3,5,5,4,2,3
+pid_919,5,Postgraduate,4,4,5,4,4,5,5,5,3,4
+pid_920,5,Postgraduate,5,5,5,4,4,5,5,5,2,4
+pid_921,2,High school graduate,4,4,5,5,5,5,5,5,1,4
+pid_922,3,"Some college, no degree",2,1,4,4,4,2,5,1,5,4
+pid_923,2,High school graduate,1,3,1,3,2,1,5,2,5,5
+pid_924,5,College graduate/some postgrad,4,4,4,4,5,4,5,5,3,2
+pid_925,3,Associate's degree,4,5,3,4,5,4,4,5,3,2
+pid_926,5,College graduate/some postgrad,2,3,3,4,4,4,5,4,3,4
+pid_927,3,Associate's degree,3,5,5,2,5,5,5,4,4,5
+pid_928,2,High school graduate,1,3,4,5,4,4,3,1,3,3
+pid_929,3,Associate's degree,4,4,3,2,5,4,2,5,5,3
+pid_930,3,Associate's degree,4,1,5,5,5,3,5,1,5,4
+pid_931,2,High school graduate,5,5,4,5,5,2,4,4,5,3
+pid_932,2,High school graduate,3,3,3,3,3,3,3,3,3,3
+pid_933,3,"Some college, no degree",5,5,5,5,3,5,5,5,1,1
+pid_934,5,College graduate/some postgrad,4,2,2,4,4,4,3,4,4,4
+pid_935,5,Postgraduate,4,4,5,3,4,5,4,5,3,1
+pid_936,5,College graduate/some postgrad,5,4,4,5,5,5,5,5,1,3
+pid_937,3,"Some college, no degree",5,3,5,4,5,3,5,5,4,4
+pid_938,1,Less than high school,4,3,3,4,3,4,3,4,2,3
+pid_939,3,"Some college, no degree",3,3,4,4,4,4,3,3,1,4
+pid_940,3,"Some college, no degree",4,4,3,5,5,2,4,5,3,5
+pid_941,3,"Some college, no degree",5,4,5,4,4,3,3,4,3,3
+pid_942,2,High school graduate,2,3,2,1,3,1,3,3,5,3
+pid_943,5,College graduate/some postgrad,2,3,4,3,2,3,2,3,4,3
+pid_944,5,Postgraduate,4,2,4,4,4,3,5,5,5,5
+pid_945,2,High school graduate,4,4,4,5,4,5,5,5,3,2
+pid_946,5,Postgraduate,4,4,5,5,5,5,5,5,1,4
+pid_947,3,Associate's degree,4,3,4,2,4,2,5,4,5,4
+pid_948,3,"Some college, no degree",4,5,5,4,5,4,4,5,4,5
+pid_949,5,College graduate/some postgrad,3,4,4,5,4,4,5,5,3,1
+pid_950,3,"Some college, no degree",3,2,3,3,5,5,3,5,3,2
+pid_951,3,"Some college, no degree",5,4,5,3,3,3,3,1,5,3
+pid_952,2,High school graduate,5,4,5,5,4,3,5,5,3,4
+pid_953,2,High school graduate,4,4,5,5,5,5,5,5,2,5
+pid_954,3,Associate's degree,5,2,2,2,4,4,5,2,4,4
+pid_955,3,Associate's degree,5,3,5,4,5,4,5,5,2,3
+pid_956,5,College graduate/some postgrad,4,2,3,4,5,2,4,5,4,4
+pid_957,3,Associate's degree,4,4,5,4,5,3,5,5,3,2
+pid_958,5,College graduate/some postgrad,5,4,5,5,3,3,2,5,4,3
+pid_959,2,High school graduate,1,1,1,2,1,2,2,5,5,2
+pid_960,3,"Some college, no degree",4,5,4,5,5,1,1,5,5,4
+pid_961,3,Associate's degree,5,4,5,5,5,5,5,5,1,4
+pid_962,2,High school graduate,4,3,5,5,3,3,5,5,3,2
+pid_963,5,College graduate/some postgrad,2,1,4,1,2,1,1,1,5,1
+pid_964,5,Postgraduate,5,4,5,4,4,4,4,4,3,4
+pid_965,3,"Some college, no degree",4,3,5,5,4,5,5,4,1,2
+pid_966,3,"Some college, no degree",2,1,2,1,2,1,4,4,5,2
+pid_967,3,Associate's degree,1,4,1,2,5,5,4,5,2,5
+pid_968,3,"Some college, no degree",4,1,1,1,1,1,5,3,5,5
+pid_969,5,College graduate/some postgrad,2,4,1,2,4,2,4,2,4,3
+pid_970,2,High school graduate,4,2,4,2,4,2,4,5,4,2
+pid_971,3,"Some college, no degree",5,5,5,5,3,4,5,3,2,3
+pid_972,5,Postgraduate,2,3,3,3,5,2,5,5,5,5
+pid_973,5,Postgraduate,4,4,4,4,4,5,5,2,4,4
+pid_974,2,High school graduate,5,4,5,4,5,5,5,5,5,5
+pid_975,5,Postgraduate,4,4,5,5,5,5,5,5,4,5
+pid_976,5,Postgraduate,2,5,4,5,5,4,5,5,4,5
+pid_977,5,Postgraduate,4,5,5,4,5,5,5,5,2,4
+pid_978,2,High school graduate,1,2,1,4,4,1,1,1,5,5
+pid_979,2,High school graduate,3,5,4,4,4,3,4,3,3,4
+pid_980,3,Associate's degree,5,3,4,5,3,3,5,5,4,3
+pid_981,5,College graduate/some postgrad,1,4,2,2,4,4,4,4,5,5
+pid_982,5,College graduate/some postgrad,5,4,5,5,5,5,4,5,1,2
+pid_983,5,Postgraduate,4,4,4,5,4,2,4,4,4,4
+pid_984,3,"Some college, no degree",1,4,1,3,3,2,5,1,5,3
+pid_985,3,"Some college, no degree",4,5,4,4,5,3,4,4,5,5
+pid_986,3,"Some college, no degree",4,4,5,5,4,3,4,5,5,3
+pid_987,5,Postgraduate,4,5,4,5,3,5,5,5,3,1
+pid_988,5,College graduate/some postgrad,4,3,4,5,5,5,5,5,1,3
+pid_989,5,Postgraduate,4,5,4,5,3,5,5,5,1,5
+pid_990,5,College graduate/some postgrad,5,4,4,5,4,5,5,5,2,3
+pid_991,5,Postgraduate,4,5,4,5,4,5,5,5,1,4
+pid_992,5,Postgraduate,2,2,3,4,4,2,4,3,3,2
+pid_993,3,"Some college, no degree",4,3,3,5,4,4,5,5,4,4
+pid_994,5,College graduate/some postgrad,4,5,3,4,1,3,5,1,1,3
+pid_995,3,"Some college, no degree",2,3,3,4,5,5,3,5,4,3
+pid_996,5,College graduate/some postgrad,4,4,4,4,4,5,5,5,3,4
+pid_997,3,"Some college, no degree",5,4,5,5,5,4,5,4,5,4
+pid_998,5,Postgraduate,4,5,4,5,5,5,5,5,1,1
+pid_999,1,Less than high school,4,3,4,5,3,3,3,5,5,3
+pid_1000,2,High school graduate,1,1,1,2,4,2,3,4,5,3
+pid_1001,1,Less than high school,4,4,5,5,3,5,5,5,1,2
+pid_1002,3,"Some college, no degree",5,5,5,5,3,4,5,5,2,3
+pid_1003,3,Associate's degree,3,3,3,5,4,3,5,5,2,3
+pid_1004,3,"Some college, no degree",4,4,5,2,5,5,5,5,3,4
+pid_1005,5,College graduate/some postgrad,1,1,1,1,5,3,1,1,3,3
+pid_1006,5,College graduate/some postgrad,3,3,4,3,4,5,5,5,1,3
+pid_1007,2,High school graduate,1,3,3,5,5,5,5,5,5,3
+pid_1008,3,"Some college, no degree",4,4,5,5,2,5,5,5,2,4
+pid_1009,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,1
+pid_1010,5,Postgraduate,4,5,4,5,5,5,5,5,1,1
+pid_1011,5,Postgraduate,4,1,2,1,1,2,2,1,5,2
+pid_1012,5,College graduate/some postgrad,5,5,3,5,5,5,5,5,1,5
+pid_1013,5,College graduate/some postgrad,3,4,3,2,4,1,5,5,4,3
+pid_1014,5,Postgraduate,5,5,5,5,5,5,5,5,2,5
+pid_1015,3,Associate's degree,5,2,3,5,1,5,3,5,3,1
+pid_1016,3,Associate's degree,1,2,1,1,3,3,1,1,4,3
+pid_1017,3,Associate's degree,5,5,5,5,5,5,5,5,3,5
+pid_1018,5,College graduate/some postgrad,4,4,4,3,3,5,5,5,1,3
+pid_1019,5,Postgraduate,3,3,3,3,3,3,3,3,3,3
+pid_1020,5,Postgraduate,3,4,4,5,5,5,5,5,1,3
+pid_1021,5,Postgraduate,4,5,4,5,3,5,5,5,1,3
+pid_1022,2,High school graduate,1,3,3,2,5,4,2,1,5,4
+pid_1023,2,High school graduate,5,5,5,4,5,5,5,5,2,5
+pid_1024,5,Postgraduate,5,4,5,5,4,5,4,5,5,5
+pid_1025,3,"Some college, no degree",4,3,4,4,4,4,3,4,3,4
+pid_1026,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_1027,2,High school graduate,2,4,4,5,4,1,5,5,5,4
+pid_1028,2,High school graduate,3,3,4,4,4,5,1,3,4,4
+pid_1029,3,Associate's degree,4,3,5,3,5,5,5,5,3,5
+pid_1030,2,High school graduate,3,2,4,3,4,4,5,2,2,4
+pid_1031,5,Postgraduate,4,4,4,4,4,5,5,5,3,4
+pid_1032,3,"Some college, no degree",3,3,4,2,2,1,4,4,5,4
+pid_1033,3,Associate's degree,5,3,5,5,5,5,5,5,2,1
+pid_1034,2,High school graduate,4,5,4,5,5,5,4,5,4,1
+pid_1035,2,High school graduate,2,2,3,1,4,2,3,2,3,4
+pid_1036,5,Postgraduate,5,5,5,5,5,4,5,5,5,5
+pid_1037,3,"Some college, no degree",4,5,4,4,5,4,3,4,5,4
+pid_1038,5,College graduate/some postgrad,4,5,4,5,4,4,5,5,4,5
+pid_1039,3,Associate's degree,3,2,2,3,3,3,4,3,3,4
+pid_1040,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,2
+pid_1041,3,Associate's degree,3,3,3,3,4,3,4,2,4,4
+pid_1042,5,Postgraduate,4,4,4,4,4,4,5,4,3,4
+pid_1043,3,Associate's degree,3,3,4,5,4,4,5,5,5,3
+pid_1044,3,"Some college, no degree",3,3,4,4,4,3,4,4,3,4
+pid_1045,5,College graduate/some postgrad,5,5,5,5,5,5,5,3,1,3
+pid_1046,3,"Some college, no degree",4,4,4,4,4,5,5,5,2,3
+pid_1047,5,Postgraduate,3,2,2,3,4,1,4,2,4,4
+pid_1048,2,High school graduate,5,5,5,5,1,5,5,5,1,1
+pid_1049,5,College graduate/some postgrad,4,2,3,3,4,4,4,4,4,4
+pid_1050,5,Postgraduate,1,2,3,2,1,2,5,1,5,4
+pid_1051,3,"Some college, no degree",5,5,4,4,5,5,5,5,1,1
+pid_1052,5,College graduate/some postgrad,2,3,2,3,4,4,4,3,2,2
+pid_1053,5,College graduate/some postgrad,4,4,5,4,4,4,5,5,3,3
+pid_1054,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,1
+pid_1055,5,Postgraduate,3,2,1,3,3,1,4,5,5,3
+pid_1056,3,Associate's degree,5,4,5,5,4,5,5,5,1,2
+pid_1057,5,Postgraduate,4,4,5,5,4,5,3,4,3,2
+pid_1058,3,"Some college, no degree",5,4,4,5,4,4,4,5,3,5
+pid_1059,3,"Some college, no degree",5,5,5,5,4,5,5,5,1,2
+pid_1060,5,College graduate/some postgrad,3,3,4,4,4,4,5,5,4,3
+pid_1061,5,College graduate/some postgrad,5,3,5,4,4,5,3,4,1,1
+pid_1062,3,Associate's degree,4,5,4,5,5,4,5,5,2,3
+pid_1063,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,3,1
+pid_1064,5,College graduate/some postgrad,4,4,5,5,5,5,4,5,3,4
+pid_1065,3,"Some college, no degree",2,2,3,2,4,2,4,5,5,3
+pid_1066,3,"Some college, no degree",2,3,2,4,4,2,5,4,4,3
+pid_1067,2,High school graduate,4,4,5,5,3,1,5,5,5,3
+pid_1068,5,College graduate/some postgrad,3,2,2,4,4,4,4,4,2,3
+pid_1069,5,College graduate/some postgrad,5,4,5,4,5,5,3,5,2,3
+pid_1070,3,Associate's degree,4,4,4,5,5,1,5,5,5,5
+pid_1071,3,"Some college, no degree",1,3,3,1,4,1,3,1,5,5
+pid_1072,2,High school graduate,2,2,3,2,2,1,3,4,5,4
+pid_1073,3,"Some college, no degree",4,4,4,4,4,3,5,5,3,3
+pid_1074,3,"Some college, no degree",2,3,4,5,5,4,4,3,3,3
+pid_1075,3,"Some college, no degree",5,4,5,5,5,5,4,5,1,1
+pid_1076,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,5,5
+pid_1077,5,College graduate/some postgrad,2,4,4,2,4,2,4,2,4,4
+pid_1078,5,College graduate/some postgrad,1,2,2,4,4,2,2,4,5,4
+pid_1079,5,College graduate/some postgrad,5,5,4,5,4,5,5,5,1,4
+pid_1080,5,College graduate/some postgrad,3,4,4,4,4,5,4,5,3,4
+pid_1081,5,College graduate/some postgrad,4,4,4,5,3,5,5,5,1,1
+pid_1082,2,High school graduate,4,3,5,4,5,4,3,4,2,3
+pid_1083,5,Postgraduate,5,5,5,5,4,5,5,5,1,5
+pid_1084,3,"Some college, no degree",4,3,5,5,5,4,4,5,4,4
+pid_1085,3,"Some college, no degree",4,5,4,5,4,5,5,5,1,4
+pid_1086,3,"Some college, no degree",4,4,5,5,4,4,3,2,2,2
+pid_1087,5,Postgraduate,4,5,4,5,5,5,5,5,3,5
+pid_1088,3,Associate's degree,5,4,4,4,5,5,5,5,3,2
+pid_1089,3,"Some college, no degree",5,5,5,5,5,5,3,5,3,3
+pid_1090,3,"Some college, no degree",4,5,5,5,5,3,5,5,5,5
+pid_1091,5,College graduate/some postgrad,4,4,3,4,3,5,5,3,3,4
+pid_1092,5,College graduate/some postgrad,2,4,2,3,4,4,4,3,4,4
+pid_1093,2,High school graduate,4,3,4,2,4,2,3,5,5,2
+pid_1094,5,College graduate/some postgrad,5,4,5,4,3,4,3,5,3,2
+pid_1095,2,High school graduate,5,5,4,3,4,4,5,5,3,5
+pid_1096,3,"Some college, no degree",3,4,3,3,4,4,4,5,5,4
+pid_1097,5,College graduate/some postgrad,3,4,3,5,4,5,5,5,1,4
+pid_1098,5,College graduate/some postgrad,3,2,1,1,3,1,2,2,5,3
+pid_1099,5,Postgraduate,5,5,5,5,5,5,5,5,4,4
+pid_1100,3,"Some college, no degree",5,5,5,5,1,5,5,5,3,5
+pid_1101,3,"Some college, no degree",3,4,4,4,3,3,5,5,5,3
+pid_1102,2,High school graduate,1,2,2,2,3,1,2,1,5,4
+pid_1103,3,"Some college, no degree",3,4,3,5,3,1,5,5,5,3
+pid_1104,3,"Some college, no degree",2,3,2,2,4,3,5,3,4,4
+pid_1105,3,"Some college, no degree",4,2,3,4,5,4,5,5,5,2
+pid_1106,5,College graduate/some postgrad,3,2,4,5,4,3,5,5,3,5
+pid_1107,5,Postgraduate,3,3,3,3,4,3,3,3,4,3
+pid_1108,3,Associate's degree,1,1,1,1,4,4,2,1,5,4
+pid_1109,3,"Some college, no degree",4,4,5,4,4,4,5,5,5,4
+pid_1110,5,Postgraduate,2,1,2,2,4,2,4,2,4,4
+pid_1111,3,"Some college, no degree",5,4,4,3,4,4,5,5,5,4
+pid_1112,3,Associate's degree,5,4,5,5,5,5,5,5,4,1
+pid_1113,5,Postgraduate,5,5,5,5,5,5,5,5,1,1
+pid_1114,5,College graduate/some postgrad,5,3,5,4,5,5,5,5,4,4
+pid_1115,3,"Some college, no degree",4,5,5,5,5,5,5,5,5,5
+pid_1116,1,Less than high school,5,5,5,4,5,4,5,5,3,4
+pid_1117,5,Postgraduate,1,3,2,1,4,2,3,1,5,3
+pid_1118,5,College graduate/some postgrad,3,3,4,4,5,3,4,4,3,4
+pid_1119,2,High school graduate,3,4,3,5,5,3,4,4,3,3
+pid_1120,3,"Some college, no degree",2,3,3,2,4,2,4,4,5,3
+pid_1121,3,Associate's degree,4,2,3,3,5,3,4,4,4,4
+pid_1122,5,College graduate/some postgrad,5,3,5,5,3,4,5,5,3,1
+pid_1123,5,College graduate/some postgrad,4,3,3,4,4,4,4,4,3,3
+pid_1124,3,"Some college, no degree",2,3,3,4,4,2,2,4,4,3
+pid_1125,5,College graduate/some postgrad,3,3,4,4,4,3,4,5,5,4
+pid_1126,3,"Some college, no degree",4,3,4,2,3,1,3,5,5,3
+pid_1127,3,"Some college, no degree",4,4,4,5,4,4,4,4,3,4
+pid_1128,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,5
+pid_1129,5,College graduate/some postgrad,4,4,4,5,4,4,4,4,4,4
+pid_1130,5,College graduate/some postgrad,1,2,2,2,2,1,5,1,5,4
+pid_1131,5,College graduate/some postgrad,4,3,2,5,5,4,1,2,3,2
+pid_1132,5,Postgraduate,2,5,4,5,1,4,5,5,5,1
+pid_1133,5,College graduate/some postgrad,4,3,2,3,4,4,4,4,3,4
+pid_1134,5,College graduate/some postgrad,4,4,5,5,5,5,5,5,2,3
+pid_1135,3,"Some college, no degree",1,1,1,1,5,1,2,1,5,5
+pid_1136,3,"Some college, no degree",4,1,3,1,3,1,4,4,5,3
+pid_1137,5,Postgraduate,3,5,4,4,4,5,5,2,1,1
+pid_1138,5,College graduate/some postgrad,1,1,1,1,3,1,1,1,5,4
+pid_1139,5,College graduate/some postgrad,3,4,5,4,4,5,5,4,3,4
+pid_1140,5,College graduate/some postgrad,4,4,4,5,5,2,5,4,5,5
+pid_1141,5,College graduate/some postgrad,2,2,2,2,4,1,4,1,5,4
+pid_1142,2,High school graduate,3,4,4,4,3,5,3,5,2,1
+pid_1143,5,Postgraduate,1,3,2,4,5,4,3,2,4,3
+pid_1144,3,"Some college, no degree",4,5,5,4,5,5,2,5,4,5
+pid_1145,5,College graduate/some postgrad,2,3,3,2,2,3,3,2,4,3
+pid_1146,3,"Some college, no degree",3,4,3,5,5,3,4,5,4,4
+pid_1147,3,Associate's degree,1,1,2,5,4,1,1,3,5,2
+pid_1148,5,College graduate/some postgrad,4,4,5,5,3,5,5,4,3,2
+pid_1149,3,"Some college, no degree",5,5,5,5,4,5,5,5,1,4
+pid_1150,2,High school graduate,3,4,5,5,5,5,5,3,5,5
+pid_1151,3,"Some college, no degree",1,1,1,2,2,1,5,1,5,5
+pid_1152,1,Less than high school,4,4,5,5,5,5,5,5,1,3
+pid_1153,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_1154,3,"Some college, no degree",4,3,4,5,4,1,5,3,5,5
+pid_1155,5,College graduate/some postgrad,4,1,1,1,3,2,1,1,5,3
+pid_1156,5,Postgraduate,4,3,3,4,4,3,4,3,2,3
+pid_1157,3,"Some college, no degree",3,3,3,5,5,5,5,3,1,2
+pid_1158,2,High school graduate,4,4,5,5,4,5,5,5,1,2
+pid_1159,5,College graduate/some postgrad,2,4,4,4,5,3,4,5,5,3
+pid_1160,3,"Some college, no degree",5,4,5,5,5,4,5,3,3,5
+pid_1161,5,College graduate/some postgrad,1,1,1,1,1,3,5,3,5,3
+pid_1162,5,College graduate/some postgrad,4,3,4,5,5,4,5,5,3,3
+pid_1163,2,High school graduate,4,5,5,5,4,5,5,5,2,5
+pid_1164,5,Postgraduate,4,3,5,4,4,5,5,5,1,4
+pid_1165,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_1166,3,"Some college, no degree",4,5,5,5,5,5,5,5,1,3
+pid_1167,2,High school graduate,2,3,2,3,3,4,4,3,5,4
+pid_1168,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,4,4
+pid_1169,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,1
+pid_1170,3,"Some college, no degree",3,3,3,4,3,3,5,3,3,3
+pid_1171,3,"Some college, no degree",2,3,2,5,4,1,1,5,5,4
+pid_1172,5,College graduate/some postgrad,3,4,4,5,5,3,5,5,2,5
+pid_1173,5,College graduate/some postgrad,2,4,4,5,4,4,5,4,5,4
+pid_1174,5,College graduate/some postgrad,4,3,3,5,5,4,4,3,4,5
+pid_1175,3,Associate's degree,1,4,2,1,4,2,4,1,5,5
+pid_1176,3,"Some college, no degree",5,4,5,5,5,5,5,5,1,4
+pid_1177,5,College graduate/some postgrad,1,2,2,1,4,4,2,1,5,3
+pid_1178,5,College graduate/some postgrad,5,5,4,5,4,5,5,5,2,5
+pid_1179,5,Postgraduate,3,3,3,3,3,3,3,3,3,3
+pid_1180,3,"Some college, no degree",3,4,4,5,5,5,5,5,3,5
+pid_1181,5,Postgraduate,4,5,4,5,1,5,5,5,2,1
+pid_1182,2,High school graduate,4,4,4,4,4,5,5,3,1,1
+pid_1183,5,College graduate/some postgrad,4,4,4,5,4,3,5,5,3,3
+pid_1184,2,High school graduate,2,3,1,3,3,1,4,5,3,3
+pid_1185,5,College graduate/some postgrad,1,2,1,1,3,1,3,1,5,5
+pid_1186,3,"Some college, no degree",5,5,5,5,5,5,5,3,1,4
+pid_1187,3,"Some college, no degree",4,4,4,4,4,5,4,5,2,1
+pid_1188,3,"Some college, no degree",4,4,5,4,5,5,5,5,1,3
+pid_1189,2,High school graduate,2,1,1,2,3,1,4,4,5,3
+pid_1190,3,Associate's degree,2,3,4,3,5,1,5,2,5,1
+pid_1191,2,High school graduate,2,4,4,3,4,5,5,4,4,4
+pid_1192,3,"Some college, no degree",5,4,4,5,4,5,4,4,5,4
+pid_1193,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,5,5
+pid_1194,5,College graduate/some postgrad,1,3,5,5,5,5,5,5,3,3
+pid_1195,5,College graduate/some postgrad,3,3,3,5,4,4,3,5,3,4
+pid_1196,5,College graduate/some postgrad,4,3,4,3,4,3,5,5,4,4
+pid_1197,3,Associate's degree,3,4,4,5,4,5,4,3,3,3
+pid_1198,3,Associate's degree,1,1,1,1,1,1,1,1,5,4
+pid_1199,5,Postgraduate,4,5,4,2,4,2,5,5,5,4
+pid_1200,5,Postgraduate,1,3,1,1,1,1,5,1,5,5
+pid_1201,5,College graduate/some postgrad,5,5,4,5,3,1,5,5,5,5
+pid_1202,5,Postgraduate,4,2,4,2,4,4,4,2,4,3
+pid_1203,5,College graduate/some postgrad,1,3,1,2,3,2,2,3,5,4
+pid_1204,5,Postgraduate,5,5,5,5,5,5,5,5,1,1
+pid_1205,3,"Some college, no degree",4,4,4,1,4,3,4,4,5,4
+pid_1206,2,High school graduate,4,3,5,5,3,5,5,4,1,3
+pid_1207,5,Postgraduate,3,4,1,1,3,3,4,3,4,5
+pid_1208,5,College graduate/some postgrad,2,2,2,2,4,2,3,3,5,3
+pid_1209,2,High school graduate,4,4,4,4,4,3,4,5,3,3
+pid_1210,5,College graduate/some postgrad,5,5,3,5,5,5,5,5,3,1
+pid_1211,3,Associate's degree,4,3,5,4,4,3,4,5,3,5
+pid_1212,3,Associate's degree,4,2,4,2,4,5,5,3,2,4
+pid_1213,5,College graduate/some postgrad,5,3,5,3,4,3,4,5,3,3
+pid_1214,3,"Some college, no degree",3,3,4,4,4,2,2,4,4,2
+pid_1215,5,Postgraduate,5,5,5,4,4,1,2,1,4,4
+pid_1216,5,College graduate/some postgrad,4,3,4,4,4,4,5,2,4,5
+pid_1217,3,Associate's degree,5,2,5,5,4,2,4,5,5,4
+pid_1218,3,"Some college, no degree",4,4,4,4,4,3,4,5,3,3
+pid_1219,2,High school graduate,3,4,5,5,5,5,5,5,5,5
+pid_1220,2,High school graduate,1,2,1,1,3,1,2,1,5,3
+pid_1221,3,Associate's degree,4,4,4,3,3,4,4,3,4,4
+pid_1222,3,"Some college, no degree",2,2,2,4,5,4,4,2,4,4
+pid_1223,5,Postgraduate,2,2,2,2,4,4,1,1,4,3
+pid_1224,5,College graduate/some postgrad,5,2,5,1,1,1,2,4,5,4
+pid_1225,5,Postgraduate,4,4,5,5,5,2,5,5,5,5
+pid_1226,3,Associate's degree,2,3,4,3,4,4,3,2,4,4
+pid_1227,5,College graduate/some postgrad,1,1,1,1,1,1,1,2,5,3
+pid_1228,5,College graduate/some postgrad,5,2,5,4,5,4,4,4,4,4
+pid_1229,3,"Some college, no degree",5,4,5,5,5,4,5,5,5,5
+pid_1230,5,College graduate/some postgrad,3,4,3,4,3,4,4,4,4,3
+pid_1231,5,Postgraduate,4,3,4,4,5,4,4,4,4,1
+pid_1232,5,College graduate/some postgrad,2,4,3,5,3,3,5,2,4,4
+pid_1233,5,College graduate/some postgrad,5,5,5,4,5,5,5,5,4,5
+pid_1234,3,"Some college, no degree",5,4,5,5,5,5,5,4,3,2
+pid_1235,5,College graduate/some postgrad,4,3,3,5,3,4,4,5,2,2
+pid_1236,5,College graduate/some postgrad,4,3,4,4,4,3,3,4,5,4
+pid_1237,3,"Some college, no degree",2,2,3,2,4,4,4,5,2,4
+pid_1238,2,High school graduate,2,3,2,3,5,2,3,1,5,2
+pid_1239,5,College graduate/some postgrad,5,4,5,4,5,4,4,5,4,5
+pid_1240,2,High school graduate,2,3,3,4,5,2,5,5,5,4
+pid_1241,5,College graduate/some postgrad,5,3,5,5,3,5,5,5,3,3
+pid_1242,2,High school graduate,5,5,5,5,5,5,3,5,2,2
+pid_1243,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,3,3
+pid_1244,5,College graduate/some postgrad,2,4,1,5,5,4,4,5,2,1
+pid_1245,3,"Some college, no degree",4,5,5,5,5,2,4,5,5,1
+pid_1246,5,College graduate/some postgrad,1,1,1,1,2,1,1,1,5,3
+pid_1247,5,College graduate/some postgrad,5,5,4,5,3,5,4,5,2,3
+pid_1248,2,High school graduate,2,4,4,5,4,4,4,4,1,3
+pid_1249,2,High school graduate,3,3,5,5,5,1,5,5,5,3
+pid_1250,3,"Some college, no degree",1,1,1,1,2,1,2,1,5,5
+pid_1251,5,Postgraduate,4,4,5,4,5,2,4,2,5,5
+pid_1252,5,College graduate/some postgrad,3,4,4,5,4,2,5,5,5,3
+pid_1253,5,College graduate/some postgrad,1,4,3,1,4,4,4,3,4,3
+pid_1254,3,Associate's degree,4,3,3,4,3,4,3,3,3,3
+pid_1255,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,2,3
+pid_1256,3,"Some college, no degree",1,2,4,4,4,1,5,1,5,3
+pid_1257,1,Less than high school,4,4,4,4,5,5,5,5,2,5
+pid_1258,2,High school graduate,4,3,4,5,4,4,4,4,2,2
+pid_1259,2,High school graduate,2,2,2,1,4,1,3,5,5,5
+pid_1260,5,College graduate/some postgrad,3,4,4,4,5,3,2,2,3,3
+pid_1261,5,Postgraduate,5,4,5,4,4,5,5,5,1,1
+pid_1262,3,"Some college, no degree",3,4,4,4,4,4,5,5,2,4
+pid_1263,5,College graduate/some postgrad,4,5,5,5,5,5,4,4,1,2
+pid_1264,3,"Some college, no degree",4,4,4,4,4,4,5,4,3,4
+pid_1265,3,"Some college, no degree",3,3,3,3,3,4,4,4,3,3
+pid_1266,3,"Some college, no degree",5,5,5,5,5,4,5,5,2,3
+pid_1267,3,"Some college, no degree",4,3,2,5,5,5,5,5,2,4
+pid_1268,3,"Some college, no degree",4,3,2,5,3,4,2,3,3,2
+pid_1269,5,College graduate/some postgrad,1,2,1,1,1,1,2,3,5,4
+pid_1270,3,Associate's degree,4,4,5,5,4,5,5,5,1,4
+pid_1271,2,High school graduate,4,2,4,4,4,4,4,4,4,4
+pid_1272,3,Associate's degree,4,2,2,5,4,2,4,5,4,2
+pid_1273,3,"Some college, no degree",4,5,5,5,5,5,5,5,2,3
+pid_1274,5,College graduate/some postgrad,5,5,5,4,5,5,5,5,2,4
+pid_1275,5,College graduate/some postgrad,2,2,2,1,4,4,4,5,5,4
+pid_1276,3,"Some college, no degree",4,4,5,4,4,4,4,4,5,4
+pid_1277,3,Associate's degree,4,3,3,5,4,2,4,5,5,4
+pid_1278,3,"Some college, no degree",4,4,4,5,5,4,5,4,2,5
+pid_1279,3,"Some college, no degree",1,1,3,1,1,1,5,5,5,2
+pid_1280,3,Associate's degree,4,4,5,3,5,4,3,4,3,5
+pid_1281,3,"Some college, no degree",4,3,4,5,5,4,5,5,5,4
+pid_1282,3,Associate's degree,4,4,4,4,5,3,4,4,2,4
+pid_1283,5,College graduate/some postgrad,4,4,5,4,4,4,5,5,4,5
+pid_1284,5,College graduate/some postgrad,4,4,5,4,5,5,5,5,1,3
+pid_1285,3,"Some college, no degree",4,4,5,5,5,5,5,5,1,5
+pid_1286,2,High school graduate,2,3,3,4,5,2,3,4,4,1
+pid_1287,5,College graduate/some postgrad,4,5,4,4,4,5,4,5,4,4
+pid_1288,5,College graduate/some postgrad,1,1,1,4,3,1,2,1,5,4
+pid_1289,3,Associate's degree,5,5,5,5,5,5,5,5,1,1
+pid_1290,5,Postgraduate,4,3,2,4,4,5,4,4,4,4
+pid_1291,3,"Some college, no degree",2,4,4,5,5,4,5,2,2,1
+pid_1292,2,High school graduate,5,5,5,5,4,5,5,5,1,2
+pid_1293,3,Associate's degree,5,4,4,5,5,5,5,5,2,5
+pid_1294,3,"Some college, no degree",4,3,4,5,4,4,5,5,2,4
+pid_1295,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,2
+pid_1296,3,"Some college, no degree",2,4,4,5,4,5,5,3,3,4
+pid_1297,5,College graduate/some postgrad,4,5,4,3,5,4,3,5,3,5
+pid_1298,3,"Some college, no degree",4,4,4,5,5,5,5,5,2,3
+pid_1299,3,"Some college, no degree",3,4,5,5,3,5,4,5,2,3
+pid_1300,5,Postgraduate,1,3,1,4,5,3,5,4,4,4
+pid_1301,2,High school graduate,4,2,5,5,5,4,4,5,2,4
+pid_1302,5,College graduate/some postgrad,2,3,4,4,3,3,4,1,5,4
+pid_1303,5,College graduate/some postgrad,1,2,1,1,2,2,1,1,1,3
+pid_1304,5,Postgraduate,2,4,4,5,4,3,4,5,4,4
+pid_1305,5,Postgraduate,5,4,4,4,3,4,3,4,5,4
+pid_1306,5,College graduate/some postgrad,4,4,4,5,3,4,5,5,5,5
+pid_1307,5,Postgraduate,4,2,5,5,5,4,5,5,4,3
+pid_1308,5,College graduate/some postgrad,4,4,2,5,5,4,5,5,3,4
+pid_1309,5,College graduate/some postgrad,4,4,4,4,4,4,3,5,2,4
+pid_1310,3,"Some college, no degree",5,4,5,5,5,5,5,5,2,4
+pid_1311,5,College graduate/some postgrad,4,5,4,5,4,5,5,5,3,4
+pid_1312,3,"Some college, no degree",1,1,1,1,3,1,2,3,5,5
+pid_1313,2,High school graduate,5,5,5,5,5,5,5,5,1,1
+pid_1314,2,High school graduate,3,5,5,5,3,3,5,3,3,3
+pid_1315,5,College graduate/some postgrad,4,4,5,5,3,5,5,5,1,3
+pid_1316,3,Associate's degree,4,4,4,5,4,4,4,4,5,4
+pid_1317,5,Postgraduate,4,4,4,4,2,2,4,4,4,2
+pid_1318,3,Associate's degree,4,3,5,5,5,5,5,4,2,4
+pid_1319,5,Postgraduate,4,4,5,5,5,5,5,5,2,1
+pid_1320,3,"Some college, no degree",5,4,5,3,5,5,5,1,2,1
+pid_1321,5,College graduate/some postgrad,3,4,3,2,3,1,4,4,5,3
+pid_1322,2,High school graduate,4,4,4,5,5,4,5,5,3,5
+pid_1323,5,College graduate/some postgrad,4,5,4,5,5,5,5,5,2,5
+pid_1324,5,Postgraduate,5,4,5,4,5,5,5,5,3,4
+pid_1325,5,College graduate/some postgrad,2,4,5,5,4,2,5,5,2,4
+pid_1326,5,Postgraduate,5,5,5,5,5,5,5,5,1,5
+pid_1327,5,Postgraduate,4,3,3,5,5,1,5,4,5,3
+pid_1328,5,Postgraduate,1,1,5,5,5,4,5,5,5,1
+pid_1329,2,High school graduate,4,3,5,5,5,5,4,5,3,1
+pid_1330,3,"Some college, no degree",3,3,5,4,4,5,5,4,3,5
+pid_1331,5,Postgraduate,2,3,4,1,4,5,4,3,4,4
+pid_1332,2,High school graduate,5,4,5,5,3,4,4,5,2,2
+pid_1333,5,College graduate/some postgrad,4,4,2,2,4,5,5,2,4,4
+pid_1334,5,Postgraduate,4,5,5,5,5,5,5,5,1,4
+pid_1335,5,College graduate/some postgrad,5,5,5,5,5,4,5,5,5,5
+pid_1336,5,College graduate/some postgrad,5,4,5,5,3,4,5,5,4,5
+pid_1337,5,College graduate/some postgrad,5,4,5,5,4,5,4,5,2,2
+pid_1338,5,College graduate/some postgrad,3,3,4,5,4,4,4,4,3,2
+pid_1339,3,Associate's degree,3,3,3,3,3,3,3,3,3,3
+pid_1340,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,3
+pid_1341,3,"Some college, no degree",4,5,4,5,4,5,4,5,1,1
+pid_1342,5,College graduate/some postgrad,4,3,2,4,4,5,4,3,4,2
+pid_1343,5,College graduate/some postgrad,4,4,4,5,4,5,4,5,1,2
+pid_1344,3,Associate's degree,5,5,5,5,5,5,5,3,1,4
+pid_1345,5,College graduate/some postgrad,5,5,5,2,5,2,5,5,5,5
+pid_1346,5,College graduate/some postgrad,4,4,4,5,4,4,4,5,3,3
+pid_1347,5,College graduate/some postgrad,5,3,5,4,4,2,4,3,5,3
+pid_1348,5,College graduate/some postgrad,2,4,4,3,3,1,4,4,5,4
+pid_1349,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,4
+pid_1350,5,College graduate/some postgrad,4,4,4,5,5,4,4,5,3,4
+pid_1351,5,College graduate/some postgrad,1,1,1,1,3,1,1,2,5,4
+pid_1352,3,Associate's degree,2,2,2,3,4,2,4,4,4,4
+pid_1353,5,College graduate/some postgrad,1,3,3,5,3,4,5,5,3,3
+pid_1354,3,Associate's degree,5,4,5,5,3,5,5,5,3,3
+pid_1355,2,High school graduate,1,3,4,4,3,4,4,5,3,3
+pid_1356,3,Associate's degree,4,4,3,4,3,5,4,5,2,3
+pid_1357,2,High school graduate,5,4,4,5,5,5,5,5,1,2
+pid_1358,5,College graduate/some postgrad,1,1,1,1,1,3,4,1,5,3
+pid_1359,3,Associate's degree,4,4,5,5,4,5,5,5,1,3
+pid_1360,5,Postgraduate,4,3,4,3,4,4,3,4,3,4
+pid_1361,3,"Some college, no degree",1,1,1,1,3,3,4,1,5,3
+pid_1362,3,"Some college, no degree",2,2,2,2,2,2,2,2,2,2
+pid_1363,2,High school graduate,1,1,1,1,3,2,1,1,5,4
+pid_1364,5,Postgraduate,4,4,4,5,5,3,5,4,3,5
+pid_1365,5,Postgraduate,4,5,5,5,4,5,5,4,1,5
+pid_1366,2,High school graduate,1,2,1,4,5,4,4,3,5,5
+pid_1367,3,Associate's degree,2,1,1,1,4,1,2,1,5,5
+pid_1368,3,"Some college, no degree",4,2,4,4,2,2,2,2,5,4
+pid_1369,5,College graduate/some postgrad,5,2,5,5,4,5,4,5,2,1
+pid_1370,3,Associate's degree,5,5,4,5,5,5,5,5,2,4
+pid_1371,3,"Some college, no degree",2,3,1,2,3,1,2,2,5,1
+pid_1372,5,College graduate/some postgrad,2,4,3,2,3,4,5,4,2,3
+pid_1373,2,High school graduate,1,1,1,1,3,1,3,1,5,5
+pid_1374,3,"Some college, no degree",2,3,2,5,3,5,5,2,5,3
+pid_1375,5,College graduate/some postgrad,3,4,2,3,2,2,4,3,2,3
+pid_1376,5,Postgraduate,3,3,3,4,4,3,5,5,4,4
+pid_1377,5,College graduate/some postgrad,4,4,4,5,4,4,4,4,2,1
+pid_1378,3,"Some college, no degree",4,3,4,4,4,4,3,4,2,3
+pid_1379,5,College graduate/some postgrad,1,3,2,1,4,4,4,1,4,3
+pid_1380,5,Postgraduate,2,4,2,2,4,1,5,5,5,4
+pid_1381,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,1,4
+pid_1382,2,High school graduate,4,4,4,2,2,4,2,3,4,4
+pid_1383,5,College graduate/some postgrad,3,5,4,5,4,4,5,4,1,5
+pid_1384,5,College graduate/some postgrad,5,5,5,1,5,5,5,5,1,1
+pid_1385,5,Postgraduate,4,4,4,3,5,5,5,4,3,4
+pid_1386,3,"Some college, no degree",5,3,5,5,3,5,5,5,1,4
+pid_1387,2,High school graduate,3,4,3,5,5,4,5,4,4,4
+pid_1388,3,Associate's degree,1,1,1,1,1,1,1,1,1,1
+pid_1389,3,"Some college, no degree",4,3,5,4,4,3,2,3,5,4
+pid_1390,5,College graduate/some postgrad,4,5,4,4,4,5,4,5,2,4
+pid_1391,5,Postgraduate,5,5,5,5,5,3,5,5,5,3
+pid_1392,5,Postgraduate,1,3,1,1,3,2,4,1,5,4
+pid_1393,5,College graduate/some postgrad,4,3,4,5,4,4,5,5,3,4
+pid_1394,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,4
+pid_1395,5,College graduate/some postgrad,2,2,4,5,5,4,5,4,2,1
+pid_1396,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,2
+pid_1397,2,High school graduate,4,4,5,5,5,5,5,5,3,5
+pid_1398,3,"Some college, no degree",4,4,5,5,5,5,4,5,4,4
+pid_1399,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,3
+pid_1400,3,"Some college, no degree",4,5,5,5,4,3,5,5,3,3
+pid_1401,1,Less than high school,5,5,5,5,5,5,5,5,1,1
+pid_1402,5,College graduate/some postgrad,4,4,3,3,4,2,4,1,5,3
+pid_1403,5,College graduate/some postgrad,1,3,1,4,4,1,5,1,5,5
+pid_1404,2,High school graduate,1,3,3,5,2,3,5,5,4,1
+pid_1405,5,College graduate/some postgrad,4,4,4,4,4,5,5,5,2,4
+pid_1406,3,"Some college, no degree",5,5,5,5,4,5,5,5,4,5
+pid_1407,5,College graduate/some postgrad,2,1,1,1,3,1,1,3,5,4
+pid_1408,5,College graduate/some postgrad,2,3,2,4,4,4,1,4,5,5
+pid_1409,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,1,1
+pid_1410,2,High school graduate,1,3,1,2,2,1,4,4,5,4
+pid_1411,3,Associate's degree,5,5,5,5,5,5,5,5,2,3
+pid_1412,5,College graduate/some postgrad,3,3,3,5,5,4,5,4,4,5
+pid_1413,5,College graduate/some postgrad,3,2,4,2,4,2,3,3,2,4
+pid_1414,5,Postgraduate,3,3,4,4,4,3,3,3,2,3
+pid_1415,2,High school graduate,5,5,4,5,4,5,5,5,1,3
+pid_1416,5,College graduate/some postgrad,4,3,5,5,4,4,4,5,3,3
+pid_1417,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,5
+pid_1418,5,College graduate/some postgrad,3,5,4,4,4,1,5,4,5,3
+pid_1419,2,High school graduate,5,3,5,4,5,5,5,5,3,2
+pid_1420,3,Associate's degree,2,4,5,5,4,5,4,5,3,1
+pid_1421,5,College graduate/some postgrad,4,4,3,4,5,2,5,4,5,5
+pid_1422,3,"Some college, no degree",1,4,5,5,3,1,5,5,5,3
+pid_1423,3,Associate's degree,4,4,5,5,5,5,5,5,5,5
+pid_1424,3,Associate's degree,5,4,4,5,5,5,5,4,2,5
+pid_1425,5,College graduate/some postgrad,4,3,4,5,5,3,4,5,2,2
+pid_1426,3,"Some college, no degree",4,5,3,5,4,4,5,5,4,4
+pid_1427,2,High school graduate,4,3,4,3,5,4,5,4,3,3
+pid_1428,2,High school graduate,2,4,3,4,4,3,3,5,4,4
+pid_1429,3,"Some college, no degree",3,2,4,1,4,2,4,5,5,5
+pid_1430,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,2
+pid_1431,3,Associate's degree,2,2,4,4,5,4,5,5,5,4
+pid_1432,5,College graduate/some postgrad,4,3,3,4,3,2,3,4,4,3
+pid_1433,2,High school graduate,3,4,4,5,5,4,4,5,4,3
+pid_1434,3,"Some college, no degree",3,3,3,4,4,3,4,4,4,4
+pid_1435,3,Associate's degree,5,5,5,5,4,5,5,5,1,3
+pid_1436,2,High school graduate,5,5,5,5,5,5,5,5,2,5
+pid_1437,5,College graduate/some postgrad,3,1,2,1,5,1,3,3,5,2
+pid_1438,3,"Some college, no degree",2,1,2,3,4,1,3,1,5,4
+pid_1439,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,2,2
+pid_1440,3,Associate's degree,4,4,3,3,4,4,4,5,3,3
+pid_1441,5,College graduate/some postgrad,4,2,2,2,2,1,5,1,5,1
+pid_1442,5,College graduate/some postgrad,4,3,4,4,4,5,4,4,3,3
+pid_1443,3,"Some college, no degree",4,3,5,5,4,4,5,5,5,3
+pid_1444,5,College graduate/some postgrad,4,2,1,3,5,4,3,1,5,3
+pid_1445,3,"Some college, no degree",1,1,1,1,1,2,3,2,5,5
+pid_1446,5,College graduate/some postgrad,4,5,5,2,5,5,5,4,1,2
+pid_1447,5,College graduate/some postgrad,2,3,3,3,3,3,3,3,3,3
+pid_1448,5,College graduate/some postgrad,4,4,3,4,4,2,4,5,5,3
+pid_1449,3,Associate's degree,4,4,4,4,5,5,5,5,3,4
+pid_1450,3,"Some college, no degree",4,3,4,4,4,3,4,3,4,4
+pid_1451,2,High school graduate,5,5,5,5,5,5,5,5,1,5
+pid_1452,3,"Some college, no degree",3,2,3,2,3,3,2,3,4,3
+pid_1453,3,Associate's degree,4,4,4,4,5,5,4,5,2,3
+pid_1454,3,"Some college, no degree",5,4,4,5,4,5,5,5,2,2
+pid_1455,5,College graduate/some postgrad,2,4,3,2,4,1,2,4,5,4
+pid_1456,2,High school graduate,1,4,4,5,5,5,5,5,1,1
+pid_1457,5,Postgraduate,4,4,4,4,5,4,2,2,4,4
+pid_1458,5,Postgraduate,3,3,3,4,4,3,3,3,2,2
+pid_1459,3,"Some college, no degree",4,4,4,5,5,4,5,5,3,5
+pid_1460,5,College graduate/some postgrad,1,3,1,1,1,5,1,1,1,3
+pid_1461,5,College graduate/some postgrad,1,3,4,5,4,5,5,5,4,5
+pid_1462,3,Associate's degree,4,3,4,4,5,1,2,5,5,4
+pid_1463,3,"Some college, no degree",4,3,5,5,4,4,5,5,1,3
+pid_1464,3,"Some college, no degree",4,3,4,4,4,2,4,3,4,4
+pid_1465,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,3
+pid_1466,5,College graduate/some postgrad,2,4,1,3,5,5,5,5,4,2
+pid_1467,5,College graduate/some postgrad,1,3,3,4,5,5,5,5,2,4
+pid_1468,3,"Some college, no degree",4,5,5,1,1,5,2,1,4,1
+pid_1469,5,Postgraduate,4,4,5,5,4,5,5,5,3,1
+pid_1470,5,Postgraduate,4,2,5,4,5,2,5,4,5,5
+pid_1471,2,High school graduate,2,4,3,2,4,4,5,4,4,4
+pid_1472,2,High school graduate,4,4,5,5,5,5,5,5,1,2
+pid_1473,3,Associate's degree,4,5,5,5,5,5,5,5,1,4
+pid_1474,2,High school graduate,2,4,1,2,4,1,5,2,5,2
+pid_1475,3,Associate's degree,4,4,4,4,4,2,4,4,4,4
+pid_1476,2,High school graduate,5,5,5,5,5,3,4,5,5,4
+pid_1477,3,"Some college, no degree",4,4,4,5,4,4,5,4,4,4
+pid_1478,5,Postgraduate,4,4,4,5,4,3,3,3,3,3
+pid_1479,3,"Some college, no degree",5,5,5,5,4,5,5,5,2,5
+pid_1480,5,College graduate/some postgrad,1,3,1,2,3,3,4,4,4,5
+pid_1481,5,Postgraduate,5,3,5,5,5,5,5,5,1,5
+pid_1482,3,"Some college, no degree",4,3,4,3,4,3,4,3,4,3
+pid_1483,3,"Some college, no degree",4,4,4,4,4,4,5,4,3,2
+pid_1484,3,Associate's degree,4,5,5,5,4,4,5,5,1,5
+pid_1485,2,High school graduate,4,4,3,5,5,2,4,5,5,2
+pid_1486,5,College graduate/some postgrad,2,3,1,1,5,2,3,1,5,5
+pid_1487,5,College graduate/some postgrad,5,5,5,5,5,2,5,5,4,5
+pid_1488,5,College graduate/some postgrad,5,5,5,5,5,1,5,5,5,3
+pid_1489,3,"Some college, no degree",2,4,4,4,5,5,4,3,4,4
+pid_1490,3,"Some college, no degree",4,3,3,5,3,4,2,3,3,2
+pid_1491,5,College graduate/some postgrad,5,4,4,4,4,4,4,4,4,3
+pid_1492,1,Less than high school,4,3,4,5,4,5,5,4,3,5
+pid_1493,5,College graduate/some postgrad,5,4,5,5,1,5,5,5,1,1
+pid_1494,3,"Some college, no degree",5,4,5,5,5,5,5,4,1,5
+pid_1495,3,Associate's degree,4,5,4,4,5,4,4,5,5,4
+pid_1496,5,College graduate/some postgrad,5,3,5,5,4,4,4,4,4,3
+pid_1497,3,"Some college, no degree",4,4,5,5,5,4,4,5,3,5
+pid_1498,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,4,1
+pid_1499,3,Associate's degree,5,4,4,5,4,5,4,4,5,5
+pid_1500,3,Associate's degree,5,5,5,5,5,5,3,5,1,1
+pid_1501,3,"Some college, no degree",2,3,2,5,5,2,3,5,5,4
+pid_1502,2,High school graduate,4,4,4,4,4,4,4,4,3,5
+pid_1503,5,College graduate/some postgrad,5,4,4,5,5,5,4,4,2,2
+pid_1504,3,Associate's degree,1,2,1,2,2,1,2,1,2,2
+pid_1505,3,"Some college, no degree",5,4,5,5,4,5,5,5,2,3
+pid_1506,3,"Some college, no degree",5,3,4,5,5,3,4,2,4,3
+pid_1507,5,College graduate/some postgrad,2,4,4,4,4,1,5,4,4,4
+pid_1508,3,"Some college, no degree",5,5,3,4,3,5,3,5,4,4
+pid_1509,3,Associate's degree,5,4,5,5,2,5,5,5,2,1
+pid_1510,2,High school graduate,3,4,3,3,3,2,5,3,5,3
+pid_1511,5,College graduate/some postgrad,4,5,5,5,3,5,5,5,1,1
+pid_1512,3,"Some college, no degree",2,3,3,1,4,3,2,3,3,4
+pid_1513,5,Postgraduate,2,3,2,4,4,4,3,5,4,5
+pid_1514,5,Postgraduate,5,4,5,5,4,5,3,5,3,4
+pid_1515,5,College graduate/some postgrad,4,2,5,2,5,4,5,5,2,4
+pid_1516,5,Postgraduate,4,1,1,2,5,1,5,1,5,3
+pid_1517,3,"Some college, no degree",5,4,4,4,4,5,5,5,2,3
+pid_1518,5,College graduate/some postgrad,4,5,5,3,3,5,5,5,1,4
+pid_1519,3,"Some college, no degree",5,3,5,4,4,4,5,5,5,5
+pid_1520,3,Associate's degree,1,3,2,4,4,1,1,3,5,5
+pid_1521,5,College graduate/some postgrad,1,2,2,1,1,1,2,3,5,5
+pid_1522,3,Associate's degree,5,5,4,5,4,5,4,5,2,3
+pid_1523,5,College graduate/some postgrad,4,4,5,5,4,5,5,2,5,5
+pid_1524,3,"Some college, no degree",4,4,4,5,4,4,3,4,3,2
+pid_1525,3,"Some college, no degree",4,4,4,4,5,4,4,4,4,5
+pid_1526,5,College graduate/some postgrad,2,4,4,5,5,3,4,4,5,4
+pid_1527,3,"Some college, no degree",3,3,3,3,3,3,3,3,3,3
+pid_1528,3,"Some college, no degree",5,4,5,4,5,5,4,4,5,5
+pid_1529,2,High school graduate,3,5,5,3,5,5,5,5,1,4
+pid_1530,5,Postgraduate,3,4,5,4,4,2,4,4,5,2
+pid_1531,5,College graduate/some postgrad,5,5,5,5,4,4,5,5,2,5
+pid_1532,3,"Some college, no degree",2,2,2,2,2,4,4,2,5,4
+pid_1533,5,College graduate/some postgrad,4,4,5,5,4,4,5,5,2,1
+pid_1534,3,"Some college, no degree",4,3,4,2,4,5,4,3,2,2
+pid_1535,3,"Some college, no degree",3,4,5,4,4,5,5,4,1,5
+pid_1536,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,2,3
+pid_1537,5,College graduate/some postgrad,2,3,3,4,4,5,5,1,5,4
+pid_1538,3,"Some college, no degree",4,4,2,4,4,4,4,4,4,4
+pid_1539,2,High school graduate,4,5,5,5,5,5,5,5,1,3
+pid_1540,5,College graduate/some postgrad,5,5,4,5,5,5,5,5,3,5
+pid_1541,2,High school graduate,4,3,4,3,4,4,3,4,2,4
+pid_1542,3,Associate's degree,5,5,5,5,4,4,5,5,2,4
+pid_1543,3,"Some college, no degree",4,4,4,5,5,5,4,5,1,2
+pid_1544,5,College graduate/some postgrad,3,3,2,3,4,3,5,5,4,4
+pid_1545,3,"Some college, no degree",3,4,4,5,3,5,5,5,1,3
+pid_1546,5,College graduate/some postgrad,3,3,2,2,3,3,2,3,3,3
+pid_1547,3,"Some college, no degree",4,2,1,1,5,1,4,5,5,5
+pid_1548,5,College graduate/some postgrad,4,3,4,5,5,3,4,4,4,5
+pid_1549,3,"Some college, no degree",1,2,1,1,2,1,1,1,5,1
+pid_1550,5,College graduate/some postgrad,4,5,4,5,5,4,4,5,3,3
+pid_1551,3,"Some college, no degree",5,4,5,4,5,4,3,4,3,4
+pid_1552,2,High school graduate,3,4,2,3,4,2,5,4,4,5
+pid_1553,2,High school graduate,4,4,5,5,4,5,5,4,1,1
+pid_1554,3,"Some college, no degree",4,4,4,5,2,4,5,5,4,2
+pid_1555,3,Associate's degree,5,4,4,4,4,5,5,5,3,4
+pid_1556,5,College graduate/some postgrad,4,3,4,4,5,4,5,4,4,5
+pid_1557,5,College graduate/some postgrad,4,5,4,5,4,1,5,5,5,5
+pid_1558,5,College graduate/some postgrad,4,3,5,3,5,2,5,1,5,5
+pid_1559,5,College graduate/some postgrad,3,4,4,5,4,3,2,3,4,4
+pid_1560,5,College graduate/some postgrad,4,1,5,5,5,4,5,5,3,4
+pid_1561,3,Associate's degree,4,5,4,5,5,4,5,4,1,5
+pid_1562,2,High school graduate,1,1,1,2,4,2,3,1,5,3
+pid_1563,5,College graduate/some postgrad,4,3,4,4,4,4,4,4,3,4
+pid_1564,3,"Some college, no degree",2,3,3,2,4,2,4,4,4,4
+pid_1565,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,2,2
+pid_1566,5,College graduate/some postgrad,5,4,4,5,4,5,4,4,5,4
+pid_1567,5,College graduate/some postgrad,5,4,5,5,3,4,4,5,3,3
+pid_1568,2,High school graduate,3,3,4,2,4,4,3,4,4,4
+pid_1569,2,High school graduate,2,2,3,1,3,2,5,4,4,3
+pid_1570,3,"Some college, no degree",4,3,4,4,4,4,4,4,2,3
+pid_1571,5,College graduate/some postgrad,4,4,5,4,4,4,4,2,4,4
+pid_1572,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,4
+pid_1573,3,"Some college, no degree",4,4,4,5,4,4,4,1,4,4
+pid_1574,5,College graduate/some postgrad,2,4,3,5,3,3,5,5,4,5
+pid_1575,3,"Some college, no degree",2,3,3,2,4,4,3,4,3,2
+pid_1576,5,Postgraduate,4,3,4,3,4,1,3,4,5,3
+pid_1577,5,College graduate/some postgrad,5,4,4,3,4,5,4,5,2,5
+pid_1578,5,College graduate/some postgrad,5,3,4,4,5,5,5,5,2,4
+pid_1579,3,"Some college, no degree",5,4,4,5,5,5,5,4,2,1
+pid_1580,2,High school graduate,5,4,5,5,4,5,5,5,1,4
+pid_1581,3,"Some college, no degree",3,4,4,5,5,3,5,5,3,3
+pid_1582,5,College graduate/some postgrad,4,1,3,1,4,1,5,5,5,2
+pid_1583,5,Postgraduate,1,1,1,3,4,3,3,4,5,5
+pid_1584,5,College graduate/some postgrad,4,4,4,4,4,4,3,3,4,4
+pid_1585,3,"Some college, no degree",4,5,5,4,4,5,5,5,1,4
+pid_1586,5,College graduate/some postgrad,1,3,1,1,1,3,1,1,5,5
+pid_1587,3,Associate's degree,5,5,5,5,2,5,5,5,2,2
+pid_1588,5,College graduate/some postgrad,5,5,5,5,5,3,5,5,3,3
+pid_1589,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,3
+pid_1590,3,"Some college, no degree",5,5,4,5,2,1,3,1,4,5
+pid_1591,3,"Some college, no degree",2,3,4,3,4,4,3,3,3,4
+pid_1592,3,"Some college, no degree",4,4,4,3,4,4,4,5,3,3
+pid_1593,3,"Some college, no degree",1,2,1,1,4,1,4,2,5,3
+pid_1594,5,Postgraduate,1,2,1,1,1,1,2,1,5,2
+pid_1595,2,High school graduate,3,4,3,5,4,4,4,4,3,4
+pid_1596,5,College graduate/some postgrad,1,1,2,1,3,1,2,1,5,3
+pid_1597,5,College graduate/some postgrad,4,4,5,5,5,5,5,5,4,5
+pid_1598,2,High school graduate,4,3,4,5,4,2,4,3,5,2
+pid_1599,3,"Some college, no degree",5,4,5,4,4,5,5,5,1,2
+pid_1600,1,Less than high school,4,5,4,5,4,5,5,5,2,3
+pid_1601,5,Postgraduate,4,4,4,5,4,5,5,5,5,5
+pid_1602,2,High school graduate,4,3,4,5,4,4,4,3,1,2
+pid_1603,2,High school graduate,5,5,5,5,3,5,5,5,2,3
+pid_1604,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,2,4
+pid_1605,5,College graduate/some postgrad,3,3,3,4,4,4,5,5,5,5
+pid_1606,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,2
+pid_1607,3,Associate's degree,2,4,3,4,5,5,5,5,2,4
+pid_1608,3,"Some college, no degree",4,3,4,4,5,4,5,5,5,4
+pid_1609,5,College graduate/some postgrad,4,4,4,4,4,3,3,4,4,1
+pid_1610,3,"Some college, no degree",2,4,3,2,4,4,4,4,3,3
+pid_1611,5,College graduate/some postgrad,2,3,4,4,4,4,4,4,4,4
+pid_1612,5,Postgraduate,1,3,4,3,5,5,3,1,3,5
+pid_1613,3,"Some college, no degree",1,3,2,4,4,1,4,2,5,4
+pid_1614,5,College graduate/some postgrad,4,4,4,5,5,3,4,5,4,5
+pid_1615,5,Postgraduate,3,3,3,5,4,3,5,3,3,3
+pid_1616,5,Postgraduate,3,4,4,5,4,5,5,5,2,3
+pid_1617,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,1,4
+pid_1618,5,College graduate/some postgrad,2,3,3,4,3,4,3,3,3,4
+pid_1619,2,High school graduate,5,5,5,5,4,4,5,5,3,2
+pid_1620,5,Postgraduate,4,3,3,4,4,3,3,3,3,4
+pid_1621,2,High school graduate,5,5,5,5,4,5,5,5,1,1
+pid_1622,3,Associate's degree,1,1,1,1,3,1,2,1,5,5
+pid_1623,5,Postgraduate,4,5,5,4,4,5,5,4,2,4
+pid_1624,2,High school graduate,2,5,1,4,5,4,3,5,4,3
+pid_1625,2,High school graduate,4,4,4,5,5,3,1,5,4,5
+pid_1626,5,College graduate/some postgrad,1,1,1,1,1,1,4,1,4,4
+pid_1627,5,College graduate/some postgrad,4,4,5,5,4,5,5,5,1,4
+pid_1628,3,"Some college, no degree",2,3,2,5,5,1,5,5,5,3
+pid_1629,5,Postgraduate,2,4,1,5,5,5,5,5,2,1
+pid_1630,2,High school graduate,4,3,3,4,4,4,5,4,4,5
+pid_1631,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,1,4
+pid_1632,5,College graduate/some postgrad,4,4,4,5,4,4,4,5,2,4
+pid_1633,5,College graduate/some postgrad,2,3,1,2,2,2,3,3,5,4
+pid_1634,3,Associate's degree,5,5,4,5,4,5,5,4,1,4
+pid_1635,5,Postgraduate,4,4,4,3,4,4,3,5,4,4
+pid_1636,3,Associate's degree,2,3,4,4,5,4,4,3,4,3
+pid_1637,3,"Some college, no degree",4,4,4,5,4,4,4,5,4,4
+pid_1638,2,High school graduate,2,3,3,4,4,4,5,5,2,4
+pid_1639,5,College graduate/some postgrad,3,3,3,3,3,3,3,3,3,3
+pid_1640,5,College graduate/some postgrad,5,4,5,5,5,5,5,2,1,1
+pid_1641,3,Associate's degree,4,3,4,5,5,4,4,5,3,3
+pid_1642,5,College graduate/some postgrad,4,3,4,4,5,5,4,2,2,2
+pid_1643,3,Associate's degree,3,1,2,1,2,1,1,3,5,3
+pid_1644,5,College graduate/some postgrad,4,5,4,5,5,4,5,5,4,4
+pid_1645,5,College graduate/some postgrad,4,3,3,5,3,5,5,4,2,3
+pid_1646,5,College graduate/some postgrad,4,5,4,4,4,3,4,3,4,4
+pid_1647,3,"Some college, no degree",4,4,2,4,4,5,2,2,5,4
+pid_1648,3,"Some college, no degree",4,4,3,3,2,4,4,4,2,3
+pid_1649,5,College graduate/some postgrad,5,4,5,5,5,4,4,5,1,1
+pid_1650,3,"Some college, no degree",3,4,5,5,4,5,5,5,1,1
+pid_1651,3,"Some college, no degree",2,3,2,1,2,2,3,3,2,2
+pid_1652,5,College graduate/some postgrad,2,3,1,3,4,3,2,3,4,4
+pid_1653,3,"Some college, no degree",3,4,2,5,3,3,4,3,2,4
+pid_1654,3,"Some college, no degree",5,5,5,4,5,5,5,5,3,4
+pid_1655,2,High school graduate,2,5,2,3,4,3,2,5,3,5
+pid_1656,2,High school graduate,5,4,4,4,5,4,5,5,3,5
+pid_1657,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,3
+pid_1658,3,Associate's degree,4,3,4,3,4,3,3,5,4,3
+pid_1659,3,Associate's degree,5,4,4,4,4,4,4,4,5,4
+pid_1660,2,High school graduate,4,5,5,5,5,5,5,5,2,2
+pid_1661,3,Associate's degree,4,3,2,1,2,2,3,3,5,4
+pid_1662,3,Associate's degree,4,4,2,5,4,5,5,4,1,4
+pid_1663,3,"Some college, no degree",5,3,4,5,4,4,4,5,3,5
+pid_1664,3,"Some college, no degree",3,5,5,3,5,4,5,5,4,3
+pid_1665,5,Postgraduate,5,4,5,4,5,4,5,5,2,2
+pid_1666,3,"Some college, no degree",2,4,4,4,5,4,5,4,4,4
+pid_1667,5,College graduate/some postgrad,3,4,5,5,4,4,5,4,3,4
+pid_1668,3,Associate's degree,5,5,5,5,5,3,5,5,5,5
+pid_1669,5,College graduate/some postgrad,1,4,3,2,3,2,3,5,5,4
+pid_1670,3,Associate's degree,4,4,4,5,5,5,5,4,3,4
+pid_1671,3,"Some college, no degree",3,4,4,5,5,4,5,5,4,4
+pid_1672,3,"Some college, no degree",5,5,5,5,5,5,5,5,2,5
+pid_1673,3,"Some college, no degree",3,2,4,4,4,3,4,3,2,4
+pid_1674,5,College graduate/some postgrad,1,1,1,1,3,1,1,1,5,3
+pid_1675,3,"Some college, no degree",4,4,4,5,5,5,4,4,4,4
+pid_1676,5,College graduate/some postgrad,2,4,4,5,5,4,5,5,2,2
+pid_1677,1,Less than high school,4,3,4,4,3,2,4,4,4,3
+pid_1678,3,"Some college, no degree",1,2,1,1,1,2,1,1,5,3
+pid_1679,1,Less than high school,2,4,4,4,4,4,3,4,2,5
+pid_1680,3,"Some college, no degree",2,1,1,2,4,1,2,2,5,4
+pid_1681,5,College graduate/some postgrad,4,4,3,3,3,3,3,3,3,3
+pid_1682,3,Associate's degree,5,5,5,5,5,3,5,5,5,5
+pid_1683,5,College graduate/some postgrad,4,5,4,5,5,4,3,5,4,2
+pid_1684,5,Postgraduate,3,4,4,5,5,5,5,5,1,1
+pid_1685,3,Associate's degree,3,3,3,3,3,3,5,3,2,3
+pid_1686,3,Associate's degree,3,3,3,5,5,3,5,3,4,5
+pid_1687,5,College graduate/some postgrad,3,3,3,3,3,3,3,3,4,3
+pid_1688,5,College graduate/some postgrad,4,5,5,5,3,3,5,4,3,5
+pid_1689,3,Associate's degree,5,3,4,5,5,4,5,5,1,1
+pid_1690,3,"Some college, no degree",1,3,3,4,5,2,4,3,5,3
+pid_1691,3,Associate's degree,5,5,5,5,5,5,5,5,1,4
+pid_1692,2,High school graduate,1,1,1,5,1,1,5,5,5,5
+pid_1693,5,Postgraduate,5,5,5,5,5,5,5,5,1,3
+pid_1694,3,"Some college, no degree",4,5,4,5,4,5,5,5,3,1
+pid_1695,5,Postgraduate,4,3,4,5,3,5,5,4,3,3
+pid_1696,3,"Some college, no degree",4,4,4,5,5,5,5,5,1,2
+pid_1697,5,College graduate/some postgrad,2,2,2,1,4,2,4,3,5,4
+pid_1698,2,High school graduate,5,4,5,1,5,3,5,5,4,5
+pid_1699,5,College graduate/some postgrad,1,2,1,4,4,1,4,2,5,4
+pid_1700,5,College graduate/some postgrad,3,3,3,4,3,3,4,3,3,3
+pid_1701,5,College graduate/some postgrad,3,4,3,4,5,4,5,5,3,2
+pid_1702,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,1,3
+pid_1703,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,2,3
+pid_1704,5,Postgraduate,4,5,5,5,5,4,5,5,1,4
+pid_1705,5,College graduate/some postgrad,3,4,4,2,4,1,4,3,5,3
+pid_1706,2,High school graduate,3,4,2,4,4,2,5,4,5,5
+pid_1707,5,Postgraduate,2,4,2,4,4,4,3,2,3,5
+pid_1708,5,College graduate/some postgrad,4,4,4,5,4,5,5,5,2,3
+pid_1709,3,Associate's degree,4,5,3,5,2,5,5,5,1,4
+pid_1710,5,Postgraduate,2,3,2,4,4,3,3,5,3,4
+pid_1711,5,College graduate/some postgrad,2,3,4,3,5,5,5,5,5,3
+pid_1712,3,"Some college, no degree",5,4,5,4,5,4,5,4,5,4
+pid_1713,5,Postgraduate,1,1,1,1,3,1,1,1,5,2
+pid_1714,3,Associate's degree,1,2,2,2,4,1,3,2,5,4
+pid_1715,5,College graduate/some postgrad,4,4,4,5,5,5,5,5,1,5
+pid_1716,3,"Some college, no degree",4,4,2,4,4,4,4,5,4,4
+pid_1717,3,"Some college, no degree",3,3,3,3,3,2,4,4,4,4
+pid_1718,2,High school graduate,4,3,3,4,4,2,4,4,4,4
+pid_1719,3,Associate's degree,1,1,1,5,5,3,3,5,4,1
+pid_1720,3,"Some college, no degree",1,3,1,4,4,4,5,1,5,5
+pid_1721,5,College graduate/some postgrad,4,4,4,5,5,5,5,5,2,5
+pid_1722,5,College graduate/some postgrad,4,4,4,5,2,4,4,5,2,3
+pid_1723,3,"Some college, no degree",4,4,2,1,2,2,4,4,5,4
+pid_1724,5,College graduate/some postgrad,4,4,4,5,5,4,5,4,3,5
+pid_1725,5,College graduate/some postgrad,2,4,3,4,4,3,3,4,3,4
+pid_1726,5,College graduate/some postgrad,2,3,3,4,5,4,5,3,4,2
+pid_1727,3,"Some college, no degree",3,5,4,4,5,2,5,5,5,1
+pid_1728,2,High school graduate,4,2,4,4,4,4,2,5,2,4
+pid_1729,5,Postgraduate,5,5,5,5,5,5,5,5,2,4
+pid_1730,5,College graduate/some postgrad,2,4,5,5,3,5,5,5,3,3
+pid_1731,3,"Some college, no degree",5,5,5,5,4,5,5,5,2,2
+pid_1732,3,"Some college, no degree",3,3,2,2,4,4,5,4,5,4
+pid_1733,3,"Some college, no degree",5,4,5,5,5,5,5,3,2,4
+pid_1734,3,"Some college, no degree",5,5,5,5,2,4,5,5,3,4
+pid_1735,5,College graduate/some postgrad,4,4,4,5,5,5,4,5,1,5
+pid_1736,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,2,4
+pid_1737,5,College graduate/some postgrad,3,3,4,4,4,4,4,3,4,3
+pid_1738,5,College graduate/some postgrad,4,2,5,4,4,2,5,5,4,3
+pid_1739,2,High school graduate,4,5,5,5,4,5,5,5,3,2
+pid_1740,3,"Some college, no degree",2,2,2,1,5,1,4,4,5,5
+pid_1741,5,College graduate/some postgrad,4,4,5,5,5,5,5,4,3,5
+pid_1742,1,Less than high school,4,2,4,1,2,1,5,3,4,4
+pid_1743,5,College graduate/some postgrad,1,4,1,1,5,4,4,2,4,4
+pid_1744,2,High school graduate,4,3,4,3,3,3,4,4,4,3
+pid_1745,5,Postgraduate,4,4,4,3,5,4,5,5,2,1
+pid_1746,3,"Some college, no degree",5,3,5,5,4,5,5,5,2,4
+pid_1747,3,"Some college, no degree",4,4,5,4,3,5,4,5,2,3
+pid_1748,5,Postgraduate,1,1,1,5,5,3,5,3,3,1
+pid_1749,3,Associate's degree,5,5,4,5,5,5,5,5,2,4
+pid_1750,5,College graduate/some postgrad,3,4,4,4,4,3,5,4,3,4
+pid_1751,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,2,2
+pid_1752,5,College graduate/some postgrad,4,3,4,4,4,4,5,5,3,3
+pid_1753,2,High school graduate,5,5,5,5,5,5,5,5,2,5
+pid_1754,5,Postgraduate,4,3,5,5,4,5,5,4,4,2
+pid_1755,2,High school graduate,5,2,3,4,4,5,5,5,1,4
+pid_1756,5,Postgraduate,4,3,4,5,4,5,5,5,2,5
+pid_1757,3,Associate's degree,3,3,4,3,4,4,3,3,4,4
+pid_1758,5,Postgraduate,5,4,5,5,4,5,4,5,3,3
+pid_1759,5,College graduate/some postgrad,4,3,3,4,3,5,5,5,1,5
+pid_1760,2,High school graduate,3,3,3,4,5,3,4,3,5,4
+pid_1761,5,Postgraduate,2,2,5,2,4,4,5,4,2,4
+pid_1762,3,Associate's degree,4,5,4,4,5,5,5,5,1,4
+pid_1763,5,College graduate/some postgrad,2,2,3,1,3,2,2,2,4,3
+pid_1764,5,Postgraduate,4,5,5,5,4,5,5,5,2,3
+pid_1765,5,College graduate/some postgrad,3,5,5,5,5,5,5,5,2,3
+pid_1766,3,"Some college, no degree",5,5,5,5,5,5,3,5,4,5
+pid_1767,3,"Some college, no degree",1,1,1,5,2,1,3,1,5,1
+pid_1768,5,Postgraduate,3,4,3,3,4,4,5,4,2,3
+pid_1769,5,College graduate/some postgrad,1,1,2,5,4,4,5,5,4,4
+pid_1770,5,Postgraduate,1,1,1,2,3,1,3,1,5,4
+pid_1771,3,Associate's degree,2,3,2,2,3,2,3,3,2,3
+pid_1772,5,Postgraduate,4,5,3,4,3,4,2,3,4,3
+pid_1773,2,High school graduate,4,4,4,3,5,4,5,5,3,4
+pid_1774,3,Associate's degree,5,5,5,5,3,4,5,5,3,2
+pid_1775,5,College graduate/some postgrad,1,1,1,4,4,2,4,2,3,2
+pid_1776,3,"Some college, no degree",5,4,4,5,5,5,5,5,3,2
+pid_1777,3,"Some college, no degree",4,3,2,4,4,3,2,2,4,5
+pid_1778,5,College graduate/some postgrad,1,1,1,1,1,2,1,1,5,5
+pid_1779,3,"Some college, no degree",1,3,1,1,1,1,3,1,5,4
+pid_1780,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,1
+pid_1781,2,High school graduate,2,3,4,1,3,1,1,1,4,4
+pid_1782,3,Associate's degree,3,2,4,3,4,4,4,4,3,2
+pid_1783,2,High school graduate,2,3,3,5,3,5,1,5,4,3
+pid_1784,5,College graduate/some postgrad,4,2,3,4,5,4,5,5,3,4
+pid_1785,2,High school graduate,4,4,5,5,4,4,5,5,3,3
+pid_1786,3,"Some college, no degree",4,4,3,4,3,4,4,3,2,3
+pid_1787,2,High school graduate,3,2,1,4,4,4,4,2,4,4
+pid_1788,5,Postgraduate,2,4,4,5,5,2,5,2,4,4
+pid_1789,3,Associate's degree,4,4,3,5,4,4,5,4,3,4
+pid_1790,3,"Some college, no degree",2,3,2,4,4,4,3,2,5,4
+pid_1791,5,College graduate/some postgrad,1,2,2,3,5,2,1,2,5,5
+pid_1792,5,Postgraduate,5,4,4,5,4,4,3,5,3,2
+pid_1793,3,"Some college, no degree",2,4,2,2,4,5,5,4,5,4
+pid_1794,5,College graduate/some postgrad,5,3,5,5,5,1,5,5,5,3
+pid_1795,5,College graduate/some postgrad,4,3,5,4,5,5,5,5,4,2
+pid_1796,5,College graduate/some postgrad,1,1,3,4,5,1,3,5,5,3
+pid_1797,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,2,1
+pid_1798,5,College graduate/some postgrad,4,4,4,4,4,2,4,4,5,4
+pid_1799,3,Associate's degree,4,4,5,5,3,5,5,5,1,3
+pid_1800,3,Associate's degree,5,2,4,2,4,3,5,4,4,4
+pid_1801,5,Postgraduate,4,4,4,5,4,5,4,5,1,3
+pid_1802,5,College graduate/some postgrad,5,4,4,4,3,2,4,5,4,4
+pid_1803,3,"Some college, no degree",5,5,5,5,5,5,5,5,4,4
+pid_1804,5,College graduate/some postgrad,4,5,5,5,3,5,5,5,2,3
+pid_1805,5,College graduate/some postgrad,3,4,2,5,5,2,5,5,5,5
+pid_1806,5,Postgraduate,5,5,5,5,5,5,5,5,2,5
+pid_1807,5,College graduate/some postgrad,4,4,3,3,3,4,3,5,5,4
+pid_1808,3,Associate's degree,5,5,5,5,4,3,5,1,5,1
+pid_1809,2,High school graduate,2,5,3,5,5,3,5,5,5,5
+pid_1810,5,College graduate/some postgrad,2,4,5,5,5,4,4,5,4,4
+pid_1811,2,High school graduate,5,5,5,5,5,5,5,5,2,4
+pid_1812,5,College graduate/some postgrad,4,4,4,5,3,5,5,5,1,3
+pid_1813,5,Postgraduate,4,4,4,5,4,5,5,4,1,3
+pid_1814,3,Associate's degree,4,4,4,5,5,5,5,5,2,5
+pid_1815,5,College graduate/some postgrad,2,4,3,5,3,2,3,3,4,4
+pid_1816,5,College graduate/some postgrad,4,4,4,4,3,5,5,5,1,4
+pid_1817,5,College graduate/some postgrad,4,4,4,5,3,4,5,5,5,4
+pid_1818,5,Postgraduate,5,5,5,5,4,5,4,5,1,4
+pid_1819,5,College graduate/some postgrad,5,5,4,5,5,5,4,5,1,3
+pid_1820,5,College graduate/some postgrad,4,5,5,4,4,5,5,5,2,3
+pid_1821,3,Associate's degree,5,5,5,5,5,5,5,5,5,5
+pid_1822,5,College graduate/some postgrad,5,4,5,5,3,5,4,5,1,3
+pid_1823,3,"Some college, no degree",4,4,5,5,3,5,5,5,3,5
+pid_1824,3,"Some college, no degree",4,3,4,3,4,5,5,5,2,4
+pid_1825,2,High school graduate,5,5,5,5,5,4,4,5,4,1
+pid_1826,5,Postgraduate,3,3,2,3,3,3,5,5,4,2
+pid_1827,5,Postgraduate,1,1,1,1,3,1,1,1,5,2
+pid_1828,5,College graduate/some postgrad,5,4,4,3,4,2,3,4,4,4
+pid_1829,5,College graduate/some postgrad,5,5,4,5,5,5,4,5,3,4
+pid_1830,3,Associate's degree,4,5,5,5,4,5,5,5,3,1
+pid_1831,5,College graduate/some postgrad,4,3,4,5,4,2,4,3,4,3
+pid_1832,5,Postgraduate,1,3,1,2,2,2,4,2,5,3
+pid_1833,3,"Some college, no degree",4,4,5,5,5,4,5,5,3,2
+pid_1834,5,College graduate/some postgrad,5,4,5,5,3,5,5,3,1,1
+pid_1835,5,College graduate/some postgrad,4,4,4,3,4,4,4,4,2,4
+pid_1836,5,Postgraduate,5,4,5,5,5,5,5,3,1,5
+pid_1837,2,High school graduate,2,4,4,5,5,5,5,5,3,3
+pid_1838,5,College graduate/some postgrad,4,5,5,5,4,5,5,5,1,4
+pid_1839,5,College graduate/some postgrad,2,1,2,1,2,2,1,2,1,3
+pid_1840,3,"Some college, no degree",4,4,4,5,3,3,4,5,5,4
+pid_1841,3,"Some college, no degree",5,5,4,4,4,4,5,3,3,5
+pid_1842,3,"Some college, no degree",1,1,1,1,1,4,1,1,5,4
+pid_1843,5,College graduate/some postgrad,4,4,3,3,4,4,5,5,2,4
+pid_1844,3,Associate's degree,5,5,5,5,4,5,5,3,1,1
+pid_1845,5,Postgraduate,1,3,2,2,3,1,4,1,5,3
+pid_1846,3,"Some college, no degree",4,5,5,5,5,5,5,5,1,2
+pid_1847,5,Postgraduate,5,5,5,5,4,5,5,5,3,4
+pid_1848,5,College graduate/some postgrad,4,3,2,3,4,4,3,3,4,5
+pid_1849,5,College graduate/some postgrad,2,3,4,3,4,3,5,3,3,4
+pid_1850,5,College graduate/some postgrad,1,1,1,3,4,4,3,4,3,3
+pid_1851,3,"Some college, no degree",4,4,4,5,5,5,5,5,3,2
+pid_1852,5,Postgraduate,4,4,4,3,4,1,4,3,5,4
+pid_1853,3,"Some college, no degree",2,5,5,4,4,1,5,4,5,1
+pid_1854,5,College graduate/some postgrad,4,4,5,5,5,4,4,4,3,1
+pid_1855,3,"Some college, no degree",4,5,4,5,5,5,5,5,1,5
+pid_1856,5,College graduate/some postgrad,1,4,1,5,5,5,5,3,2,5
+pid_1857,5,Postgraduate,1,1,1,1,1,1,1,2,5,3
+pid_1858,3,"Some college, no degree",1,1,1,1,1,1,3,1,5,3
+pid_1859,2,High school graduate,4,5,5,5,4,5,5,5,2,4
+pid_1860,5,Postgraduate,4,5,5,5,5,5,4,5,2,1
+pid_1861,5,College graduate/some postgrad,4,4,4,5,1,4,5,5,3,1
+pid_1862,5,Postgraduate,4,5,4,4,5,5,5,4,2,2
+pid_1863,5,College graduate/some postgrad,5,5,5,4,4,5,5,5,1,4
+pid_1864,5,College graduate/some postgrad,4,4,5,5,5,5,5,5,1,5
+pid_1865,3,"Some college, no degree",5,5,5,5,5,5,5,5,3,5
+pid_1866,3,"Some college, no degree",2,3,4,5,4,4,2,2,2,1
+pid_1867,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,1,1
+pid_1868,5,College graduate/some postgrad,4,4,4,5,4,4,5,5,1,5
+pid_1869,2,High school graduate,4,4,5,5,4,4,4,5,5,3
+pid_1870,3,Associate's degree,1,4,2,4,4,4,5,4,4,5
+pid_1871,5,College graduate/some postgrad,4,3,3,3,3,3,5,2,1,3
+pid_1872,3,"Some college, no degree",4,5,5,5,3,5,5,5,1,3
+pid_1873,5,College graduate/some postgrad,4,4,4,5,5,5,5,5,1,2
+pid_1874,2,High school graduate,4,3,5,5,3,5,5,5,1,1
+pid_1875,5,Postgraduate,4,3,4,4,3,3,5,4,4,3
+pid_1876,5,Postgraduate,5,5,5,5,3,3,5,5,1,3
+pid_1877,5,College graduate/some postgrad,3,5,3,5,5,5,5,5,1,5
+pid_1878,2,High school graduate,5,5,5,4,5,5,5,5,3,4
+pid_1879,3,Associate's degree,5,5,5,5,5,5,5,5,1,5
+pid_1880,5,Postgraduate,2,3,3,4,4,3,2,5,2,5
+pid_1881,3,"Some college, no degree",1,1,1,1,4,1,4,4,5,5
+pid_1882,3,"Some college, no degree",5,5,5,5,5,5,5,5,2,4
+pid_1883,3,"Some college, no degree",5,5,5,5,4,5,5,5,2,2
+pid_1884,5,College graduate/some postgrad,5,5,4,5,5,5,5,5,4,4
+pid_1885,3,Associate's degree,2,4,4,5,3,5,5,5,3,4
+pid_1886,3,"Some college, no degree",5,5,5,3,3,5,5,5,1,3
+pid_1887,5,Postgraduate,2,5,3,5,5,4,5,5,2,5
+pid_1888,5,College graduate/some postgrad,2,4,4,5,4,4,5,5,5,5
+pid_1889,3,Associate's degree,4,3,4,3,3,4,5,4,3,3
+pid_1890,3,"Some college, no degree",5,4,5,4,5,4,4,3,5,4
+pid_1891,2,High school graduate,4,5,4,4,4,3,3,3,2,4
+pid_1892,3,"Some college, no degree",1,1,1,1,5,1,1,1,5,5
+pid_1893,3,"Some college, no degree",4,3,3,1,3,5,2,1,2,5
+pid_1894,3,"Some college, no degree",4,3,4,5,4,5,5,5,3,4
+pid_1895,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,1
+pid_1896,5,Postgraduate,2,3,3,5,3,5,3,3,1,3
+pid_1897,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,3,4
+pid_1898,2,High school graduate,1,2,2,3,5,1,4,4,5,5
+pid_1899,5,College graduate/some postgrad,4,4,5,5,3,5,5,5,2,1
+pid_1900,3,Associate's degree,5,5,5,5,3,5,5,5,1,5
+pid_1901,5,College graduate/some postgrad,3,5,4,5,5,4,5,5,3,5
+pid_1902,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,2,2
+pid_1903,5,Postgraduate,4,4,3,5,5,4,5,4,3,4
+pid_1904,5,College graduate/some postgrad,4,3,4,4,3,3,3,4,4,3
+pid_1905,5,College graduate/some postgrad,5,5,5,5,4,5,5,5,2,1
+pid_1906,3,"Some college, no degree",3,4,3,4,4,5,2,5,3,3
+pid_1907,5,Postgraduate,5,5,5,5,5,5,5,5,1,3
+pid_1908,3,Associate's degree,5,5,5,5,5,5,5,5,1,2
+pid_1909,3,"Some college, no degree",1,1,1,1,1,1,1,1,5,3
+pid_1910,5,College graduate/some postgrad,1,3,1,1,4,1,3,4,5,4
+pid_1911,5,Postgraduate,4,4,3,5,5,5,4,5,3,3
+pid_1912,5,College graduate/some postgrad,4,4,4,4,4,4,4,4,4,4
+pid_1913,5,College graduate/some postgrad,2,2,2,1,3,4,3,3,4,3
+pid_1914,3,"Some college, no degree",5,5,5,5,5,5,5,5,3,3
+pid_1915,3,"Some college, no degree",4,4,4,5,5,4,4,5,5,5
+pid_1916,3,Associate's degree,4,4,5,5,5,5,5,5,1,1
+pid_1917,3,Associate's degree,2,5,5,4,4,5,5,5,4,3
+pid_1918,5,College graduate/some postgrad,2,4,2,5,4,4,4,4,3,4
+pid_1919,3,"Some college, no degree",3,2,2,4,4,3,2,4,5,3
+pid_1920,2,High school graduate,5,5,5,5,5,5,5,5,5,5
+pid_1921,2,High school graduate,1,2,1,4,5,5,1,1,5,5
+pid_1922,5,College graduate/some postgrad,4,3,4,5,5,5,5,5,3,3
+pid_1923,5,College graduate/some postgrad,5,4,5,5,4,5,5,5,2,3
+pid_1924,2,High school graduate,3,4,4,5,5,5,5,5,3,5
+pid_1925,3,"Some college, no degree",4,5,5,5,5,1,5,4,5,5
+pid_1926,5,College graduate/some postgrad,5,4,5,5,5,5,5,5,2,2
+pid_1927,5,College graduate/some postgrad,4,3,4,5,5,4,3,5,2,5
+pid_1928,5,College graduate/some postgrad,2,3,3,5,4,4,5,4,5,4
+pid_1929,5,College graduate/some postgrad,5,4,5,5,4,4,5,1,3,5
+pid_1930,3,"Some college, no degree",4,5,4,5,4,4,4,5,3,4
+pid_1931,2,High school graduate,5,5,5,5,3,5,5,5,2,2
+pid_1932,3,"Some college, no degree",4,3,5,5,5,5,5,5,2,1
+pid_1933,2,High school graduate,2,3,4,2,3,3,2,4,2,4
+pid_1934,3,"Some college, no degree",1,2,1,2,4,2,3,1,5,4
+pid_1935,5,College graduate/some postgrad,4,4,4,5,4,3,5,5,4,4
+pid_1936,2,High school graduate,5,4,5,3,3,3,5,4,4,3
+pid_1937,3,"Some college, no degree",1,3,1,1,1,1,1,1,5,4
+pid_1938,3,"Some college, no degree",5,5,5,5,5,4,5,5,4,3
+pid_1939,5,College graduate/some postgrad,5,5,5,4,3,3,4,5,3,5
+pid_1940,5,College graduate/some postgrad,1,4,3,5,5,5,3,5,3,5
+pid_1941,5,College graduate/some postgrad,1,2,3,2,3,2,3,4,4,3
+pid_1942,3,"Some college, no degree",5,5,5,5,5,5,5,5,4,3
+pid_1943,2,High school graduate,4,3,4,4,3,4,3,4,3,4
+pid_1944,3,Associate's degree,2,2,4,2,4,1,3,4,4,4
+pid_1945,3,Associate's degree,5,5,5,5,5,5,5,5,3,4
+pid_1946,5,College graduate/some postgrad,2,2,2,2,4,1,3,4,5,4
+pid_1947,2,High school graduate,4,4,4,4,4,4,3,3,5,3
+pid_1948,5,College graduate/some postgrad,4,4,5,5,4,5,5,5,2,3
+pid_1949,3,"Some college, no degree",1,1,1,2,4,1,4,1,5,4
+pid_1950,5,College graduate/some postgrad,5,4,4,5,4,5,5,5,1,3
+pid_1951,3,"Some college, no degree",4,4,4,5,5,4,5,5,4,5
+pid_1952,5,College graduate/some postgrad,4,5,4,5,5,4,5,5,3,5
+pid_1953,5,College graduate/some postgrad,4,3,4,4,1,4,4,4,4,1
+pid_1954,3,"Some college, no degree",2,5,3,4,3,4,4,4,4,4
+pid_1955,3,Associate's degree,1,3,4,2,4,2,2,1,5,4
+pid_1956,5,College graduate/some postgrad,5,4,5,4,3,4,3,4,5,4
+pid_1957,3,"Some college, no degree",4,4,5,5,5,5,5,5,3,5
+pid_1958,5,Postgraduate,3,4,3,4,4,3,4,5,4,4
+pid_1959,3,Associate's degree,1,2,1,1,3,1,3,1,5,5
+pid_1960,5,Postgraduate,4,4,5,4,2,4,2,4,2,4
+pid_1961,3,Associate's degree,2,2,2,2,3,5,5,3,2,3
+pid_1962,5,Postgraduate,1,4,2,5,5,4,5,5,2,3
+pid_1963,3,"Some college, no degree",4,4,5,5,5,5,5,5,1,3
+pid_1964,5,College graduate/some postgrad,5,4,4,5,5,4,4,5,4,4
+pid_1965,3,"Some college, no degree",5,5,5,5,5,5,5,5,3,5
+pid_1966,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_1967,5,College graduate/some postgrad,5,5,5,5,2,5,5,5,1,1
+pid_1968,2,High school graduate,5,5,5,5,5,3,5,5,4,3
+pid_1969,5,College graduate/some postgrad,2,2,2,4,4,2,4,5,5,4
+pid_1970,3,"Some college, no degree",4,3,4,3,4,4,3,4,3,4
+pid_1971,5,College graduate/some postgrad,2,2,2,3,3,1,4,4,5,3
+pid_1972,5,College graduate/some postgrad,4,2,3,4,4,3,4,4,4,3
+pid_1973,5,College graduate/some postgrad,5,4,4,5,5,5,4,3,2,4
+pid_1974,5,College graduate/some postgrad,2,3,3,5,5,2,3,3,5,2
+pid_1975,2,High school graduate,3,3,3,4,4,4,4,3,3,3
+pid_1976,3,"Some college, no degree",5,5,5,5,5,5,5,5,1,5
+pid_1977,5,College graduate/some postgrad,5,4,5,5,5,4,5,5,4,5
+pid_1978,5,College graduate/some postgrad,4,3,4,5,5,5,5,5,3,1
+pid_1979,5,Postgraduate,1,3,2,3,4,4,4,4,4,4
+pid_1980,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,3,3
+pid_1981,5,College graduate/some postgrad,3,5,5,4,5,4,5,3,2,2
+pid_1982,3,"Some college, no degree",4,3,4,2,4,1,4,2,5,3
+pid_1983,3,"Some college, no degree",2,1,1,4,4,2,3,5,5,4
+pid_1984,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,5,4
+pid_1985,3,"Some college, no degree",5,3,5,5,4,5,5,5,2,4
+pid_1986,3,Associate's degree,1,1,1,1,3,2,1,1,5,4
+pid_1987,3,"Some college, no degree",4,3,4,4,5,4,5,5,2,1
+pid_1988,2,High school graduate,4,3,5,5,4,5,3,5,1,2
+pid_1989,5,Postgraduate,1,4,4,2,5,3,4,5,3,5
+pid_1990,5,College graduate/some postgrad,5,5,5,3,3,5,5,5,5,3
+pid_1991,5,College graduate/some postgrad,5,5,5,5,5,5,5,5,1,1
+pid_1992,3,Associate's degree,4,4,4,5,5,4,5,5,2,5
+pid_1993,5,College graduate/some postgrad,5,3,4,4,5,3,4,5,3,4
+pid_1994,5,College graduate/some postgrad,4,4,5,5,5,5,5,5,1,2
+pid_1995,3,Associate's degree,4,3,2,5,5,2,5,5,5,5
+pid_1996,3,"Some college, no degree",4,5,5,5,5,5,5,5,3,5
+pid_1997,5,Postgraduate,4,4,4,5,5,4,5,5,2,4
+pid_1998,5,College graduate/some postgrad,4,4,4,5,4,4,4,5,3,2
+pid_1999,3,"Some college, no degree",5,5,5,4,4,5,5,5,2,5
+pid_2000,5,Postgraduate,1,3,1,1,3,1,3,1,5,3
+pid_2001,5,College graduate/some postgrad,4,4,4,5,5,5,4,4,3,3
+pid_2002,3,"Some college, no degree",1,1,1,1,1,1,2,1,5,2
+pid_2003,2,High school graduate,3,4,3,5,4,1,3,5,3,4
+pid_2004,5,College graduate/some postgrad,4,4,4,3,4,3,5,5,4,3
+pid_2005,5,Postgraduate,1,2,1,5,5,5,1,1,2,2
+pid_2006,3,Associate's degree,3,4,3,3,4,3,4,3,3,4
+pid_2007,5,College graduate/some postgrad,2,2,2,3,3,3,3,4,4,3
+pid_2008,5,College graduate/some postgrad,4,5,5,5,5,3,3,5,5,3
+pid_2009,2,High school graduate,2,2,2,3,3,5,4,3,4,3
+pid_2010,5,College graduate/some postgrad,5,5,5,5,5,3,3,5,3,4
+pid_2011,3,Associate's degree,5,5,5,5,5,5,5,5,1,5
+pid_2012,5,College graduate/some postgrad,5,3,5,5,5,5,5,5,1,3
+pid_2013,5,College graduate/some postgrad,4,4,4,5,4,5,5,4,3,4
+pid_2014,2,High school graduate,5,3,5,5,5,5,5,5,1,3
+pid_2015,5,College graduate/some postgrad,4,4,5,4,4,3,4,4,3,4
+pid_2016,3,"Some college, no degree",4,4,4,5,4,4,4,5,3,4
+pid_2017,2,High school graduate,4,4,4,4,4,3,4,5,4,3
+pid_2018,5,College graduate/some postgrad,3,4,4,4,4,2,4,5,5,4
+pid_2019,3,"Some college, no degree",5,4,5,4,5,5,5,5,2,5
+pid_2020,5,College graduate/some postgrad,5,5,5,5,3,5,5,5,1,1
+pid_2021,5,College graduate/some postgrad,5,4,5,5,5,4,5,5,3,4
+pid_2022,5,College graduate/some postgrad,4,4,4,5,5,4,5,5,4,5
+pid_2023,2,High school graduate,5,4,4,5,5,3,5,5,3,4
+pid_2024,5,College graduate/some postgrad,3,3,3,5,4,5,5,5,1,3
+pid_2025,2,High school graduate,1,1,1,5,1,1,1,5,5,5
+pid_2026,3,"Some college, no degree",4,4,5,5,5,5,5,5,1,4
+pid_2027,3,Associate's degree,5,5,5,5,5,5,5,5,2,1
+pid_2028,5,Postgraduate,1,2,4,1,5,1,4,1,5,5
+pid_2029,3,Associate's degree,4,4,1,2,4,1,5,5,5,5
+pid_2030,2,High school graduate,1,2,1,1,4,1,2,1,5,5
+pid_2031,3,Associate's degree,2,4,2,3,4,5,1,5,2,4
+pid_2032,5,College graduate/some postgrad,3,5,5,5,1,2,1,5,4,1
+pid_2033,3,"Some college, no degree",3,3,3,3,3,3,3,3,3,3
+pid_2034,5,College graduate/some postgrad,3,3,3,3,3,4,4,1,4,3
+pid_2035,3,Associate's degree,4,5,4,4,5,2,5,4,2,2
+pid_2036,2,High school graduate,3,3,4,4,4,3,4,2,4,5
+pid_2037,5,College graduate/some postgrad,3,2,1,2,4,1,2,2,5,5
+pid_2038,3,Associate's degree,5,5,5,5,4,4,4,5,1,3
+pid_2039,2,High school graduate,5,4,5,5,5,3,5,5,4,3
+pid_2040,5,College graduate/some postgrad,3,3,3,3,4,3,4,4,3,4
+pid_2041,5,Postgraduate,5,5,5,5,5,5,5,5,1,3
+pid_2042,3,Associate's degree,3,4,4,2,4,4,3,5,5,4
+pid_2043,3,"Some college, no degree",1,3,1,1,4,2,1,1,4,2
+pid_2044,3,"Some college, no degree",4,5,5,5,3,5,5,5,3,1
+pid_2045,3,"Some college, no degree",5,4,5,5,4,5,5,5,3,4
+pid_2046,5,College graduate/some postgrad,2,3,3,4,4,4,4,3,4,4
+pid_2047,5,College graduate/some postgrad,4,4,4,3,4,4,4,5,3,4
+pid_2048,3,"Some college, no degree",4,4,5,5,4,5,4,5,3,3
+pid_2049,3,"Some college, no degree",2,4,3,5,4,1,4,4,5,4
+pid_2050,5,Postgraduate,4,3,3,3,3,4,5,3,4,3
+pid_2051,5,Postgraduate,5,4,5,4,5,3,5,4,5,4
+pid_2052,2,High school graduate,5,3,5,5,5,5,4,3,4,2
+pid_2053,5,College graduate/some postgrad,2,5,2,5,5,1,5,5,5,5
+pid_2054,5,Postgraduate,4,5,4,4,4,3,4,4,3,4
+pid_2055,3,"Some college, no degree",5,5,5,4,4,5,5,5,1,3
+pid_2056,5,College graduate/some postgrad,4,4,5,1,5,2,5,4,5,5
+pid_2057,5,College graduate/some postgrad,4,5,5,5,5,5,5,5,5,2
+pid_2058,5,Postgraduate,3,2,5,5,3,4,5,3,3,3
