@@ -1,0 +1,39 @@
+{
+  "oscillations": 246,
+  "final_train_acc": 0.8730158805847168,
+  "final_valid_acc": 0.8627849817781168,
+  "stability_score": 6,
+  "is_optimal": false,
+  "rankings": [
+    [
+      "Run 3 (lr=0.5)",
+      90.46,
+      {
+        "oscillations": 175,
+        "train_acc": 84.44,
+        "valid_acc": 86.46,
+        "stability_score": 8
+      }
+    ],
+    [
+      "Run 5 (lr=0.6)",
+      89.27849817781168,
+      {
+        "oscillations": 246,
+        "train_acc": 87.30158805847168,
+        "valid_acc": 86.27849817781168,
+        "stability_score": 6
+      }
+    ],
+    [
+      "Run 4 (lr=0.75)",
+      88.5,
+      {
+        "oscillations": 517,
+        "train_acc": 83.33,
+        "valid_acc": 87.5,
+        "stability_score": 2
+      }
+    ]
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 2500,
+    "avg_ci_length": 0.049153223741079034,
+    "results_snapshot": {
+      "mse": 0.00016235717892692733,
+      "coverage_rate": 0.96,
+      "variance": 0.00016147945334130532,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 2500,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.25311249774424155
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.17296955325212374
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.12338610700542173
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.08596713805070177
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.06135785876700767
+      },
+      {
+        "labels": 2100,
+        "avg_ci_length": 0.05344130171296527
+      },
+      {
+        "labels": 2300,
+        "avg_ci_length": 0.051212354114383525
+      },
+      {
+        "labels": 2400,
+        "avg_ci_length": 0.050341511229196036
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.049153223741079034
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.043335083290197085
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 4800,
+    "avg_ci_length": 0.04974132907930593,
+    "results_snapshot": {
+      "mse": 6.179146841125028e-05,
+      "coverage_rate": 1.0,
+      "variance": 6.032118055555571e-05,
+      "parameters": {
+        "Y": "GAMBLERESTR",
+        "n_experiments": 50,
+        "n_true_labels": 4800,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.3506273719975729
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.24425009411241969
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.17225012725576724
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.1214804062789025
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08567472260461317
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.060815934475201436
+      },
+      {
+        "labels": 4100,
+        "avg_ci_length": 0.053731458025653905
+      },
+      {
+        "labels": 4500,
+        "avg_ci_length": 0.05135199636435476
+      },
+      {
+        "labels": 4700,
+        "avg_ci_length": 0.050243042165667405
+      },
+      {
+        "labels": 4800,
+        "avg_ci_length": 0.04974132907930593
+      },
+      {
+        "labels": 4900,
+        "avg_ci_length": 0.04924338932675206
+      },
+      {
+        "labels": 6400,
+        "avg_ci_length": 0.04306501788160917
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 2400,
+    "avg_ci_length": 0.04951282704485436,
+    "results_snapshot": {
+      "mse": 0.00011624470644661603,
+      "coverage_rate": 0.98,
+      "variance": 0.00011574873017537064,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 2400,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2502871982192352
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.1750071854842342
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.12259775879424194
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.0862682232882566
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.060561370230080354
+      },
+      {
+        "labels": 2100,
+        "avg_ci_length": 0.052988811100880745
+      },
+      {
+        "labels": 2300,
+        "avg_ci_length": 0.050809267666702525
+      },
+      {
+        "labels": 2400,
+        "avg_ci_length": 0.04951282704485436
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.04853633887961104
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.043021483045302435
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 2600,
+    "avg_ci_length": 0.0492133455707531,
+    "results_snapshot": {
+      "mse": 0.0001618581447939883,
+      "coverage_rate": 0.94,
+      "variance": 0.0001611498367050077,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "batch_size": 250,
+        "n_experiments": 50,
+        "n_true_labels": 2600,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2556782594662108
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.17616007813223045
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.1230859374393745
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.0885435433833581
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.06405408483278442
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.050236425152391864
+      },
+      {
+        "labels": 2600,
+        "avg_ci_length": 0.0492133455707531
+      },
+      {
+        "labels": 2700,
+        "avg_ci_length": 0.048253854393318356
+      },
+      {
+        "labels": 2900,
+        "avg_ci_length": 0.046468484147276286
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.04406742086015507
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  }
+}

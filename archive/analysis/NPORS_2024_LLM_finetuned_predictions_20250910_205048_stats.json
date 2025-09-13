@@ -1,0 +1,27 @@
+{
+  "ECON1MOD": {
+    "total_valid_samples": 5611,
+    "successful_predictions": 5611,
+    "success_rate": 1.0
+  },
+  "UNITY": {
+    "total_valid_samples": 5589,
+    "successful_predictions": 5588,
+    "success_rate": 0.9998210771157631
+  },
+  "GPT1": {
+    "total_valid_samples": 5613,
+    "successful_predictions": 5613,
+    "success_rate": 1.0
+  },
+  "MOREGUNIMPACT": {
+    "total_valid_samples": 5599,
+    "successful_predictions": 5599,
+    "success_rate": 1.0
+  },
+  "GAMBLERESTR": {
+    "total_valid_samples": 5528,
+    "successful_predictions": 5527,
+    "success_rate": 0.9998191027496383
+  }
+}

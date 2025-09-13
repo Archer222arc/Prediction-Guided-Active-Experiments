@@ -1,0 +1,158 @@
+{
+  "default": {
+    "params": {
+      "n_estimators": 100,
+      "max_depth": null,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "default"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009025464900266272,
+        "bias": 0.0003854731940653444,
+        "variance": 0.0009023979004432843,
+        "coverage_rate": 0.9166666666666666,
+        "time": 17.76801109313965
+      },
+      "adaptive": {
+        "mse": 0.0022728383255602148,
+        "bias": -0.009668762427431865,
+        "variance": 0.002179353358682094,
+        "coverage_rate": 0.9166666666666666,
+        "time": 9.265748023986816
+      }
+    }
+  },
+  "conservative": {
+    "params": {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "min_samples_split": 5,
+      "min_samples_leaf": 2,
+      "random_state": 42,
+      "name": "conservative"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009212778289853183,
+        "bias": 0.0009948441831690857,
+        "variance": 0.0009202881140365327,
+        "coverage_rate": 0.9166666666666666,
+        "time": 15.412945032119751
+      },
+      "adaptive": {
+        "mse": 0.0023422559111546675,
+        "bias": -0.010096672154936037,
+        "variance": 0.0022403131225504076,
+        "coverage_rate": 0.9166666666666666,
+        "time": 11.746022939682007
+      }
+    }
+  },
+  "enhanced": {
+    "params": {
+      "n_estimators": 200,
+      "max_depth": 15,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "enhanced"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0008968200954037049,
+        "bias": 0.0002587042596817746,
+        "variance": 0.0008967531675097273,
+        "coverage_rate": 0.9166666666666666,
+        "time": 15.520668029785156
+      },
+      "adaptive": {
+        "mse": 0.0021713812997237202,
+        "bias": -0.008834100546663226,
+        "variance": 0.0020933399672551684,
+        "coverage_rate": 0.9166666666666666,
+        "time": 22.58394169807434
+      }
+    }
+  },
+  "stable": {
+    "params": {
+      "n_estimators": 100,
+      "max_depth": 12,
+      "min_samples_split": 3,
+      "min_samples_leaf": 2,
+      "random_state": 42,
+      "name": "stable"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009108205570447504,
+        "bias": 0.0008084260930787401,
+        "variance": 0.0009101670042967799,
+        "coverage_rate": 0.9166666666666666,
+        "time": 18.37733006477356
+      },
+      "adaptive": {
+        "mse": 0.0022402083608755985,
+        "bias": -0.009193447352633832,
+        "variance": 0.0021556888866499473,
+        "coverage_rate": 0.9166666666666666,
+        "time": 17.891545057296753
+      }
+    }
+  },
+  "lightweight": {
+    "params": {
+      "n_estimators": 30,
+      "max_depth": 8,
+      "min_samples_split": 10,
+      "min_samples_leaf": 5,
+      "random_state": 42,
+      "name": "lightweight"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009306338406038991,
+        "bias": 0.0009870261511157885,
+        "variance": 0.0009296596199809132,
+        "coverage_rate": 0.9166666666666666,
+        "time": 14.694358110427856
+      },
+      "adaptive": {
+        "mse": 0.0023524101904184554,
+        "bias": -0.009090035431489785,
+        "variance": 0.0022697814462727243,
+        "coverage_rate": 0.9166666666666666,
+        "time": 8.621886014938354
+      }
+    }
+  },
+  "balanced": {
+    "params": {
+      "n_estimators": 75,
+      "max_depth": 12,
+      "min_samples_split": 5,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "balanced"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009110962151170809,
+        "bias": 0.000590397667062259,
+        "variance": 0.0009107476457118082,
+        "coverage_rate": 0.9166666666666666,
+        "time": 13.369191884994507
+      },
+      "adaptive": {
+        "mse": 0.0022604464230751562,
+        "bias": -0.010192216798015075,
+        "variance": 0.002156565139817418,
+        "coverage_rate": 0.9166666666666666,
+        "time": 9.849740743637085
+      }
+    }
+  }
+}

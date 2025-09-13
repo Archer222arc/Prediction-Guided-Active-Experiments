@@ -1,0 +1,46 @@
+{
+  "PGAE": {
+    "mse": 0.0008178979017092539,
+    "bias": -0.0023154885628036137,
+    "variance": 0.0008125364144247804,
+    "avg_ci_length": 0.11213204690733973,
+    "coverage_rate": 0.94,
+    "execution_time": 9.270762920379639,
+    "n_experiments": 50
+  },
+  "Adaptive_PGAE": {
+    "mse": 0.0011224384522543179,
+    "bias": -0.0008961608651443242,
+    "variance": 0.0011216353479581013,
+    "avg_ci_length": 0.108964924769479,
+    "coverage_rate": 0.92,
+    "execution_time": 6.462951898574829,
+    "n_experiments": 50
+  },
+  "Active_Inference": {
+    "mse": 0.0009344738369800684,
+    "bias": -0.01053075309250695,
+    "variance": 0.0008235770762847294,
+    "avg_ci_length": 0.10971040908095371,
+    "coverage_rate": 0.94,
+    "execution_time": 2.2166812419891357,
+    "n_experiments": 50
+  },
+  "summary": {
+    "true_value": 1.8850869167429094,
+    "n_experiments": 50,
+    "n_true_labels": 500,
+    "alpha": 0.95,
+    "gamma": 0.5,
+    "total_execution_time": 17.950396060943604,
+    "parameters": {
+      "X": [
+        "EDUCATION"
+      ],
+      "F": "GAMBLERESTR_LLM",
+      "Y": "GAMBLERESTR",
+      "batch_size": 100,
+      "seed": 42
+    }
+  }
+}

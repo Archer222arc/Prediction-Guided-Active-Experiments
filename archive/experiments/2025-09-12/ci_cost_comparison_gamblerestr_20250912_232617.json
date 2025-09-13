@@ -1,0 +1,214 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 600,
+    "avg_ci_length": 0.09935044025817509,
+    "results_snapshot": {
+      "mse": 0.00046138607641465145,
+      "coverage_rate": 0.96,
+      "variance": 0.00046065602691546995,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 600,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.25311249774424155
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.17296955325212374
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.12338610700542173
+      },
+      {
+        "labels": 500,
+        "avg_ci_length": 0.10965177071212301
+      },
+      {
+        "labels": 600,
+        "avg_ci_length": 0.09935044025817509
+      },
+      {
+        "labels": 700,
+        "avg_ci_length": 0.09274856663117462
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.08596713805070177
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 1200,
+    "avg_ci_length": 0.09902445046049346,
+    "results_snapshot": {
+      "mse": 0.0008396011293294033,
+      "coverage_rate": 0.9,
+      "variance": 0.0008379433333333328,
+      "parameters": {
+        "Y": "GAMBLERESTR",
+        "n_experiments": 50,
+        "n_true_labels": 1200,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.3506273719975729
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.24425009411241969
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.17225012725576724
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.1214804062789025
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.10324462892152217
+      },
+      {
+        "labels": 1200,
+        "avg_ci_length": 0.09902445046049346
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.09512751643843952
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08567472260461317
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 600,
+    "avg_ci_length": 0.09980589338324482,
+    "results_snapshot": {
+      "mse": 0.0009350465714367858,
+      "coverage_rate": 0.9,
+      "variance": 0.0009212506560604595,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 600,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2502871982192352
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.1750071854842342
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.12259775879424194
+      },
+      {
+        "labels": 500,
+        "avg_ci_length": 0.10924764977836063
+      },
+      {
+        "labels": 600,
+        "avg_ci_length": 0.09980589338324482
+      },
+      {
+        "labels": 700,
+        "avg_ci_length": 0.09191087254368932
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.0862682232882566
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 600,
+    "avg_ci_length": 0.0997688827942328,
+    "results_snapshot": {
+      "mse": 0.0005765796908445844,
+      "coverage_rate": 0.96,
+      "variance": 0.0005724154546267235,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GAMBLERESTR_LLM",
+        "Y": "GAMBLERESTR",
+        "gamma": 0.5,
+        "batch_size": 250,
+        "n_experiments": 50,
+        "n_true_labels": 600,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2556782594662108
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.17616007813223045
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.1230859374393745
+      },
+      {
+        "labels": 500,
+        "avg_ci_length": 0.10949848614111328
+      },
+      {
+        "labels": 600,
+        "avg_ci_length": 0.0997688827942328
+      },
+      {
+        "labels": 700,
+        "avg_ci_length": 0.09233413541991058
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.0885435433833581
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  }
+}

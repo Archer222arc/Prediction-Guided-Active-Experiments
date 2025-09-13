@@ -1,0 +1,91 @@
+{
+  "batch_25": {
+    "batch_size": 25,
+    "mse": 0.004093904316362814,
+    "bias": -0.015202853090640733,
+    "variance": 0.0038627775742672127,
+    "coverage_rate": 0.78,
+    "avg_ci_length": 0.1612876638310795,
+    "execution_time": 79.9865505695343,
+    "true_value": 2.7246664262531555
+  },
+  "batch_50": {
+    "batch_size": 50,
+    "mse": 0.005374428990483222,
+    "bias": 0.007646969087206745,
+    "variance": 0.005315952854262529,
+    "coverage_rate": 0.74,
+    "avg_ci_length": 0.1779167110538143,
+    "execution_time": 43.2350697517395,
+    "true_value": 2.7246664262531555
+  },
+  "batch_75": {
+    "batch_size": 75,
+    "mse": 0.007192875044644529,
+    "bias": -0.002405384852147918,
+    "variance": 0.007187089168357591,
+    "coverage_rate": 0.8,
+    "avg_ci_length": 0.17991934227230652,
+    "execution_time": 28.18915295600891,
+    "true_value": 2.7246664262531555
+  },
+  "batch_100": {
+    "batch_size": 100,
+    "mse": 0.0026637350135820304,
+    "bias": 0.0022474930501132917,
+    "variance": 0.002658683788571721,
+    "coverage_rate": 0.8,
+    "avg_ci_length": 0.14475068932775165,
+    "execution_time": 21.299477100372314,
+    "true_value": 2.7246664262531555
+  },
+  "batch_150": {
+    "batch_size": 150,
+    "mse": 0.002735318355880722,
+    "bias": -0.0051594548352795755,
+    "variance": 0.002708698381683434,
+    "coverage_rate": 0.8,
+    "avg_ci_length": 0.1358069921792171,
+    "execution_time": 15.136974096298218,
+    "true_value": 2.7246664262531555
+  },
+  "batch_200": {
+    "batch_size": 200,
+    "mse": 0.002467311330170887,
+    "bias": -0.005747270841770291,
+    "variance": 0.002434280208042223,
+    "coverage_rate": 0.8,
+    "avg_ci_length": 0.1296025458823315,
+    "execution_time": 12.26436710357666,
+    "true_value": 2.7246664262531555
+  },
+  "batch_250": {
+    "batch_size": 250,
+    "mse": 0.002186620676370829,
+    "bias": 0.00027077485505300203,
+    "variance": 0.0021865473573487,
+    "coverage_rate": 0.82,
+    "avg_ci_length": 0.12405748398221719,
+    "execution_time": 11.14313793182373,
+    "true_value": 2.7246664262531555
+  },
+  "summary": {
+    "target": "ECON1MOD",
+    "gamma": 0.5,
+    "best_batch_size": 250,
+    "best_mse": 0.002186620676370829,
+    "best_coverage": 0.82,
+    "improvement_percent": 47.94999580169414,
+    "tested_batch_sizes": [
+      25,
+      50,
+      75,
+      100,
+      150,
+      200,
+      250
+    ],
+    "total_tests": 7,
+    "successful_tests": 7
+  }
+}

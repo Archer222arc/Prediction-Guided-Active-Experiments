@@ -1,0 +1,186 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 300,
+    "avg_ci_length": 0.09498232425458991,
+    "results_snapshot": {
+      "mse": 0.00048492193269132524,
+      "coverage_rate": 0.98,
+      "variance": 0.0004664528563925824,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "UNITY_LLM",
+        "Y": "UNITY",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 300,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.1705661643974915
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.1165942501401244
+      },
+      {
+        "labels": 300,
+        "avg_ci_length": 0.09498232425458991
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.08130870651246802
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.08130870651246802
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 500,
+    "avg_ci_length": 0.09793848370822503,
+    "results_snapshot": {
+      "mse": 0.00047905031554678604,
+      "coverage_rate": 1.0,
+      "variance": 0.00047852160000000084,
+      "parameters": {
+        "Y": "UNITY",
+        "n_experiments": 50,
+        "n_true_labels": 500,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2221332428180949
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.15534019279551153
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.10967667960957972
+      },
+      {
+        "labels": 500,
+        "avg_ci_length": 0.09793848370822503
+      },
+      {
+        "labels": 600,
+        "avg_ci_length": 0.08937950590361197
+      },
+      {
+        "labels": 700,
+        "avg_ci_length": 0.08279416915698133
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.07734307368404486
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 300,
+    "avg_ci_length": 0.08978975086253786,
+    "results_snapshot": {
+      "mse": 0.0006266624458226065,
+      "coverage_rate": 0.9,
+      "variance": 0.0006213552084485243,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "UNITY_LLM",
+        "Y": "UNITY",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 300,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.15826906049508024
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.11252670735637867
+      },
+      {
+        "labels": 300,
+        "avg_ci_length": 0.08978975086253786
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.0771818350976167
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.0771818350976167
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 300,
+    "avg_ci_length": 0.09045508159416571,
+    "results_snapshot": {
+      "mse": 0.00039870467595521416,
+      "coverage_rate": 0.98,
+      "variance": 0.00039459699908141345,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "UNITY_LLM",
+        "Y": "UNITY",
+        "gamma": 0.5,
+        "batch_size": 250,
+        "n_experiments": 50,
+        "n_true_labels": 300,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.16201138973291673
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.11225944584090541
+      },
+      {
+        "labels": 300,
+        "avg_ci_length": 0.09045508159416571
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.0776250819176722
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.0776250819176722
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  }
+}

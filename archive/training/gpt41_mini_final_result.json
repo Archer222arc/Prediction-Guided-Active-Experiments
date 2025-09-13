@@ -1,0 +1,15 @@
+{
+  "job_id": "ftjob-a4f068c459104484b183fa8512d71379",
+  "status": "succeeded",
+  "fine_tuned_model": "gpt-4.1-mini-2025-04-14.ft-a4f068c459104484b183fa8512d71379-npors-survey-predictor",
+  "created_at": 1757477315,
+  "finished_at": 1757542349,
+  "hyperparameters": {
+    "batch_size": 1,
+    "learning_rate_multiplier": 1.0,
+    "n_epochs": 3
+  },
+  "result_files": [
+    "file-6fdf449e305a4a3c97d2fe3c1d83d32b"
+  ]
+}

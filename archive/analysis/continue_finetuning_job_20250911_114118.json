@@ -1,0 +1,15 @@
+{
+  "continue_job_id": "ftjob-51add5739c0a46119c21a9cd90ff3ae7",
+  "base_job_id": "ftjob-5b4f5c96025a4c79a916d9e2edfaaee3",
+  "base_model": "gpt-4.1-mini-2025-04-14.ft-5b4f5c96025a4c79a916d9e2edfaaee3-cont-ckpt-stepNone",
+  "use_best_checkpoint": true,
+  "hyperparameters": {
+    "batch_size": 64,
+    "learning_rate_multiplier": 0.5,
+    "n_epochs": 1,
+    "seed": 42
+  },
+  "created_at": 1757605278,
+  "status": "pending",
+  "training_samples": 18575
+}

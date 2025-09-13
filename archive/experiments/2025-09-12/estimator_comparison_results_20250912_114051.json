@@ -1,0 +1,46 @@
+{
+  "PGAE": {
+    "mse": 0.0009734733784308174,
+    "bias": 0.002113124384053755,
+    "variance": 0.0009690080837683365,
+    "avg_ci_length": 0.11949793597998212,
+    "coverage_rate": 0.95,
+    "execution_time": 46.20709300041199,
+    "n_experiments": 100
+  },
+  "Adaptive_PGAE": {
+    "mse": 0.004201179339168829,
+    "bias": 0.010422266718488338,
+    "variance": 0.0040925556956175205,
+    "avg_ci_length": 0.15210081428221955,
+    "coverage_rate": 0.81,
+    "execution_time": 66.18131923675537,
+    "n_experiments": 100
+  },
+  "Active_Inference": {
+    "mse": 0.0015443301447409497,
+    "bias": -0.0008119364181702338,
+    "variance": 0.0015436709039937972,
+    "avg_ci_length": 0.12651987172361717,
+    "coverage_rate": 0.91,
+    "execution_time": 5.17762017250061,
+    "n_experiments": 100
+  },
+  "summary": {
+    "true_value": 2.7246664262531555,
+    "n_experiments": 100,
+    "n_true_labels": 500,
+    "alpha": 0.9,
+    "gamma": 0.5,
+    "total_execution_time": 117.56603240966797,
+    "parameters": {
+      "X": [
+        "EDUCATION"
+      ],
+      "F": "ECON1MOD_LLM",
+      "Y": "ECON1MOD",
+      "batch_size": 100,
+      "seed": 42
+    }
+  }
+}

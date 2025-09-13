@@ -1,0 +1,46 @@
+{
+  "PGAE": {
+    "mse": 0.0009944245448734342,
+    "bias": -0.009866346778233615,
+    "variance": 0.0008970797461250711,
+    "avg_ci_length": 0.15105747572565176,
+    "coverage_rate": 0.98,
+    "execution_time": 5.895744562149048,
+    "n_experiments": 50
+  },
+  "Adaptive_PGAE": {
+    "mse": 0.001442812978267273,
+    "bias": -0.012337751696459787,
+    "variance": 0.0012905928613437744,
+    "avg_ci_length": 0.15016947368798259,
+    "coverage_rate": 0.96,
+    "execution_time": 4.136105060577393,
+    "n_experiments": 50
+  },
+  "Active_Inference": {
+    "mse": 0.0018027201306571273,
+    "bias": -0.003479679865419527,
+    "variance": 0.0017906119586913241,
+    "avg_ci_length": 0.1642950772472549,
+    "coverage_rate": 0.94,
+    "execution_time": 1.9655420780181885,
+    "n_experiments": 50
+  },
+  "summary": {
+    "true_value": 1.878595983354442,
+    "n_experiments": 50,
+    "n_true_labels": 500,
+    "alpha": 0.95,
+    "gamma": 0.5,
+    "total_execution_time": 11.997391700744629,
+    "parameters": {
+      "X": [
+        "EDUCATION"
+      ],
+      "F": "MOREGUNIMPACT_LLM",
+      "Y": "MOREGUNIMPACT",
+      "batch_size": 100,
+      "seed": 42
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 1400,
+    "avg_ci_length": 0.09825968421859538,
+    "results_snapshot": {
+      "mse": 0.0004921674100402295,
+      "coverage_rate": 0.98,
+      "variance": 0.0004914936631816775,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "MOREGUNIMPACT_LLM",
+        "Y": "MOREGUNIMPACT",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 1400,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.3721910159037462
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.26084711868896554
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.18388894340916737
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.12954098991685023
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.10200308162889847
+      },
+      {
+        "labels": 1400,
+        "avg_ci_length": 0.09825968421859538
+      },
+      {
+        "labels": 1500,
+        "avg_ci_length": 0.09504159384492034
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.09183942096411082
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 2300,
+    "avg_ci_length": 0.09935441266570173,
+    "results_snapshot": {
+      "mse": 0.0005611675974265298,
+      "coverage_rate": 0.94,
+      "variance": 0.0005519776181474478,
+      "parameters": {
+        "Y": "MOREGUNIMPACT",
+        "n_experiments": 50,
+        "n_true_labels": 2300,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.49190220523892736
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.341120649785248
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.2395176639295774
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.16882694353707112
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.11917462819083408
+      },
+      {
+        "labels": 2100,
+        "avg_ci_length": 0.10393874916821534
+      },
+      {
+        "labels": 2200,
+        "avg_ci_length": 0.10155197290624879
+      },
+      {
+        "labels": 2300,
+        "avg_ci_length": 0.09935441266570173
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.09524589723809637
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.08418165449499927
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 1200,
+    "avg_ci_length": 0.09570690187506348,
+    "results_snapshot": {
+      "mse": 0.000748043296100724,
+      "coverage_rate": 0.92,
+      "variance": 0.0007464486867834497,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "MOREGUNIMPACT_LLM",
+        "Y": "MOREGUNIMPACT",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 1200,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.34558774281631444
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.2398166052669209
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.16823127342250058
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.11763806646544019
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.10009910585761211
+      },
+      {
+        "labels": 1200,
+        "avg_ci_length": 0.09570690187506348
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.09226173490384988
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08317814029342373
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 1400,
+    "avg_ci_length": 0.0961854159761003,
+    "results_snapshot": {
+      "mse": 0.0006895267668579514,
+      "coverage_rate": 0.9,
+      "variance": 0.0006839214432320695,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "MOREGUNIMPACT_LLM",
+        "Y": "MOREGUNIMPACT",
+        "gamma": 0.5,
+        "batch_size": 250,
+        "n_experiments": 50,
+        "n_true_labels": 1400,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.34894056057706
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.24293838361228148
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.16844688187008397
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.12256950459146004
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.10018123699707476
+      },
+      {
+        "labels": 1400,
+        "avg_ci_length": 0.0961854159761003
+      },
+      {
+        "labels": 1500,
+        "avg_ci_length": 0.09268678596303971
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08957657310864381
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  }
+}

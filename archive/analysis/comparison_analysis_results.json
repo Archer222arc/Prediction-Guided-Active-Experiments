@@ -1,0 +1,42 @@
+{
+  "ECON1MOD": {
+    "sample_size": 20,
+    "baseline_accuracy": 0.15,
+    "finetuned_accuracy": 0.25,
+    "accuracy_improvement": 0.1,
+    "baseline_mae": 1.0,
+    "finetuned_mae": 0.75
+  },
+  "UNITY": {
+    "sample_size": 20,
+    "baseline_accuracy": 0.8,
+    "finetuned_accuracy": 0.8,
+    "accuracy_improvement": 0.0,
+    "baseline_mae": 0.2,
+    "finetuned_mae": 0.2
+  },
+  "GPT1": {
+    "sample_size": 20,
+    "baseline_accuracy": 0.5,
+    "finetuned_accuracy": 0.55,
+    "accuracy_improvement": 0.050000000000000044,
+    "baseline_mae": 0.55,
+    "finetuned_mae": 0.45
+  },
+  "MOREGUNIMPACT": {
+    "sample_size": 20,
+    "baseline_accuracy": 0.55,
+    "finetuned_accuracy": 0.6,
+    "accuracy_improvement": 0.04999999999999993,
+    "baseline_mae": 0.6,
+    "finetuned_mae": 0.6
+  },
+  "GAMBLERESTR": {
+    "sample_size": 20,
+    "baseline_accuracy": 0.45,
+    "finetuned_accuracy": 0.55,
+    "accuracy_improvement": 0.10000000000000003,
+    "baseline_mae": 0.55,
+    "finetuned_mae": 0.45
+  }
+}

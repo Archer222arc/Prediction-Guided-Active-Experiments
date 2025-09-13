@@ -1,0 +1,21 @@
+{
+  "continue_job_id": "ftjob-a829249187044b0ca3d71dffa3ce7d92",
+  "base_job_id": "ftjob-51add5739c0a46119c21a9cd90ff3ae7",
+  "base_model": "gpt-4.1-mini-2025-04-14.ft-51add5739c0a46119c21a9cd90ff3ae7-cont-ckpt-step683",
+  "config_name": "balanced_optimal",
+  "balance_strategy": "moderate",
+  "use_best_checkpoint": true,
+  "hyperparameters": {
+    "batch_size": 64,
+    "learning_rate_multiplier": 0.75,
+    "n_epochs": 2,
+    "seed": 42
+  },
+  "training_file": "file-cf4dd13a5734420ca7f07246c5645305",
+  "validation_file": "file-eb5cf0e406374593bbdbd4a7cefa3a11",
+  "created_at": 1757612230,
+  "status": "pending",
+  "training_samples": 17919,
+  "validation_samples": 3933,
+  "optimization_notes": "\u57fa\u4e8e\u8bad\u7ec3\u66f2\u7ebf\u5206\u6790\u7684\u4f18\u5316\u7248\u672c"
+}

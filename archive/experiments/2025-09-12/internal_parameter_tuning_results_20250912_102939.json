@@ -1,0 +1,189 @@
+{
+  "config_0": {
+    "config": {
+      "est_ci_params": {
+        "n_estimators_mu": 20,
+        "n_estimators_tau": 100,
+        "K": 2
+      },
+      "design_params": {
+        "min_var_threshold": 1e-06,
+        "prob_clip_min": 0.01,
+        "prob_clip_max": 0.99
+      }
+    },
+    "results": {
+      "gamma_0.2": {
+        "mse": 0.0011965627717049473,
+        "coverage_rate": 0.9,
+        "avg_ci_length": 0.11943641258999538,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.4": {
+        "mse": 0.0010999985357743145,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.11940734265871938,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.6": {
+        "mse": 0.0016169505668182716,
+        "coverage_rate": 0.8666666666666667,
+        "avg_ci_length": 0.12026279835774041,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.8": {
+        "mse": 0.0011005351895862628,
+        "coverage_rate": 0.9666666666666667,
+        "avg_ci_length": 0.12135001189022218,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_1.0": {
+        "mse": 0.001123423091699792,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.12024109422130683,
+        "true_value": 2.7246664262531555
+      }
+    }
+  },
+  "config_1": {
+    "config": {
+      "est_ci_params": {
+        "n_estimators_mu": 50,
+        "n_estimators_tau": 150,
+        "K": 3
+      },
+      "design_params": {
+        "min_var_threshold": 0.0001,
+        "prob_clip_min": 0.05,
+        "prob_clip_max": 0.95
+      }
+    },
+    "results": {
+      "gamma_0.2": {
+        "mse": 0.001272005849655568,
+        "coverage_rate": 0.9666666666666667,
+        "avg_ci_length": 0.12054226841191576,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.4": {
+        "mse": 0.0007342465137732727,
+        "coverage_rate": 0.9666666666666667,
+        "avg_ci_length": 0.11756785148164,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.6": {
+        "mse": 0.001137208743385982,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.11910870467736805,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.8": {
+        "mse": 0.001192543819650765,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.12037714265547612,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_1.0": {
+        "mse": 0.0018230288712302422,
+        "coverage_rate": 0.8666666666666667,
+        "avg_ci_length": 0.12164369219366974,
+        "true_value": 2.7246664262531555
+      }
+    }
+  },
+  "config_2": {
+    "config": {
+      "est_ci_params": {
+        "n_estimators_mu": 100,
+        "n_estimators_tau": 200,
+        "K": 5,
+        "max_depth": 10
+      },
+      "design_params": {
+        "min_var_threshold": 0.0001,
+        "prob_clip_min": 0.1,
+        "prob_clip_max": 0.9
+      }
+    },
+    "results": {
+      "gamma_0.2": {
+        "mse": 0.0013029749486679185,
+        "coverage_rate": 0.8666666666666667,
+        "avg_ci_length": 0.11899660212114029,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.4": {
+        "mse": 0.0015362784847803635,
+        "coverage_rate": 0.9,
+        "avg_ci_length": 0.11952108300788836,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.6": {
+        "mse": 0.0009637445100414403,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.12050129179057638,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.8": {
+        "mse": 0.0010739960732666757,
+        "coverage_rate": 0.9,
+        "avg_ci_length": 0.12019607385566096,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_1.0": {
+        "mse": 0.0014244620263153362,
+        "coverage_rate": 0.9,
+        "avg_ci_length": 0.12113890716627482,
+        "true_value": 2.7246664262531555
+      }
+    }
+  },
+  "config_3": {
+    "config": {
+      "est_ci_params": {
+        "n_estimators_mu": 80,
+        "n_estimators_tau": 150,
+        "K": 4,
+        "max_depth": 8,
+        "min_samples_split": 10
+      },
+      "design_params": {
+        "min_var_threshold": 0.001,
+        "prob_clip_min": 0.1,
+        "prob_clip_max": 0.8
+      }
+    },
+    "results": {
+      "gamma_0.2": {
+        "mse": 0.001052367012675893,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.118337564952802,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.4": {
+        "mse": 0.0017769442263273214,
+        "coverage_rate": 0.8333333333333334,
+        "avg_ci_length": 0.11908038625499939,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.6": {
+        "mse": 0.0011732350417328736,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.1199827803125431,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_0.8": {
+        "mse": 0.0008614605510492511,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.11866965877270023,
+        "true_value": 2.7246664262531555
+      },
+      "gamma_1.0": {
+        "mse": 0.0014295266873651166,
+        "coverage_rate": 0.9333333333333333,
+        "avg_ci_length": 0.12138138807868684,
+        "true_value": 2.7246664262531555
+      }
+    }
+  }
+}

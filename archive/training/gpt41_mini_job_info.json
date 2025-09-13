@@ -1,0 +1,7 @@
+{
+  "job_id": "ftjob-a4f068c459104484b183fa8512d71379",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "training_file": "file-a7b17aaa14a948079bd504779836b676",
+  "validation_file": "file-9a15f65790b54861b1e7ab88205309c2",
+  "created_at": 1757477315
+}

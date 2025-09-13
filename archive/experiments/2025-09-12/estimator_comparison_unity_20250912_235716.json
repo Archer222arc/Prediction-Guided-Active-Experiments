@@ -1,0 +1,46 @@
+{
+  "PGAE": {
+    "mse": 0.0002988138142140251,
+    "bias": -0.004739784898925459,
+    "variance": 0.0002763482533259433,
+    "avg_ci_length": 0.06984544046777331,
+    "coverage_rate": 0.94,
+    "execution_time": 5.497270107269287,
+    "n_experiments": 50
+  },
+  "Adaptive_PGAE": {
+    "mse": 0.0003116288311969973,
+    "bias": 0.0007984959271676306,
+    "variance": 0.000310991235451294,
+    "avg_ci_length": 0.06912121220150086,
+    "coverage_rate": 0.96,
+    "execution_time": 4.18312406539917,
+    "n_experiments": 50
+  },
+  "Active_Inference": {
+    "mse": 0.00044389925631405883,
+    "bias": 0.002087584006149834,
+    "variance": 0.0004395412493313271,
+    "avg_ci_length": 0.07206757433339944,
+    "coverage_rate": 0.9,
+    "execution_time": 2.0319559574127197,
+    "n_experiments": 50
+  },
+  "summary": {
+    "true_value": 1.8091962346125996,
+    "n_experiments": 50,
+    "n_true_labels": 500,
+    "alpha": 0.95,
+    "gamma": 0.5,
+    "total_execution_time": 11.712350130081177,
+    "parameters": {
+      "X": [
+        "EDUCATION"
+      ],
+      "F": "UNITY_LLM",
+      "Y": "UNITY",
+      "batch_size": 100,
+      "seed": 42
+    }
+  }
+}

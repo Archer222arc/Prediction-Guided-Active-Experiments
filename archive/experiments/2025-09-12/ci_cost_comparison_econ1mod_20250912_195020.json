@@ -1,0 +1,234 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 1200,
+    "avg_ci_length": 0.0972120438388353,
+    "results_snapshot": {
+      "mse": 0.0008119843417983142,
+      "coverage_rate": 0.95,
+      "variance": 0.0007910626173864828,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "ECON1MOD_LLM",
+        "Y": "ECON1MOD",
+        "gamma": 0.5,
+        "n_experiments": 20,
+        "n_true_labels": 1200,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.350787528249742
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.24093030085279715
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.171323350213641
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.11887857063880021
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.10114316516044304
+      },
+      {
+        "labels": 1200,
+        "avg_ci_length": 0.0972120438388353
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.09373474499798222
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08382890241266035
+      }
+    ],
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 2200,
+    "avg_ci_length": 0.09864393108449447,
+    "results_snapshot": {
+      "mse": 0.0005624700270096411,
+      "coverage_rate": 0.9,
+      "variance": 0.0005615785123966957,
+      "parameters": {
+        "Y": "ECON1MOD",
+        "n_experiments": 20,
+        "n_true_labels": 2200,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.4793470869450226
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.3328650935758752
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.2331958505200938
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.1630719566856341
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.11590516281668632
+      },
+      {
+        "labels": 2100,
+        "avg_ci_length": 0.10095649827909044
+      },
+      {
+        "labels": 2200,
+        "avg_ci_length": 0.09864393108449447
+      },
+      {
+        "labels": 2300,
+        "avg_ci_length": 0.09640356361174023
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.09225634302422683
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.0816542698436891
+      }
+    ],
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 1000,
+    "avg_ci_length": 0.09961846746666266,
+    "results_snapshot": {
+      "mse": 0.0005370227736023944,
+      "coverage_rate": 1.0,
+      "variance": 0.0005348035615532784,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "ECON1MOD_LLM",
+        "Y": "ECON1MOD",
+        "gamma": 0.5,
+        "n_experiments": 20,
+        "n_true_labels": 1000,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.3401830572279063
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.23146187628954157
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.16007060675157256
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.11331087006363547
+      },
+      {
+        "labels": 900,
+        "avg_ci_length": 0.10577671417052548
+      },
+      {
+        "labels": 1000,
+        "avg_ci_length": 0.09961846746666266
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.09434842048507233
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.08834307677693838
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.0790788371403118
+      }
+    ],
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 1400,
+    "avg_ci_length": 0.09646192176433073,
+    "results_snapshot": {
+      "mse": 0.0005736224810969992,
+      "coverage_rate": 0.9,
+      "variance": 0.0005708539266561029,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "ECON1MOD_LLM",
+        "Y": "ECON1MOD",
+        "gamma": 0.5,
+        "batch_size": 100,
+        "n_experiments": 20,
+        "n_true_labels": 1400,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.33925248270984676
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.2810562228513068
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.21017951854455705
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.13329275994653783
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.10153662127501564
+      },
+      {
+        "labels": 1400,
+        "avg_ci_length": 0.09646192176433073
+      },
+      {
+        "labels": 1500,
+        "avg_ci_length": 0.09279486756621344
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.08932411804089954
+      }
+    ],
+    "gamma": 0.5
+  }
+}

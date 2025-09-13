@@ -1,0 +1,122 @@
+{
+  "default": {
+    "params": {
+      "n_estimators": 100,
+      "max_depth": null,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "default"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 7.7704551219940186
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  },
+  "conservative": {
+    "params": {
+      "n_estimators": 50,
+      "max_depth": 10,
+      "min_samples_split": 5,
+      "min_samples_leaf": 2,
+      "random_state": 42,
+      "name": "conservative"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 9.538478136062622
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  },
+  "enhanced": {
+    "params": {
+      "n_estimators": 200,
+      "max_depth": 15,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "enhanced"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 8.835742235183716
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  },
+  "stable": {
+    "params": {
+      "n_estimators": 100,
+      "max_depth": 12,
+      "min_samples_split": 3,
+      "min_samples_leaf": 2,
+      "random_state": 42,
+      "name": "stable"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 9.094273090362549
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  },
+  "lightweight": {
+    "params": {
+      "n_estimators": 30,
+      "max_depth": 8,
+      "min_samples_split": 10,
+      "min_samples_leaf": 5,
+      "random_state": 42,
+      "name": "lightweight"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 9.222337007522583
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  },
+  "balanced": {
+    "params": {
+      "n_estimators": 75,
+      "max_depth": 12,
+      "min_samples_split": 5,
+      "min_samples_leaf": 1,
+      "random_state": 42,
+      "name": "balanced"
+    },
+    "results": {
+      "pgae": {
+        "mse": 0.0009165065901239974,
+        "bias": 0.0006213973998727695,
+        "variance": 0.0009161204553954283,
+        "coverage_rate": 0.9166666666666666,
+        "time": 7.851075649261475
+      },
+      "error": "Cannot index with multidimensional key"
+    }
+  }
+}

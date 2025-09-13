@@ -1,0 +1,234 @@
+{
+  "Active_Inference": {
+    "achieved": true,
+    "required_labels": 1000,
+    "avg_ci_length": 0.09527154668691379,
+    "results_snapshot": {
+      "mse": 0.0004024234764791487,
+      "coverage_rate": 1.0,
+      "variance": 0.0004020494207457426,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GPT1_LLM",
+        "Y": "GPT1",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 1000,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.30410184332924367
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.21483328810760205
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.15161510957653726
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.10677191260524477
+      },
+      {
+        "labels": 900,
+        "avg_ci_length": 0.10092430626804737
+      },
+      {
+        "labels": 1000,
+        "avg_ci_length": 0.09527154668691379
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.09059181357619121
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.08361264368015267
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.07546463688923397
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Naive": {
+    "achieved": true,
+    "required_labels": 1900,
+    "avg_ci_length": 0.09872313384370099,
+    "results_snapshot": {
+      "mse": 0.0006941898247822355,
+      "coverage_rate": 0.98,
+      "variance": 0.0006925602216066479,
+      "parameters": {
+        "Y": "GPT1",
+        "n_experiments": 50,
+        "n_true_labels": 1900,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.43585924477777915
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.30502272508741846
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.2149274063126005
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.15233260518087108
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.10752584070958028
+      },
+      {
+        "labels": 1800,
+        "avg_ci_length": 0.10145582354168209
+      },
+      {
+        "labels": 1900,
+        "avg_ci_length": 0.09872313384370099
+      },
+      {
+        "labels": 2100,
+        "avg_ci_length": 0.09379987132619425
+      },
+      {
+        "labels": 2500,
+        "avg_ci_length": 0.08602630499859457
+      },
+      {
+        "labels": 3200,
+        "avg_ci_length": 0.07601216049988548
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "PGAE": {
+    "achieved": true,
+    "required_labels": 800,
+    "avg_ci_length": 0.09716333069279662,
+    "results_snapshot": {
+      "mse": 0.0007022104373255253,
+      "coverage_rate": 0.9,
+      "variance": 0.0007009066073823986,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GPT1_LLM",
+        "Y": "GPT1",
+        "gamma": 0.5,
+        "n_experiments": 50,
+        "n_true_labels": 800,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.283374192647925
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.1961944511377444
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.13888012448732343
+      },
+      {
+        "labels": 700,
+        "avg_ci_length": 0.10380041415055904
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.09716333069279662
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.09716333069279662
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  },
+  "Adaptive_PGAE": {
+    "achieved": true,
+    "required_labels": 900,
+    "avg_ci_length": 0.09797218029514027,
+    "results_snapshot": {
+      "mse": 0.0005620554926102073,
+      "coverage_rate": 0.96,
+      "variance": 0.0005321127216866566,
+      "parameters": {
+        "X": [
+          "EDUCATION"
+        ],
+        "F": "GPT1_LLM",
+        "Y": "GPT1",
+        "gamma": 0.5,
+        "batch_size": 250,
+        "n_experiments": 50,
+        "n_true_labels": 900,
+        "alpha": 0.95
+      }
+    },
+    "audit": [
+      {
+        "labels": 100,
+        "avg_ci_length": 0.2911806868531486
+      },
+      {
+        "labels": 200,
+        "avg_ci_length": 0.20421649163952002
+      },
+      {
+        "labels": 400,
+        "avg_ci_length": 0.1425214440779702
+      },
+      {
+        "labels": 800,
+        "avg_ci_length": 0.10200671004462486
+      },
+      {
+        "labels": 900,
+        "avg_ci_length": 0.09797218029514027
+      },
+      {
+        "labels": 1000,
+        "avg_ci_length": 0.09381940116782632
+      },
+      {
+        "labels": 1100,
+        "avg_ci_length": 0.08948687627615463
+      },
+      {
+        "labels": 1300,
+        "avg_ci_length": 0.08195132527540401
+      },
+      {
+        "labels": 1600,
+        "avg_ci_length": 0.07322564713506056
+      }
+    ],
+    "tolerance": 0.0,
+    "gamma": 0.5
+  }
+}

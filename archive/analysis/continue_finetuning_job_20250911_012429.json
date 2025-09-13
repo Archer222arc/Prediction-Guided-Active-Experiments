@@ -1,0 +1,15 @@
+{
+  "continue_job_id": "ftjob-dcd411cff0cc4bd6b1de3498fc2a1877",
+  "base_job_id": "ftjob-a4f068c459104484b183fa8512d71379",
+  "base_model": "gpt-4.1-mini-2025-04-14.ft-a4f068c459104484b183fa8512d71379-npors-survey-predictor",
+  "use_best_checkpoint": true,
+  "hyperparameters": {
+    "batch_size": 16,
+    "learning_rate_multiplier": 0.03,
+    "n_epochs": 2,
+    "seed": 42
+  },
+  "created_at": 1757568270,
+  "status": "pending",
+  "training_samples": 21852
+}

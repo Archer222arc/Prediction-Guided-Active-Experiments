@@ -1,0 +1,61 @@
+{
+  "target": "ECON1MOD",
+  "mode": "fixed-labels",
+  "alpha": 0.95,
+  "experiments": 100,
+  "results": {
+    "PGAE": {
+      "achieved": true,
+      "required_labels": 1000,
+      "avg_ci_length": 0.10015418269310146,
+      "results_snapshot": {
+        "avg_ci_length": 0.10015418269310146,
+        "mse": 0.0006287144859703699,
+        "coverage_rate": 0.95,
+        "variance": 0.0006262273314826356,
+        "parameters": {
+          "X": [
+            "EDUCATION"
+          ],
+          "F": "ECON1MOD_LLM",
+          "Y": "ECON1MOD",
+          "gamma": 0.5,
+          "n_experiments": 100,
+          "n_true_labels": 1000,
+          "alpha": 0.95
+        }
+      },
+      "gamma": 0.5,
+      "method": "PGAE"
+    },
+    "Adaptive_PGAE": {
+      "achieved": true,
+      "required_labels": 1000,
+      "avg_ci_length": 0.1315735218550162,
+      "results_snapshot": {
+        "avg_ci_length": 0.1315735218550162,
+        "mse": 0.0013423513987956953,
+        "coverage_rate": 0.92,
+        "variance": 0.0013301457071937376,
+        "parameters": {
+          "X": [
+            "EDUCATION"
+          ],
+          "F": "ECON1MOD_LLM",
+          "Y": "ECON1MOD",
+          "gamma": 0.5,
+          "batch_size": 100,
+          "n_experiments": 100,
+          "n_true_labels": 1000,
+          "alpha": 0.95
+        }
+      },
+      "gamma": 0.5,
+      "batch_size": 100,
+      "design_update_freq": 1,
+      "warmup_batches": 0,
+      "method": "Adaptive_PGAE"
+    }
+  },
+  "labels": 1000
+}
